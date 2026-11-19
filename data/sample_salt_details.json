@@ -1,0 +1,330 @@
+{
+  "abacavir-3": {
+    "slug": "abacavir",
+    "id": 3,
+    "title": "abacavir",
+    "faqs": [
+      {
+        "question": "1. What is Abacavir used for?",
+        "answer": "Abacavir is used to treat HIV-1 infection. It is always given together with other antiretroviral medicines as part of a combination regimen, never on its own."
+      },
+      {
+        "question": "2. How does Abacavir work?",
+        "answer": "Abacavir is converted in the body to an active form called carbovir triphosphate, which blocks the HIV enzyme reverse transcriptase and stops the virus from completing new DNA copies of itself, slowing viral replication."
+      },
+      {
+        "question": "3. What is the HLA-B*5701 test and why is it needed before starting Abacavir?",
+        "answer": "HLA-B*5701 is a gene variant that raises the risk of a serious hypersensitivity reaction to Abacavir. Doctors test for this allele before starting treatment, and Abacavir is not given to anyone who tests positive for it."
+      },
+      {
+        "question": "4. Can Abacavir be taken with food?",
+        "answer": "Yes. Food has not been shown to have a clinically relevant effect on how Abacavir is absorbed, so it can be taken with or without meals."
+      },
+      {
+        "question": "5. Does Abacavir affect the ability to drive?",
+        "answer": "Abacavir can cause tiredness or headache in some people. Anyone who feels drowsy or unwell after taking it should be careful about driving or using machinery until they know how it affects them."
+      },
+      {
+        "question": "6. What should I do if I miss a dose of Abacavir?",
+        "answer": "Take the missed dose as soon as remembered. If it is close to the time for the next dose, skip the missed one rather than taking two doses together."
+      },
+      {
+        "question": "7. Can I drink alcohol while taking Abacavir?",
+        "answer": "Alcohol has been shown to increase Abacavir levels in the blood, so alcohol use while on Abacavir should be discussed with the treating doctor."
+      },
+      {
+        "question": "8. Is Abacavir habit-forming?",
+        "answer": "No. Abacavir is an antiretroviral medicine and has not been identified as habit-forming."
+      },
+      {
+        "question": "9. What happens if I have had a reaction to Abacavir before? Can I take it again?",
+        "answer": "No. Anyone who has had a hypersensitivity reaction to Abacavir should never take it again, since restarting the medicine after such a reaction can cause more severe symptoms, including death, within hours."
+      },
+      {
+        "question": "10. Is Abacavir safe to use during pregnancy?",
+        "answer": "Pregnancy registry data on Abacavir have not shown an increased rate of birth defects compared with the background rate, but any use during pregnancy should be supervised by the treating doctor."
+      }
+    ],
+    "htmlLength": 366800
+  },
+  "abacavir-dolutegravir-lamivudine-3313": {
+    "slug": "abacavir-dolutegravir-lamivudine",
+    "id": 3313,
+    "title": "Abacavir + Dolutegravir + Lamivudine",
+    "faqs": [],
+    "htmlLength": 120183
+  },
+  "abacavir-lamivudine-3325": {
+    "slug": "abacavir-lamivudine",
+    "id": 3325,
+    "title": "abacavir-lamivudine",
+    "faqs": [
+      {
+        "question": "1. Can Abacavir + Lamivudine be used on its own to treat HIV?",
+        "answer": "No. It is always used together with at least one other antiretroviral medicine as part of a combination regimen, never as the only medicine for HIV [1]."
+      },
+      {
+        "question": "2. Why is a blood test needed before starting this medicine?",
+        "answer": "The test checks for the HLA-B*5701 gene variant. People who carry this gene have a much higher chance of a serious hypersensitivity reaction to abacavir, so this combination should not be started without knowing the result [1][5]."
+      },
+      {
+        "question": "3. What should be done if a hypersensitivity reaction is suspected?",
+        "answer": "Contact a doctor immediately if fever, rash, nausea, vomiting, diarrhea, stomach pain, unusual tiredness, or breathing problems develop together. If a hypersensitivity reaction is confirmed or suspected, this medicine should never be restarted [1][2]."
+      },
+      {
+        "question": "4. What if someone also has hepatitis B?",
+        "answer": "Lamivudine, one of the two medicines in this combination, is also active against hepatitis B. If this medicine is stopped, hepatitis B can flare up severely, so a doctor will want to monitor liver function closely for some months afterward, and may need to start separate hepatitis B treatment [1]."
+      },
+      {
+        "question": "5. Can Abacavir + Lamivudine be taken with food?",
+        "answer": "Yes. It can be taken with or without food [2][3]."
+      },
+      {
+        "question": "6. What happens with a missed dose?",
+        "answer": "Take it as soon as remembered, unless it is almost time for the next dose, in which case the missed one should be skipped. A double dose should never be taken [1][2][3]."
+      },
+      {
+        "question": "7. Does alcohol affect this medicine?",
+        "answer": "Yes. Alcohol can raise abacavir levels in the blood by slowing its clearance from the body, so alcohol intake is worth discussing with a doctor [1]."
+      },
+      {
+        "question": "8. Is this combination suitable for children?",
+        "answer": "The fixed-dose tablet is meant for children weighing 25 kg or more. Children below this weight need the individual abacavir and lamivudine components dosed separately [1]."
+      },
+      {
+        "question": "9. Can Abacavir + Lamivudine be used with kidney or liver disease?",
+        "answer": "It is not recommended when creatinine clearance is below 30 mL per minute, and it is contraindicated in moderate to severe liver impairment. A doctor will decide whether the individual components are a better fit [1]."
+      },
+      {
+        "question": "10. Is Abacavir + Lamivudine habit-forming?",
+        "answer": "No, it is not classified as a habit-forming medicine."
+      }
+    ],
+    "htmlLength": 327595
+  },
+  "abatacept-138": {
+    "slug": "abatacept",
+    "id": 138,
+    "title": "abatacept",
+    "faqs": [
+      {
+        "question": "1. Is Abatacept a tablet I take by mouth?",
+        "answer": "No. Abatacept is given only as an intravenous infusion into a vein or as a subcutaneous injection under the skin; it does not come as an oral tablet or capsule [1][4]."
+      },
+      {
+        "question": "2. How long does it take for Abatacept to start working?",
+        "answer": "Abatacept is used for long-term disease control, and benefit is usually assessed over several months of regular treatment rather than after one dose, based on how it has been studied and used clinically [1][3]."
+      },
+      {
+        "question": "3. Can Abatacept be used together with other biologic arthritis medicines?",
+        "answer": "No. Combining abatacept with TNF inhibitors, other biologic DMARDs, or JAK inhibitors is not recommended, because it increases the risk of serious infections without added benefit [1][2]."
+      },
+      {
+        "question": "4. Do I need any tests before starting Abatacept?",
+        "answer": "Screening for latent tuberculosis and hepatitis B infection is recommended before starting abatacept, since both conditions can reactivate during treatment [1][5]."
+      },
+      {
+        "question": "5. Can I have vaccinations while on Abatacept?",
+        "answer": "Live vaccines should be avoided while on abatacept. Discuss any vaccination, including routine ones, with your doctor before receiving it [1]."
+      },
+      {
+        "question": "6. Is Abatacept habit forming?",
+        "answer": "Abatacept is a biologic disease-modifying drug for autoimmune conditions. It is not classified as a controlled substance, and the prescribing information does not describe any habit-forming or dependence potential [1]."
+      },
+      {
+        "question": "7. What should I do if I miss a dose of Abatacept?",
+        "answer": "For a missed subcutaneous injection, contact your doctor or nurse for guidance on the next dose rather than doubling up. For a missed IV infusion appointment, contact the clinic as soon as possible to reschedule [2]."
+      },
+      {
+        "question": "8. Does Abatacept increase the risk of infections?",
+        "answer": "Yes. Because it suppresses part of the immune system, abatacept increases the risk of infections, including serious infections, compared with placebo in clinical trials [1]."
+      }
+    ],
+    "htmlLength": 222459
+  },
+  "acarbose-10": {
+    "slug": "acarbose",
+    "id": 10,
+    "title": "acarbose",
+    "faqs": [
+      {
+        "question": "Does Acarbose cause weight gain?",
+        "answer": "No, unlike insulin or sulfonylureas, Acarbose is weight-neutral and may even assist with slight weight loss in some patients.\n"
+      },
+      {
+        "question": "Why do I have so much gas?\n",
+        "answer": "This happens because undigested carbohydrates reach the colon, where natural bacteria break them down, releasing gas. This usually improves over time.\n"
+      },
+      {
+        "question": "Can I take it if I am not eating carbs?\n",
+        "answer": "If a meal has no carbohydrates, the medicine has nothing to work on. It is only useful for meals containing carbs.\n"
+      },
+      {
+        "question": " Can I use candy to treat a low while on Acarbose?\n",
+        "answer": "No. Acarbose prevents your body from digesting the sugar in candy. You must use pure glucose tablets or gel.\n"
+      },
+      {
+        "question": "Is it safe for the liver?\n",
+        "answer": "It is generally safe, but high doses have occasionally raised liver enzymes, so your doctor will check your blood periodically."
+      },
+      {
+        "question": "Can I take it with Metformin?",
+        "answer": "Yes, they are often used together to target blood sugar from two different angles.\n"
+      },
+      {
+        "question": "Does it cause hypoglycemia?\n",
+        "answer": "On its own, no. But if you take it with insulin or other diabetes pills, the risk of a low increases.\n"
+      },
+      {
+        "question": " What if I swallow the pill 30 minutes before I eat?\n",
+        "answer": "It will not work as well. It needs to be in your intestine at the same time as your food.\n"
+      },
+      {
+        "question": "Can I take it for Type 1 diabetes?\n",
+        "answer": "It is occasionally used for Type 1, but it is primarily approved and used for Type 2 diabetes.\n"
+      },
+      {
+        "question": "Why are my bowel sounds so loud?\n",
+        "answer": "This is a common side effect of the gut's fermentation process; it is harmless but can be noisy.\n"
+      },
+      {
+        "question": "Does it interfere with my heart medicine?\n",
+        "answer": "It can slightly reduce Digoxin's absorption, so your doctor may need to monitor your heart more closely."
+      },
+      {
+        "question": "Can I use Beano to stop the gas?\n",
+        "answer": "No. Products that contain digestive enzymes will make the medicine ineffective by doing the job Acarbose is trying to block.\n"
+      },
+      {
+        "question": "Does it expire?\n",
+        "answer": "Yes, check the date. Acarbose is sensitive to moisture and can lose effectiveness if expired or poorly stored.\n"
+      },
+      {
+        "question": " Can I drink milk while taking this?\n",
+        "answer": "Yes, but Acarbose may slightly delay lactose digestion (milk sugar).\n"
+      },
+      {
+        "question": "Is Acarbose habit-forming?\n",
+        "answer": "No, there is no risk of addiction or dependency with Acarbose.\n"
+      }
+    ],
+    "htmlLength": 459988
+  },
+  "acebrophylline-11": {
+    "slug": "acebrophylline",
+    "id": 11,
+    "title": "acebrophylline",
+    "faqs": [
+      {
+        "question": "What is Acebrophylline primarily used for?",
+        "answer": "It is used for the long-term treatment of chronic respiratory diseases like COPD, bronchial asthma, and chronic bronchitis, especially when there is excessive mucus production."
+      },
+      {
+        "question": "How often should I take this capsule?",
+        "answer": "Typically, it is taken once or twice daily, depending on your doctor's assessment. Always maintain a consistent schedule."
+      },
+      {
+        "question": "Should I take Acebrophylline with food?",
+        "answer": "Yes, it is strongly recommended to take this capsule after meals (post-prandially) to reduce stomach irritation and the risk of nausea."
+      },
+      {
+        "question": "How long does it take for Acebrophylline to start working?",
+        "answer": "You may notice an improvement in breathing and mucus clearance within a few days, but the full therapeutic benefit may take several weeks of continuous use."
+      },
+      {
+        "question": "What makes Acebrophylline different from other asthma inhalers?",
+        "answer": "Inhalers are often fast-acting rescue medications or corticosteroids. Acebrophylline is an oral maintenance capsule that offers the unique combination of opening the airways (bronchodilation) and thinning mucus (mucolysis)."
+      },
+      {
+        "question": "Will this medication cause a fast heart rate?",
+        "answer": "Acebrophylline, due to its xanthine derivative structure, can cause side effects like palpitations or a slightly fast heart rate. If this is severe or bothersome, consult your doctor."
+      },
+      {
+        "question": "Is it safe to stop taking Acebrophylline when my breathing improves?",
+        "answer": "No. This is a maintenance drug. Stopping it suddenly can cause your respiratory symptoms to flare up. Continue taking it unless your doctor advises otherwise."
+      },
+      {
+        "question": "Can I take cough syrup with this medication?",
+        "answer": "Yes, unless the cough syrup contains another mucolytic agent. However, avoid taking other bronchodilators unless approved by your doctor to prevent overstimulation."
+      },
+      {
+        "question": "What should I drink to help this medication work better?",
+        "answer": "You should drink plenty of plain water, as good hydration helps the mucolytic component thin the mucus, making it easier to cough out."
+      },
+      {
+        "question": "Is this medication safe if I have heart problems?",
+        "answer": "It is generally contraindicated (not recommended) for patients with severe, unstable heart conditions or a recent heart attack. Your doctor must be aware of your complete cardiac history."
+      },
+      {
+        "question": "Do I need to limit my coffee or tea intake?",
+        "answer": "Yes, limit high-caffeine beverages, as caffeine is similar to the active component of this drug and can increase the risk of side effects like tremors or insomnia."
+      },
+      {
+        "question": "Can Acebrophylline be used for sudden, acute asthma attacks?",
+        "answer": "No, this is a slow-acting maintenance medication and should not be used for sudden, acute breathing difficulties. Use your prescribed rescue inhaler for attacks."
+      },
+      {
+        "question": "Why do doctors require liver/kidney tests when prescribing this?",
+        "answer": "Acebrophylline is broken down by the liver and excreted by the kidneys. Impaired function in these organs can lead to the drug building up to toxic levels, so monitoring is essential."
+      },
+      {
+        "question": "What are the signs of a high drug level or toxicity?",
+        "answer": "Persistent vomiting, extreme restlessness, severe headache, and unusual heart rhythms are signs of possible toxicity and require immediate medical attention."
+      },
+      {
+        "question": "Does smoking affect the dose of Acebrophylline?",
+        "answer": "Yes. Smoking causes your body to break down Acebrophylline faster. Smokers often require a higher or more frequent dose than non-smokers, which your doctor will determine."
+      }
+    ],
+    "htmlLength": 494269
+  },
+  "paracetamol-62": {
+    "slug": "paracetamol",
+    "id": 62,
+    "title": "paracetamol",
+    "faqs": [],
+    "htmlLength": 36672
+  },
+  "ibuprofen-45": {
+    "slug": "ibuprofen",
+    "id": 45,
+    "title": "ibuprofen",
+    "faqs": [],
+    "htmlLength": 37539
+  },
+  "metformin-25": {
+    "slug": "metformin",
+    "id": 25,
+    "title": "metformin",
+    "faqs": [],
+    "htmlLength": 204797
+  },
+  "atorvastatin-88": {
+    "slug": "atorvastatin",
+    "id": 88,
+    "title": "atorvastatin",
+    "faqs": [],
+    "htmlLength": 98679
+  },
+  "pantoprazole-105": {
+    "slug": "pantoprazole",
+    "id": 105,
+    "title": "pantoprazole",
+    "faqs": [],
+    "htmlLength": 102771
+  },
+  "amoxicillin-50": {
+    "slug": "amoxicillin",
+    "id": 50,
+    "title": "amoxicillin",
+    "faqs": [],
+    "htmlLength": 56712
+  },
+  "azithromycin-75": {
+    "slug": "azithromycin",
+    "id": 75,
+    "title": "azithromycin",
+    "faqs": [],
+    "htmlLength": 61504
+  }
+}

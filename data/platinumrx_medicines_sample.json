@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "a-125mg-suspension-60ml",
+    "id": "1062178",
+    "name": "A 125mg Suspension 60ml",
+    "manufacturer": "Adventure Life Sciences Pvt. Ltd.",
+    "price": 25,
+    "packageSize": "Bottle of 60 ml",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a-13-cream-10gm",
+    "id": "1362728",
+    "name": "A 13 Cream 10gm",
+    "manufacturer": "Indi Pharma",
+    "price": 55,
+    "packageSize": "Tube of 10 gm",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a1-5mg-tablet-10s-pasteur-",
+    "id": "1413715",
+    "name": "A1 5mg Tablet 10s (Pasteur)",
+    "manufacturer": "Pasteur Laboratories Pvt. Ltd.",
+    "price": 11,
+    "packageSize": "Strip of 10 tablets",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a-1-5mg-tablet-10s-patson-",
+    "id": "1114444",
+    "name": "A 1 5mg Tablet 10s (Patson)",
+    "manufacturer": "Patson Laboratories Pvt. Ltd.",
+    "price": 11,
+    "packageSize": "Strip of 10 tablets",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a1a-10-75mg-capsule-10s",
+    "id": "1261679",
+    "name": "A1A 10/75mg Capsule 10s",
+    "manufacturer": "Strides shasun Ltd.",
+    "price": 56,
+    "packageSize": "Strip of 10 capsules",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a1-mox-xl-400-57mg-oral-solution-60ml",
+    "id": "1919183",
+    "name": "A1 Mox XL 400/57mg Oral Solution 60ml",
+    "manufacturer": "Biotree Formulations Pvt. Ltd.",
+    "price": 299,
+    "packageSize": "Bottle of 60 ml",
+    "image": "https://plrx.gumlet.io/be9f13ca-606d-46db-9402-fb6b4a262a6f.png?w=640&amp;q=80"
+  },
+  {
+    "slug": "a24-250mg-tablet-6s",
+    "id": "1117643",
+    "name": "A24 250mg Tablet 6s",
+    "manufacturer": "Comed Chemicals Ltd.",
+    "price": 53,
+    "packageSize": "Strip of 6 tablets",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a24-500mg-tablet-3s",
+    "id": "1867071",
+    "name": "A24 500mg Tablet 3s",
+    "manufacturer": "Comed Chemicals Ltd.",
+    "price": 60,
+    "packageSize": "Strip of 3 Tablets",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a24-500mg-tablet-5s",
+    "id": "1248700",
+    "name": "A24 500mg Tablet 5s",
+    "manufacturer": "Comed Chemicals Ltd.",
+    "price": 104,
+    "packageSize": "Strip of 5 tablets",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a-250mg-suspension-60ml",
+    "id": "1048325",
+    "name": "A 250mg Suspension 60ml",
+    "manufacturer": "Adventure Life Sciences Pvt. Ltd.",
+    "price": 28,
+    "packageSize": "Bottle of 60 ml",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a2-5-10mg-tablet-10s",
+    "id": "1119081",
+    "name": "A2 5/10mg Tablet 10s",
+    "manufacturer": "Zydus Cadila",
+    "price": 37,
+    "packageSize": "Strip of 10 tablets",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a2-5-50mg-tablet-10s",
+    "id": "1115908",
+    "name": "A2 5/50mg Tablet 10s",
+    "manufacturer": "Patson Laboratories Pvt. Ltd.",
+    "price": 17,
+    "packageSize": "Strip of 10 tablets",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  }
+]

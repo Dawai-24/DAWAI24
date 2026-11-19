@@ -1,0 +1,3489 @@
+{
+  "0-9": {
+    "letter": "0-9",
+    "totalPages": 1,
+    "brands": [
+      {
+        "slug": "10-drug-mart",
+        "name": "10 Drug Mart",
+        "url": "/brands/10-drug-mart"
+      },
+      {
+        "slug": "1ratti-ratti-ratti-me-purity",
+        "name": "1ratti- Ratti Ratti Me Purity",
+        "url": "/brands/1ratti-ratti-ratti-me-purity"
+      },
+      {
+        "slug": "3a-pharmaceuticals",
+        "name": "3A Pharmaceuticals",
+        "url": "/brands/3a-pharmaceuticals"
+      },
+      {
+        "slug": "3c-health-solution-pvt-ltd",
+        "name": "3C Health Solution Pvt. Ltd.",
+        "url": "/brands/3c-health-solution-pvt-ltd"
+      },
+      {
+        "slug": "3c-pharmaceuticals-pvt-ltd",
+        "name": "3C Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/3c-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "3d-healthcare",
+        "name": "3D Healthcare",
+        "url": "/brands/3d-healthcare"
+      },
+      {
+        "slug": "3m-india-ltd",
+        "name": "3M India Ltd.",
+        "url": "/brands/3m-india-ltd"
+      },
+      {
+        "slug": "4care-lifescience-pvt-ltd",
+        "name": "4Care Lifescience Pvt. Ltd.",
+        "url": "/brands/4care-lifescience-pvt-ltd"
+      },
+      {
+        "slug": "4life-pharmaceuticals-pvt-ltd",
+        "name": "4life Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/4life-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "6ipain-healthcare-pvt-ltd",
+        "name": "6ipain Healthcare Pvt. Ltd.",
+        "url": "/brands/6ipain-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "6th-and-natural",
+        "name": "6th and Natural",
+        "url": "/brands/6th-and-natural"
+      },
+      {
+        "slug": "6th-skin-pharmaceuticals-pvt-ltd",
+        "name": "6th Skin Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/6th-skin-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "7-days-organic-pvt-ltd",
+        "name": "7 Days Organic Pvt. Ltd.",
+        "url": "/brands/7-days-organic-pvt-ltd"
+      },
+      {
+        "slug": "911-dermatology-pvt-ltd",
+        "name": "911 Dermatology Pvt. Ltd.",
+        "url": "/brands/911-dermatology-pvt-ltd"
+      },
+      {
+        "slug": "9m-medical-system-co",
+        "name": "9M Medical System Co",
+        "url": "/brands/9m-medical-system-co"
+      }
+    ]
+  },
+  "A": {
+    "letter": "A",
+    "totalPages": 54,
+    "brands": [
+      {
+        "slug": "a-b-enterprises",
+        "name": "A B Enterprises",
+        "url": "/brands/a-b-enterprises"
+      },
+      {
+        "slug": "a-d-pharmaceuticals",
+        "name": "A D Pharmaceuticals",
+        "url": "/brands/a-d-pharmaceuticals"
+      },
+      {
+        "slug": "a-n-pharmacia-laboratories-pvt-ltd",
+        "name": "A N Pharmacia Laboratories Pvt. Ltd.",
+        "url": "/brands/a-n-pharmacia-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "a-one-cosmetics-products",
+        "name": "A One Cosmetics Products",
+        "url": "/brands/a-one-cosmetics-products"
+      },
+      {
+        "slug": "a-r-enterprises",
+        "name": "A R Enterprises",
+        "url": "/brands/a-r-enterprises"
+      },
+      {
+        "slug": "a-star-marketing-pvt-ltd",
+        "name": "A Star Marketing Pvt. Ltd.",
+        "url": "/brands/a-star-marketing-pvt-ltd"
+      },
+      {
+        "slug": "a-to-z-pharmaceuticals-pvt-ltd",
+        "name": "A To Z Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/a-to-z-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "a-v-gupta-co-pvt-ltd",
+        "name": "A V Gupta & Co. Pvt. Ltd.",
+        "url": "/brands/a-v-gupta-co-pvt-ltd"
+      },
+      {
+        "slug": "a-v-molecules-pvt-ltd",
+        "name": "A V Molecules Pvt. Ltd.",
+        "url": "/brands/a-v-molecules-pvt-ltd"
+      },
+      {
+        "slug": "a-v-pharmaceuticals",
+        "name": "A V Pharmaceuticals",
+        "url": "/brands/a-v-pharmaceuticals"
+      },
+      {
+        "slug": "a-life-pharmaceuticals-pvt-ltd",
+        "name": "A-Life Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/a-life-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "a-b-pharmaceuticals-pvt-ltd",
+        "name": "A. B Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/a-b-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "a-menarini-india-pvt-ltd",
+        "name": "A. Menarini India Pvt. Ltd.",
+        "url": "/brands/a-menarini-india-pvt-ltd"
+      },
+      {
+        "slug": "a-s-life-science-pvt-ltd",
+        "name": "A.S. Life science Pvt. Ltd.",
+        "url": "/brands/a-s-life-science-pvt-ltd"
+      },
+      {
+        "slug": "a-d-pharma",
+        "name": "A&D Pharma",
+        "url": "/brands/a-d-pharma"
+      },
+      {
+        "slug": "a2-agencies-pvt-ltd",
+        "name": "A2 Agencies Pvt. Ltd.",
+        "url": "/brands/a2-agencies-pvt-ltd"
+      },
+      {
+        "slug": "a4-pharma-pvt-ltd",
+        "name": "A4 Pharma Pvt. Ltd.",
+        "url": "/brands/a4-pharma-pvt-ltd"
+      },
+      {
+        "slug": "aaa-pharma-trade-pvt-ltd",
+        "name": "AAA Pharma Trade Pvt. Ltd.",
+        "url": "/brands/aaa-pharma-trade-pvt-ltd"
+      },
+      {
+        "slug": "aabtac-lifecare-pvt-ltd",
+        "name": "Aabtac Lifecare Pvt. Ltd.",
+        "url": "/brands/aabtac-lifecare-pvt-ltd"
+      },
+      {
+        "slug": "aachman-veda",
+        "name": "Aachman Veda",
+        "url": "/brands/aachman-veda"
+      },
+      {
+        "slug": "aadi-healthcare",
+        "name": "Aadi Healthcare",
+        "url": "/brands/aadi-healthcare"
+      },
+      {
+        "slug": "aadi-medicos-lab-pvt-ltd",
+        "name": "Aadi Medicos Lab Pvt. Ltd.",
+        "url": "/brands/aadi-medicos-lab-pvt-ltd"
+      },
+      {
+        "slug": "aady-healthcare",
+        "name": "Aady Healthcare",
+        "url": "/brands/aady-healthcare"
+      },
+      {
+        "slug": "aaeka-pharmaceuticals",
+        "name": "Aaeka Pharmaceuticals",
+        "url": "/brands/aaeka-pharmaceuticals"
+      },
+      {
+        "slug": "aagam-life-sciences-pvt-ltd",
+        "name": "Aagam Life Sciences Pvt. Ltd.",
+        "url": "/brands/aagam-life-sciences-pvt-ltd"
+      }
+    ]
+  },
+  "B": {
+    "letter": "B",
+    "totalPages": 25,
+    "brands": [
+      {
+        "slug": "b-tex-ointment-mfg-co",
+        "name": "B-Tex Ointment Mfg. Co.",
+        "url": "/brands/b-tex-ointment-mfg-co"
+      },
+      {
+        "slug": "b-braun-medical-india-pvt-ltd",
+        "name": "B. Braun Medical India Pvt. Ltd.",
+        "url": "/brands/b-braun-medical-india-pvt-ltd"
+      },
+      {
+        "slug": "b-d-pharmaceutical-works-pvt-ltd",
+        "name": "B. D. Pharmaceutical Works Pvt. Ltd.",
+        "url": "/brands/b-d-pharmaceutical-works-pvt-ltd"
+      },
+      {
+        "slug": "b-g-biotech",
+        "name": "B. G. Biotech",
+        "url": "/brands/b-g-biotech"
+      },
+      {
+        "slug": "b-l-pharma-ltd",
+        "name": "B. L. Pharma Ltd.",
+        "url": "/brands/b-l-pharma-ltd"
+      },
+      {
+        "slug": "b-m-medico-pvt-ltd",
+        "name": "B. M. Medico Pvt. Ltd.",
+        "url": "/brands/b-m-medico-pvt-ltd"
+      },
+      {
+        "slug": "b-p-p-life-sciences",
+        "name": "B. P. P. Life Sciences",
+        "url": "/brands/b-p-p-life-sciences"
+      },
+      {
+        "slug": "b-j-healthcare",
+        "name": "B.J.Healthcare",
+        "url": "/brands/b-j-healthcare"
+      },
+      {
+        "slug": "b-q-u-pharma-pvt-ltd",
+        "name": "B.Q.U. Pharma Pvt. Ltd.",
+        "url": "/brands/b-q-u-pharma-pvt-ltd"
+      },
+      {
+        "slug": "babuline-pharma",
+        "name": "Babuline Pharma",
+        "url": "/brands/babuline-pharma"
+      },
+      {
+        "slug": "baby-safety-inc",
+        "name": "Baby Safety Inc.",
+        "url": "/brands/baby-safety-inc"
+      },
+      {
+        "slug": "bacans-biotech-pvt-ltd",
+        "name": "Bacans Biotech Pvt. Ltd.",
+        "url": "/brands/bacans-biotech-pvt-ltd"
+      },
+      {
+        "slug": "bacchus-pharma",
+        "name": "Bacchus Pharma",
+        "url": "/brands/bacchus-pharma"
+      },
+      {
+        "slug": "bacfo-pharmaceuticals-india-ltd",
+        "name": "BACFO Pharmaceuticals India Ltd.",
+        "url": "/brands/bacfo-pharmaceuticals-india-ltd"
+      },
+      {
+        "slug": "bactolac-formulations-pvt-ltd",
+        "name": "Bactolac Formulations Pvt. Ltd.",
+        "url": "/brands/bactolac-formulations-pvt-ltd"
+      },
+      {
+        "slug": "badrivas-biotech-pvt-ltd",
+        "name": "Badrivas Biotech Pvt. Ltd.",
+        "url": "/brands/badrivas-biotech-pvt-ltd"
+      },
+      {
+        "slug": "bafna-pharmaceutical-ltd",
+        "name": "Bafna Pharmaceutical Ltd.",
+        "url": "/brands/bafna-pharmaceutical-ltd"
+      },
+      {
+        "slug": "bageo-pharmaceuticals-pvt-ltd",
+        "name": "Bageo Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/bageo-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "bagmi-remedies-pvt-ltd",
+        "name": "Bagmi Remedies Pvt. Ltd.",
+        "url": "/brands/bagmi-remedies-pvt-ltd"
+      },
+      {
+        "slug": "bajaj-consumer-care-ltd",
+        "name": "Bajaj Consumer Care Ltd.",
+        "url": "/brands/bajaj-consumer-care-ltd"
+      },
+      {
+        "slug": "bajaj-formulations",
+        "name": "Bajaj Formulations",
+        "url": "/brands/bajaj-formulations"
+      },
+      {
+        "slug": "bajaj-nutraceuticals",
+        "name": "Bajaj Nutraceuticals",
+        "url": "/brands/bajaj-nutraceuticals"
+      },
+      {
+        "slug": "bajaj-pharmaceutical",
+        "name": "Bajaj Pharmaceutical",
+        "url": "/brands/bajaj-pharmaceutical"
+      },
+      {
+        "slug": "bake-cosmetics-pvt-ltd",
+        "name": "Bake Cosmetics Pvt. Ltd.",
+        "url": "/brands/bake-cosmetics-pvt-ltd"
+      },
+      {
+        "slug": "bakson-drugs-pharmaceuticals-pvt-ltd",
+        "name": "Bakson Drugs &  Pharmaceuticals Pvt. ltd.",
+        "url": "/brands/bakson-drugs-pharmaceuticals-pvt-ltd"
+      }
+    ]
+  },
+  "C": {
+    "letter": "C",
+    "totalPages": 23,
+    "brands": [
+      {
+        "slug": "c-b-pharma",
+        "name": "C & B Pharma",
+        "url": "/brands/c-b-pharma"
+      },
+      {
+        "slug": "c-c-pharmaceutical",
+        "name": "C & C Pharmaceutical",
+        "url": "/brands/c-c-pharmaceutical"
+      },
+      {
+        "slug": "c-m-r-life-sciences",
+        "name": "C M R Life Sciences",
+        "url": "/brands/c-m-r-life-sciences"
+      },
+      {
+        "slug": "c-f-l-pharma-ltd",
+        "name": "C. F. L Pharma Ltd.",
+        "url": "/brands/c-f-l-pharma-ltd"
+      },
+      {
+        "slug": "cablin-healthcare-pvt-ltd",
+        "name": "Cablin Healthcare Pvt. Ltd.",
+        "url": "/brands/cablin-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "cachet-pharmaceuticals-pvt-ltd",
+        "name": "Cachet Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/cachet-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "cad-pharma-inc",
+        "name": "Cad Pharma Inc.",
+        "url": "/brands/cad-pharma-inc"
+      },
+      {
+        "slug": "cadbless-life-care",
+        "name": "Cadbless Life Care",
+        "url": "/brands/cadbless-life-care"
+      },
+      {
+        "slug": "caddes-life-sciences",
+        "name": "Caddes Life Sciences",
+        "url": "/brands/caddes-life-sciences"
+      },
+      {
+        "slug": "caddiline-exim-pvt-ltd",
+        "name": "Caddiline Exim Pvt. Ltd.",
+        "url": "/brands/caddiline-exim-pvt-ltd"
+      },
+      {
+        "slug": "caddix-healthcare",
+        "name": "Caddix Healthcare",
+        "url": "/brands/caddix-healthcare"
+      },
+      {
+        "slug": "cadell-healthcare-pvt-ltd",
+        "name": "Cadell Healthcare Pvt. Ltd.",
+        "url": "/brands/cadell-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "cadex-laboratories",
+        "name": "Cadex Laboratories",
+        "url": "/brands/cadex-laboratories"
+      },
+      {
+        "slug": "cadila-healthcare-ltd",
+        "name": "Cadila Healthcare Ltd.",
+        "url": "/brands/cadila-healthcare-ltd"
+      },
+      {
+        "slug": "cadila-pharmaceuticals-ltd",
+        "name": "Cadila Pharmaceuticals Ltd.",
+        "url": "/brands/cadila-pharmaceuticals-ltd"
+      },
+      {
+        "slug": "cadman-healthcare",
+        "name": "Cadman Healthcare",
+        "url": "/brands/cadman-healthcare"
+      },
+      {
+        "slug": "cadmus-clinical-laboratories",
+        "name": "Cadmus Clinical Laboratories",
+        "url": "/brands/cadmus-clinical-laboratories"
+      },
+      {
+        "slug": "cadomax-healthcare-pvt-ltd",
+        "name": "Cadomax Healthcare Pvt. Ltd.",
+        "url": "/brands/cadomax-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "cadomed-pharmaceuticals-pvt-ltd",
+        "name": "Cadomed Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/cadomed-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "cadsol-life-sciences-llp",
+        "name": "Cadsol Life Sciences LLP",
+        "url": "/brands/cadsol-life-sciences-llp"
+      },
+      {
+        "slug": "cadwell-pharma-pvt-ltd",
+        "name": "Cadwell Pharma Pvt. Ltd.",
+        "url": "/brands/cadwell-pharma-pvt-ltd"
+      },
+      {
+        "slug": "cagrus-biopharma",
+        "name": "Cagrus Biopharma",
+        "url": "/brands/cagrus-biopharma"
+      },
+      {
+        "slug": "caldern-pharmaceuticals-ltd",
+        "name": "Caldern Pharmaceuticals Ltd.",
+        "url": "/brands/caldern-pharmaceuticals-ltd"
+      },
+      {
+        "slug": "calen-biotech",
+        "name": "Calen Biotech",
+        "url": "/brands/calen-biotech"
+      },
+      {
+        "slug": "calgill-pharma-pvt-ltd",
+        "name": "Calgill Pharma Pvt. Ltd.",
+        "url": "/brands/calgill-pharma-pvt-ltd"
+      }
+    ]
+  },
+  "D": {
+    "letter": "D",
+    "totalPages": 18,
+    "brands": [
+      {
+        "slug": "d-c-m-laboratories",
+        "name": "D C M Laboratories",
+        "url": "/brands/d-c-m-laboratories"
+      },
+      {
+        "slug": "d-cross-pharmaceuticals-pvt-ltd",
+        "name": "D Cross Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/d-cross-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "d-d-pharmaceuticals",
+        "name": "D D Pharmaceuticals",
+        "url": "/brands/d-d-pharmaceuticals"
+      },
+      {
+        "slug": "d-k-livkon-healthcare-pvt-ltd",
+        "name": "D K Livkon Healthcare Pvt. Ltd.",
+        "url": "/brands/d-k-livkon-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "d-r-johns-lab-pharma-pvt-ltd",
+        "name": "D R Johns Lab Pharma Pvt. Ltd.",
+        "url": "/brands/d-r-johns-lab-pharma-pvt-ltd"
+      },
+      {
+        "slug": "d-cure-pharmaceuticals-pvt-ltd",
+        "name": "D-Cure Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/d-cure-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "d-d-nutritions-india",
+        "name": "D. D N`utritions India",
+        "url": "/brands/d-d-nutritions-india"
+      },
+      {
+        "slug": "d-g-pharmaceuticals",
+        "name": "D.G Pharmaceuticals",
+        "url": "/brands/d-g-pharmaceuticals"
+      },
+      {
+        "slug": "d-j-laboratories-pvt-ltd",
+        "name": "D.J Laboratories Pvt. Ltd.",
+        "url": "/brands/d-j-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "d-m-care-biotech-pvt-ltd",
+        "name": "D.M. Care Biotech Pvt. Ltd.",
+        "url": "/brands/d-m-care-biotech-pvt-ltd"
+      },
+      {
+        "slug": "d-s-lab",
+        "name": "D.S. Lab",
+        "url": "/brands/d-s-lab"
+      },
+      {
+        "slug": "dlight-lifescience-pvt-ltd",
+        "name": "D'light Lifescience Pvt. Ltd.",
+        "url": "/brands/dlight-lifescience-pvt-ltd"
+      },
+      {
+        "slug": "daaso-pharmaceuticals-pvt-ltd",
+        "name": "Daaso Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/daaso-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "dabur-india-ltd",
+        "name": "Dabur India Ltd.",
+        "url": "/brands/dabur-india-ltd"
+      },
+      {
+        "slug": "daddyz-pharmaceuticals",
+        "name": "Daddyz Pharmaceuticals",
+        "url": "/brands/daddyz-pharmaceuticals"
+      },
+      {
+        "slug": "daeiou-pharmaceutical-pvt-ltd",
+        "name": "Daeiou Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/daeiou-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "daemon-pharma-pvt-ltd",
+        "name": "Daemon Pharma Pvt. Ltd.",
+        "url": "/brands/daemon-pharma-pvt-ltd"
+      },
+      {
+        "slug": "daffodil-drugs-pvt-ltd",
+        "name": "Daffodil Drugs Pvt. Ltd.",
+        "url": "/brands/daffodil-drugs-pvt-ltd"
+      },
+      {
+        "slug": "daffohils-laboratories-pvt-ltd",
+        "name": "Daffohils Laboratories Pvt. Ltd.",
+        "url": "/brands/daffohils-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "daffoworth-pharmaceutical-pvt-ltd",
+        "name": "Daffoworth Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/daffoworth-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "dagon-pharmaceuticals-pvt-ltd",
+        "name": "Dagon Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/dagon-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "dahlia-pharmaceutical-pvt-ltd",
+        "name": "Dahlia Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/dahlia-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "daikon-pharmaceuticals-pvt-ltd",
+        "name": "Daikon Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/daikon-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "daiwa-pharmaceuticals-pvt-ltd",
+        "name": "Daiwa Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/daiwa-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "daiwik-lifesciences",
+        "name": "Daiwik Lifesciences",
+        "url": "/brands/daiwik-lifesciences"
+      }
+    ]
+  },
+  "E": {
+    "letter": "E",
+    "totalPages": 19,
+    "brands": [
+      {
+        "slug": "e-healthcare",
+        "name": "E Healthcare",
+        "url": "/brands/e-healthcare"
+      },
+      {
+        "slug": "e-derma-pharma-india-pvt-ltd-7865",
+        "name": "e-derma  Pharma India Pvt. Ltd.",
+        "url": "/brands/e-derma-pharma-india-pvt-ltd-7865"
+      },
+      {
+        "slug": "e-derma-pharma-india-pvt-ltd",
+        "name": "e-derma Pharma India Pvt. Ltd.",
+        "url": "/brands/e-derma-pharma-india-pvt-ltd"
+      },
+      {
+        "slug": "e-g-pharma-pvt-ltd",
+        "name": "E.G Pharma Pvt. Ltd.",
+        "url": "/brands/e-g-pharma-pvt-ltd"
+      },
+      {
+        "slug": "eagle-eye-healthcare-pvt-ltd",
+        "name": "Eagle-Eye Healthcare Pvt. Ltd.",
+        "url": "/brands/eagle-eye-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "ealpharm-life-sciences-pvt-ltd",
+        "name": "Ealpharm Life Sciences Pvt. Ltd.",
+        "url": "/brands/ealpharm-life-sciences-pvt-ltd"
+      },
+      {
+        "slug": "eamon-drugs-pvt-ltd",
+        "name": "Eamon Drugs Pvt. Ltd.",
+        "url": "/brands/eamon-drugs-pvt-ltd"
+      },
+      {
+        "slug": "earl-pharmaceuticals-pvt-ltd",
+        "name": "Earl Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/earl-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "earth-biotech",
+        "name": "Earth Biotech",
+        "url": "/brands/earth-biotech"
+      },
+      {
+        "slug": "earth-king",
+        "name": "Earth King",
+        "url": "/brands/earth-king"
+      },
+      {
+        "slug": "earth-rhythm-pvt-ltd",
+        "name": "Earth Rhythm Pvt. Ltd.",
+        "url": "/brands/earth-rhythm-pvt-ltd"
+      },
+      {
+        "slug": "earthill-healthcare-pvt-ltd",
+        "name": "Earthill Healthcare Pvt. Ltd.",
+        "url": "/brands/earthill-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "earthmed-pharmaceutical-pvt-ltd",
+        "name": "Earthmed Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/earthmed-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "earthy-biome",
+        "name": "Earthy Biome",
+        "url": "/brands/earthy-biome"
+      },
+      {
+        "slug": "earum-pharma",
+        "name": "Earum Pharma",
+        "url": "/brands/earum-pharma"
+      },
+      {
+        "slug": "east-african-india-overseas",
+        "name": "East African India Overseas",
+        "url": "/brands/east-african-india-overseas"
+      },
+      {
+        "slug": "east-coast-pharmaceuticals",
+        "name": "East Coast Pharmaceuticals",
+        "url": "/brands/east-coast-pharmaceuticals"
+      },
+      {
+        "slug": "east-india-pharmaceutical-works-ltd",
+        "name": "East India Pharmaceutical Works Ltd.",
+        "url": "/brands/east-india-pharmaceutical-works-ltd"
+      },
+      {
+        "slug": "east-west-pharma",
+        "name": "East West Pharma",
+        "url": "/brands/east-west-pharma"
+      },
+      {
+        "slug": "eastcoast-healthcare",
+        "name": "Eastcoast Healthcare",
+        "url": "/brands/eastcoast-healthcare"
+      },
+      {
+        "slug": "easteria-pharma",
+        "name": "Easteria Pharma",
+        "url": "/brands/easteria-pharma"
+      },
+      {
+        "slug": "eastern-drug",
+        "name": "Eastern Drug",
+        "url": "/brands/eastern-drug"
+      },
+      {
+        "slug": "eastern-healthcare",
+        "name": "Eastern Healthcare",
+        "url": "/brands/eastern-healthcare"
+      },
+      {
+        "slug": "easy-care",
+        "name": "Easy Care",
+        "url": "/brands/easy-care"
+      },
+      {
+        "slug": "eberhart-life-sciences",
+        "name": "Eberhart Life Sciences",
+        "url": "/brands/eberhart-life-sciences"
+      }
+    ]
+  },
+  "F": {
+    "letter": "F",
+    "totalPages": 8,
+    "brands": [
+      {
+        "slug": "f-c-remedies",
+        "name": "F C Remedies",
+        "url": "/brands/f-c-remedies"
+      },
+      {
+        "slug": "fab-critical-care",
+        "name": "Fab Critical Care",
+        "url": "/brands/fab-critical-care"
+      },
+      {
+        "slug": "fabindia",
+        "name": "FabIndia",
+        "url": "/brands/fabindia"
+      },
+      {
+        "slug": "fabino-life-sciences-ltd",
+        "name": "Fabino Life Sciences Ltd.",
+        "url": "/brands/fabino-life-sciences-ltd"
+      },
+      {
+        "slug": "fair-ford-pharmaceuticals",
+        "name": "Fair Ford Pharmaceuticals",
+        "url": "/brands/fair-ford-pharmaceuticals"
+      },
+      {
+        "slug": "fairdeal-formulations-india-pvt-ltd",
+        "name": "Fairdeal Formulations India Pvt. Ltd.",
+        "url": "/brands/fairdeal-formulations-india-pvt-ltd"
+      },
+      {
+        "slug": "fairgenix-pharmaceuticals-llp",
+        "name": "Fairgenix Pharmaceuticals LLP",
+        "url": "/brands/fairgenix-pharmaceuticals-llp"
+      },
+      {
+        "slug": "faith-pharmaceuticals-ltd",
+        "name": "Faith Pharmaceuticals Ltd.",
+        "url": "/brands/faith-pharmaceuticals-ltd"
+      },
+      {
+        "slug": "faj-pharmaceuticals-pvt-ltd",
+        "name": "Faj Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/faj-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "falconidae-healthcare-pvt-ltd",
+        "name": "Falconidae Healthcare Pvt. Ltd.",
+        "url": "/brands/falconidae-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "famcare-india-pvt-ltd",
+        "name": "Famcare India Pvt. Ltd.",
+        "url": "/brands/famcare-india-pvt-ltd"
+      },
+      {
+        "slug": "fantabulous-pharma",
+        "name": "Fantabulous Pharma",
+        "url": "/brands/fantabulous-pharma"
+      },
+      {
+        "slug": "far-west-pharma",
+        "name": "Far West Pharma",
+        "url": "/brands/far-west-pharma"
+      },
+      {
+        "slug": "farger-pvt-ltd",
+        "name": "Farger Pvt. Ltd.",
+        "url": "/brands/farger-pvt-ltd"
+      },
+      {
+        "slug": "farlex-pharmaceuticals-pvt-ltd",
+        "name": "Farlex Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/farlex-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "farma-hub",
+        "name": "Farma Hub",
+        "url": "/brands/farma-hub"
+      },
+      {
+        "slug": "farmako-biotech",
+        "name": "Farmako Biotech",
+        "url": "/brands/farmako-biotech"
+      },
+      {
+        "slug": "fascin-pharmaceuticals",
+        "name": "Fascin Pharmaceuticals",
+        "url": "/brands/fascin-pharmaceuticals"
+      },
+      {
+        "slug": "fast-cure-pharma",
+        "name": "Fast cure Pharma",
+        "url": "/brands/fast-cure-pharma"
+      },
+      {
+        "slug": "faveo-pharmaceuticals",
+        "name": "Faveo Pharmaceuticals",
+        "url": "/brands/faveo-pharmaceuticals"
+      },
+      {
+        "slug": "favnox-pharmaceuticals-pvt-ltd",
+        "name": "Favnox Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/favnox-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "fawn-inc",
+        "name": "Fawn Inc.",
+        "url": "/brands/fawn-inc"
+      },
+      {
+        "slug": "fdc-ltd",
+        "name": "FDC Ltd.",
+        "url": "/brands/fdc-ltd"
+      },
+      {
+        "slug": "fealth-life-care-pvt-ltd",
+        "name": "Fealth Life Care Pvt. Ltd.",
+        "url": "/brands/fealth-life-care-pvt-ltd"
+      },
+      {
+        "slug": "fedes-medicos-pvt-ltd",
+        "name": "Fedes Medicos Pvt. Ltd.",
+        "url": "/brands/fedes-medicos-pvt-ltd"
+      }
+    ]
+  },
+  "G": {
+    "letter": "G",
+    "totalPages": 17,
+    "brands": [
+      {
+        "slug": "g-g-nutritions",
+        "name": "G G Nutritions",
+        "url": "/brands/g-g-nutritions"
+      },
+      {
+        "slug": "g-nine-pharmaceuticals",
+        "name": "G Nine Pharmaceuticals",
+        "url": "/brands/g-nine-pharmaceuticals"
+      },
+      {
+        "slug": "g-nine-formulations-pvt-ltd",
+        "name": "G-Nine Formulations Pvt. Ltd.",
+        "url": "/brands/g-nine-formulations-pvt-ltd"
+      },
+      {
+        "slug": "g-well-healthcare-pvt-ltd",
+        "name": "G-well Healthcare Pvt. Ltd.",
+        "url": "/brands/g-well-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "g-c-chemie-pharmie-ltd",
+        "name": "G. C. Chemie Pharmie Ltd.",
+        "url": "/brands/g-c-chemie-pharmie-ltd"
+      },
+      {
+        "slug": "g-d-pharmaceuticals-ltd",
+        "name": "G. D. Pharmaceuticals Ltd.",
+        "url": "/brands/g-d-pharmaceuticals-ltd"
+      },
+      {
+        "slug": "g-d-pharmaceuticals-pvt-ltd",
+        "name": "G.D. Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/g-d-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "g-m-h-laboratories",
+        "name": "G.M.H. Laboratories",
+        "url": "/brands/g-m-h-laboratories"
+      },
+      {
+        "slug": "g-r-pharmaceuticals",
+        "name": "G.R.Pharmaceuticals",
+        "url": "/brands/g-r-pharmaceuticals"
+      },
+      {
+        "slug": "g1-pharma",
+        "name": "G1 Pharma",
+        "url": "/brands/g1-pharma"
+      },
+      {
+        "slug": "g7-biopharmaceutical-pvt-ltd",
+        "name": "G7 BioPharmaceutical Pvt. Ltd.",
+        "url": "/brands/g7-biopharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "gaarnis-pharma-pvt-ltd",
+        "name": "Gaarnis Pharma Pvt. Ltd.",
+        "url": "/brands/gaarnis-pharma-pvt-ltd"
+      },
+      {
+        "slug": "gaba-care-pvt-ltd",
+        "name": "Gaba Care Pvt. Ltd.",
+        "url": "/brands/gaba-care-pvt-ltd"
+      },
+      {
+        "slug": "gadin-pharmaceuticals-pvt-ltd",
+        "name": "Gadin Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/gadin-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "gaenr-biotec",
+        "name": "Gaenr Biotec",
+        "url": "/brands/gaenr-biotec"
+      },
+      {
+        "slug": "gagnant-healthcare",
+        "name": "Gagnant Healthcare",
+        "url": "/brands/gagnant-healthcare"
+      },
+      {
+        "slug": "gaiety-life",
+        "name": "Gaiety Life",
+        "url": "/brands/gaiety-life"
+      },
+      {
+        "slug": "gaiety-skin-care",
+        "name": "Gaiety Skin Care",
+        "url": "/brands/gaiety-skin-care"
+      },
+      {
+        "slug": "galacus-healthcare-pvt-ltd",
+        "name": "Galacus Healthcare Pvt. Ltd.",
+        "url": "/brands/galacus-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "galanthus-pharma-pvt-ltd",
+        "name": "Galanthus Pharma Pvt. Ltd.",
+        "url": "/brands/galanthus-pharma-pvt-ltd"
+      },
+      {
+        "slug": "galaxus-pharmaceuticals",
+        "name": "Galaxus Pharmaceuticals",
+        "url": "/brands/galaxus-pharmaceuticals"
+      },
+      {
+        "slug": "galaxy-biotech",
+        "name": "Galaxy Biotech",
+        "url": "/brands/galaxy-biotech"
+      },
+      {
+        "slug": "galaxy-pharma-healthcare-pvt-ltd",
+        "name": "Galaxy Pharma & Healthcare Pvt. Ltd.",
+        "url": "/brands/galaxy-pharma-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "galcare-pharmaceutical-pvt-ltd",
+        "name": "Galcare Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/galcare-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "galderma-india-pvt-ltd",
+        "name": "Galderma India Pvt. Ltd.",
+        "url": "/brands/galderma-india-pvt-ltd"
+      }
+    ]
+  },
+  "H": {
+    "letter": "H",
+    "totalPages": 13,
+    "brands": [
+      {
+        "slug": "h-b-wellness-solutions-private-limited",
+        "name": "H & B Wellness Solutions Private Limited",
+        "url": "/brands/h-b-wellness-solutions-private-limited"
+      },
+      {
+        "slug": "h-care-inc",
+        "name": "H & Care Inc.",
+        "url": "/brands/h-care-inc"
+      },
+      {
+        "slug": "h-i-critical-care",
+        "name": "H & I Critical Care",
+        "url": "/brands/h-i-critical-care"
+      },
+      {
+        "slug": "h-and-a-marketers-and-distributors",
+        "name": "H and A Marketers and Distributors",
+        "url": "/brands/h-and-a-marketers-and-distributors"
+      },
+      {
+        "slug": "h-l-healthcare-pvt-ltd",
+        "name": "H.L Healthcare Pvt. Ltd.",
+        "url": "/brands/h-l-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "h-b-wellness",
+        "name": "H&B Wellness",
+        "url": "/brands/h-b-wellness"
+      },
+      {
+        "slug": "h2h-india-biotech-pvt-ltd",
+        "name": "H2H India Biotech Pvt. Ltd.",
+        "url": "/brands/h2h-india-biotech-pvt-ltd"
+      },
+      {
+        "slug": "haaldane-laboratories-pvt-ltd",
+        "name": "Haaldane Laboratories Pvt. Ltd.",
+        "url": "/brands/haaldane-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "hab-pharmaceuticals-and-research-ltd",
+        "name": "Hab Pharmaceuticals and Research Ltd.",
+        "url": "/brands/hab-pharmaceuticals-and-research-ltd"
+      },
+      {
+        "slug": "habitare-pharma",
+        "name": "Habitare Pharma",
+        "url": "/brands/habitare-pharma"
+      },
+      {
+        "slug": "hacks-slacks-healthcare",
+        "name": "Hacks & Slacks Healthcare",
+        "url": "/brands/hacks-slacks-healthcare"
+      },
+      {
+        "slug": "haeal-pharma",
+        "name": "Haeal Pharma",
+        "url": "/brands/haeal-pharma"
+      },
+      {
+        "slug": "hagnous-bioceuiticals-pvt-ltd",
+        "name": "Hagnous Bioceuiticals Pvt. Ltd.",
+        "url": "/brands/hagnous-bioceuiticals-pvt-ltd"
+      },
+      {
+        "slug": "hahnemann-homoeo-pharmaceutical-pvt-ltd",
+        "name": "Hahnemann Homoeo Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/hahnemann-homoeo-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "haiden-technology-pvt-ltd",
+        "name": "Haiden Technology Pvt. Ltd.",
+        "url": "/brands/haiden-technology-pvt-ltd"
+      },
+      {
+        "slug": "haines-biotech-pvt-ltd",
+        "name": "Haines Biotech Pvt. Ltd.",
+        "url": "/brands/haines-biotech-pvt-ltd"
+      },
+      {
+        "slug": "halberd-pharmaceuticals",
+        "name": "Halberd Pharmaceuticals",
+        "url": "/brands/halberd-pharmaceuticals"
+      },
+      {
+        "slug": "halcyon-drugs",
+        "name": "Halcyon Drugs",
+        "url": "/brands/halcyon-drugs"
+      },
+      {
+        "slug": "halden-healthcare-research-pvt-ltd",
+        "name": "Halden Healthcare & Research Pvt. Ltd.",
+        "url": "/brands/halden-healthcare-research-pvt-ltd"
+      },
+      {
+        "slug": "hale-corporation-pvt-ltd",
+        "name": "Hale Corporation Pvt. Ltd.",
+        "url": "/brands/hale-corporation-pvt-ltd"
+      },
+      {
+        "slug": "haledew-remedies",
+        "name": "Haledew Remedies",
+        "url": "/brands/haledew-remedies"
+      },
+      {
+        "slug": "halewood-laboratories-pvt-ltd",
+        "name": "Halewood Laboratories Pvt.Ltd.",
+        "url": "/brands/halewood-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "hallmark-chemicals",
+        "name": "Hallmark Chemicals",
+        "url": "/brands/hallmark-chemicals"
+      },
+      {
+        "slug": "hallmark-formulations-pharmaceuticals",
+        "name": "Hallmark Formulations Pharmaceuticals",
+        "url": "/brands/hallmark-formulations-pharmaceuticals"
+      },
+      {
+        "slug": "hamax-pharmaceuticals",
+        "name": "Hamax Pharmaceuticals",
+        "url": "/brands/hamax-pharmaceuticals"
+      }
+    ]
+  },
+  "I": {
+    "letter": "I",
+    "totalPages": 13,
+    "brands": [
+      {
+        "slug": "i-care-medi",
+        "name": "I Care Medi",
+        "url": "/brands/i-care-medi"
+      },
+      {
+        "slug": "i-pharma-chemists-pharmaceuticals",
+        "name": "I Pharma Chemists & Pharmaceuticals",
+        "url": "/brands/i-pharma-chemists-pharmaceuticals"
+      },
+      {
+        "slug": "i-gale-laboratories-llp",
+        "name": "I-Gale Laboratories LLP",
+        "url": "/brands/i-gale-laboratories-llp"
+      },
+      {
+        "slug": "i-med-healthcare",
+        "name": "I-Med Healthcare",
+        "url": "/brands/i-med-healthcare"
+      },
+      {
+        "slug": "i-i-f-a-healthcare",
+        "name": "I.I.F.A Healthcare",
+        "url": "/brands/i-i-f-a-healthcare"
+      },
+      {
+        "slug": "im-naturals",
+        "name": "I'M Naturals",
+        "url": "/brands/im-naturals"
+      },
+      {
+        "slug": "iaomai-therapeutics",
+        "name": "Iaomai Therapeutics",
+        "url": "/brands/iaomai-therapeutics"
+      },
+      {
+        "slug": "iasis-care",
+        "name": "Iasis Care",
+        "url": "/brands/iasis-care"
+      },
+      {
+        "slug": "iatric-pharmaceuticals",
+        "name": "Iatric Pharmaceuticals",
+        "url": "/brands/iatric-pharmaceuticals"
+      },
+      {
+        "slug": "iatros-pharmaceuticals-pvt-ltd-8345",
+        "name": "Iatros Pharmaceuticals Pvt  Ltd",
+        "url": "/brands/iatros-pharmaceuticals-pvt-ltd-8345"
+      },
+      {
+        "slug": "iatros-pharmaceuticals-pvt-ltd-798",
+        "name": "Iatros Pharmaceuticals Pvt Ltd",
+        "url": "/brands/iatros-pharmaceuticals-pvt-ltd-798"
+      },
+      {
+        "slug": "iatros-pharmaceuticals-pvt-ltd",
+        "name": "Iatros Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/iatros-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "icarus-healthcare-pvt-ltd",
+        "name": "Icarus Healthcare Pvt. Ltd.",
+        "url": "/brands/icarus-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "iceberg-healthcare-pvt-ltd",
+        "name": "Iceberg Healthcare Pvt. Ltd.",
+        "url": "/brands/iceberg-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "ichor-biologics-pvt-ltd",
+        "name": "Ichor Biologics Pvt. Ltd.",
+        "url": "/brands/ichor-biologics-pvt-ltd"
+      },
+      {
+        "slug": "ici-healthcare-pvt-ltd",
+        "name": "ICI Healthcare Pvt. Ltd.",
+        "url": "/brands/ici-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "ici-pharmaceuticals",
+        "name": "ICI Pharmaceuticals",
+        "url": "/brands/ici-pharmaceuticals"
+      },
+      {
+        "slug": "icines-pharmaceutical-pvt-ltd",
+        "name": "Icines Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/icines-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "icines-pharmaceuticals-pvt-ltd",
+        "name": "Icines Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/icines-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "icl-pharmaceuticals",
+        "name": "Icl Pharmaceuticals",
+        "url": "/brands/icl-pharmaceuticals"
+      },
+      {
+        "slug": "icon-biotech",
+        "name": "Icon Biotech",
+        "url": "/brands/icon-biotech"
+      },
+      {
+        "slug": "icon-life-sciences",
+        "name": "Icon Life Sciences",
+        "url": "/brands/icon-life-sciences"
+      },
+      {
+        "slug": "icon-medisciences-pvt-ltd",
+        "name": "Icon Medisciences Pvt. Ltd.",
+        "url": "/brands/icon-medisciences-pvt-ltd"
+      },
+      {
+        "slug": "icon-pharma-surgicals-pvt-ltd",
+        "name": "Icon Pharma & Surgicals Pvt. Ltd.",
+        "url": "/brands/icon-pharma-surgicals-pvt-ltd"
+      },
+      {
+        "slug": "icpa-health-products-ltd",
+        "name": "Icpa Health Products Ltd.",
+        "url": "/brands/icpa-health-products-ltd"
+      }
+    ]
+  },
+  "J": {
+    "letter": "J",
+    "totalPages": 7,
+    "brands": [
+      {
+        "slug": "j-altius-healthcare",
+        "name": "J Altius Healthcare",
+        "url": "/brands/j-altius-healthcare"
+      },
+      {
+        "slug": "j-and-j-dechane-pvt-ltd",
+        "name": "J and J Dechane Pvt. Ltd.",
+        "url": "/brands/j-and-j-dechane-pvt-ltd"
+      },
+      {
+        "slug": "j-k-helene-curtis-ltd",
+        "name": "J K Helene & Curtis Ltd.",
+        "url": "/brands/j-k-helene-curtis-ltd"
+      },
+      {
+        "slug": "j-l-morison-india-ltd",
+        "name": "J L Morison India Ltd.",
+        "url": "/brands/j-l-morison-india-ltd"
+      },
+      {
+        "slug": "j-m-bioceuticals",
+        "name": "J M BIOCEUTICALS",
+        "url": "/brands/j-m-bioceuticals"
+      },
+      {
+        "slug": "j-m-pharma-pvt-ltd",
+        "name": "J M PHARMA Pvt. Ltd.",
+        "url": "/brands/j-m-pharma-pvt-ltd"
+      },
+      {
+        "slug": "j-n-healthcare",
+        "name": "J N Healthcare",
+        "url": "/brands/j-n-healthcare"
+      },
+      {
+        "slug": "j-s-pharma",
+        "name": "J S Pharma",
+        "url": "/brands/j-s-pharma"
+      },
+      {
+        "slug": "j-b-remedies-pvt-ltd",
+        "name": "J. B. Remedies Pvt. Ltd.",
+        "url": "/brands/j-b-remedies-pvt-ltd"
+      },
+      {
+        "slug": "j-k-biotech",
+        "name": "J.K Biotech",
+        "url": "/brands/j-k-biotech"
+      },
+      {
+        "slug": "j-k-drugs-pharmaceutical-pvt-ltd",
+        "name": "J.K. Drugs & Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/j-k-drugs-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "j-k-pharma",
+        "name": "J.K. Pharma",
+        "url": "/brands/j-k-pharma"
+      },
+      {
+        "slug": "j-p-biotech",
+        "name": "J.P Biotech",
+        "url": "/brands/j-p-biotech"
+      },
+      {
+        "slug": "j-p-lifesciences-pvt-ltd",
+        "name": "J.p. Lifesciences Pvt. Ltd.",
+        "url": "/brands/j-p-lifesciences-pvt-ltd"
+      },
+      {
+        "slug": "j-r-s-oryx-pharmaceuticals-pvt-ltd",
+        "name": "J.R.S Oryx Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/j-r-s-oryx-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "js-laboratories-pvt-ltd",
+        "name": "J's Laboratories Pvt. Ltd.",
+        "url": "/brands/js-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "jaaz-corporation-pvt-ltd",
+        "name": "Jaaz Corporation Pvt. Ltd.",
+        "url": "/brands/jaaz-corporation-pvt-ltd"
+      },
+      {
+        "slug": "jabs-biotech-pvt-ltd",
+        "name": "Jabs Biotech Pvt. Ltd.",
+        "url": "/brands/jabs-biotech-pvt-ltd"
+      },
+      {
+        "slug": "jackson-laboratories-pvt-ltd",
+        "name": "Jackson Laboratories Pvt. Ltd.",
+        "url": "/brands/jackson-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "jacsims-pharmaceuticals",
+        "name": "Jacsims Pharmaceuticals",
+        "url": "/brands/jacsims-pharmaceuticals"
+      },
+      {
+        "slug": "jagat-pharma",
+        "name": "Jagat Pharma",
+        "url": "/brands/jagat-pharma"
+      },
+      {
+        "slug": "jagdale-industries-pvt-ltd",
+        "name": "Jagdale Industries Pvt. Ltd.",
+        "url": "/brands/jagdale-industries-pvt-ltd"
+      },
+      {
+        "slug": "jagsam-neutra",
+        "name": "Jagsam Neutra",
+        "url": "/brands/jagsam-neutra"
+      },
+      {
+        "slug": "jagsam-pharma",
+        "name": "Jagsam Pharma",
+        "url": "/brands/jagsam-pharma"
+      },
+      {
+        "slug": "jagsonpal-pharmaceuticals-ltd",
+        "name": "Jagsonpal Pharmaceuticals Ltd.",
+        "url": "/brands/jagsonpal-pharmaceuticals-ltd"
+      }
+    ]
+  },
+  "K": {
+    "letter": "K",
+    "totalPages": 13,
+    "brands": [
+      {
+        "slug": "k-c-laboratories",
+        "name": "K.C Laboratories",
+        "url": "/brands/k-c-laboratories"
+      },
+      {
+        "slug": "kaahan-ayurveda",
+        "name": "Kaahan Ayurveda",
+        "url": "/brands/kaahan-ayurveda"
+      },
+      {
+        "slug": "kaalinga-pharmaceuticals",
+        "name": "Kaalinga Pharmaceuticals",
+        "url": "/brands/kaalinga-pharmaceuticals"
+      },
+      {
+        "slug": "kaansla-pharmaceuticals-pvt-ltd",
+        "name": "Kaansla Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/kaansla-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "kaashvi-enterprises",
+        "name": "Kaashvi Enterprises",
+        "url": "/brands/kaashvi-enterprises"
+      },
+      {
+        "slug": "kabir-life-sciences",
+        "name": "Kabir Life Sciences",
+        "url": "/brands/kabir-life-sciences"
+      },
+      {
+        "slug": "kabson-medicare",
+        "name": "Kabson Medicare",
+        "url": "/brands/kabson-medicare"
+      },
+      {
+        "slug": "kacchela-medex-pvt-ltd",
+        "name": "Kacchela Medex Pvt. Ltd.",
+        "url": "/brands/kacchela-medex-pvt-ltd"
+      },
+      {
+        "slug": "kach-biotech",
+        "name": "Kach Biotech",
+        "url": "/brands/kach-biotech"
+      },
+      {
+        "slug": "kachhela-medex-pvt-ltd",
+        "name": "Kachhela Medex Pvt. Ltd.",
+        "url": "/brands/kachhela-medex-pvt-ltd"
+      },
+      {
+        "slug": "kadcure-healthcare",
+        "name": "Kadcure Healthcare",
+        "url": "/brands/kadcure-healthcare"
+      },
+      {
+        "slug": "kaden-healthcare-pvt-ltd",
+        "name": "Kaden Healthcare Pvt. Ltd.",
+        "url": "/brands/kaden-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "kadion-pharma",
+        "name": "Kadion Pharma",
+        "url": "/brands/kadion-pharma"
+      },
+      {
+        "slug": "kadlife-sciences",
+        "name": "Kadlife Sciences",
+        "url": "/brands/kadlife-sciences"
+      },
+      {
+        "slug": "kailas-jeevan-ayurved",
+        "name": "Kailas Jeevan Ayurved",
+        "url": "/brands/kailas-jeevan-ayurved"
+      },
+      {
+        "slug": "kailash-ayurveda-pvt-ltd",
+        "name": "Kailash Ayurveda Pvt. Ltd.",
+        "url": "/brands/kailash-ayurveda-pvt-ltd"
+      },
+      {
+        "slug": "kaimax-eye-care",
+        "name": "Kaimax Eye Care",
+        "url": "/brands/kaimax-eye-care"
+      },
+      {
+        "slug": "kainopharm-ltd",
+        "name": "Kainopharm Ltd.",
+        "url": "/brands/kainopharm-ltd"
+      },
+      {
+        "slug": "kainos-curatives-pvt-ltd",
+        "name": "Kainos Curatives Pvt. Ltd.",
+        "url": "/brands/kainos-curatives-pvt-ltd"
+      },
+      {
+        "slug": "kainosis-pharmaceuticals",
+        "name": "KAINOSIS PHARMACEUTICALS",
+        "url": "/brands/kainosis-pharmaceuticals"
+      },
+      {
+        "slug": "kaipro-healthcare-pvt-ltd",
+        "name": "Kaipro Healthcare Pvt. Ltd.",
+        "url": "/brands/kaipro-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "kairali-ayurvedic-products-pvt-ltd",
+        "name": "Kairali Ayurvedic Products Pvt. Ltd.",
+        "url": "/brands/kairali-ayurvedic-products-pvt-ltd"
+      },
+      {
+        "slug": "kaiser-drugs-pvt-ltd",
+        "name": "Kaiser Drugs Pvt. Ltd.",
+        "url": "/brands/kaiser-drugs-pvt-ltd"
+      },
+      {
+        "slug": "kaiser-laboratories-pvt-ltd",
+        "name": "Kaiser Laboratories Pvt. Ltd.",
+        "url": "/brands/kaiser-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "kaiser-pharmaceuticals",
+        "name": "Kaiser Pharmaceuticals",
+        "url": "/brands/kaiser-pharmaceuticals"
+      }
+    ]
+  },
+  "L": {
+    "letter": "L",
+    "totalPages": 14,
+    "brands": [
+      {
+        "slug": "l-g-pharmaceuticals",
+        "name": "L G Pharmaceuticals",
+        "url": "/brands/l-g-pharmaceuticals"
+      },
+      {
+        "slug": "l-k-medicare",
+        "name": "L K Medicare",
+        "url": "/brands/l-k-medicare"
+      },
+      {
+        "slug": "l-t-l-pharma-pvt-ltd",
+        "name": "L T & L Pharma Pvt. Ltd.",
+        "url": "/brands/l-t-l-pharma-pvt-ltd"
+      },
+      {
+        "slug": "l-v-life-sciences",
+        "name": "L.V. Life Sciences",
+        "url": "/brands/l-v-life-sciences"
+      },
+      {
+        "slug": "lavenour-lifestyle-pvt-ltd",
+        "name": "L'avenour Lifestyle Pvt. Ltd.",
+        "url": "/brands/lavenour-lifestyle-pvt-ltd"
+      },
+      {
+        "slug": "loreal-india-pvt-ltd",
+        "name": "L'Oreal India Pvt. Ltd.",
+        "url": "/brands/loreal-india-pvt-ltd"
+      },
+      {
+        "slug": "l-m-pharmaceutical-pvt-ltd",
+        "name": "L&M Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/l-m-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "la-grande-pvt-ltd",
+        "name": "LA Grande Pvt. Ltd.",
+        "url": "/brands/la-grande-pvt-ltd"
+      },
+      {
+        "slug": "la-med-india",
+        "name": "La Med India",
+        "url": "/brands/la-med-india"
+      },
+      {
+        "slug": "la-oister-pharma-pvt-ltd",
+        "name": "LA Oister Pharma Pvt. Ltd.",
+        "url": "/brands/la-oister-pharma-pvt-ltd"
+      },
+      {
+        "slug": "la-penser-life-sciences",
+        "name": "La Penser Life Sciences",
+        "url": "/brands/la-penser-life-sciences"
+      },
+      {
+        "slug": "la-pharmaceuticals",
+        "name": "La Pharmaceuticals",
+        "url": "/brands/la-pharmaceuticals"
+      },
+      {
+        "slug": "la-piel-biotech-pvt-ltd",
+        "name": "La Piel Biotech Pvt. Ltd.",
+        "url": "/brands/la-piel-biotech-pvt-ltd"
+      },
+      {
+        "slug": "la-pink-pvt-ltd",
+        "name": "La Pink Pvt. Ltd.",
+        "url": "/brands/la-pink-pvt-ltd"
+      },
+      {
+        "slug": "la-pristine-bioceuticals-pvt-ltd",
+        "name": "La Pristine Bioceuticals Pvt. Ltd.",
+        "url": "/brands/la-pristine-bioceuticals-pvt-ltd"
+      },
+      {
+        "slug": "la-renon-healthcare-private-limited",
+        "name": "La Renon Healthcare Private Limited\r",
+        "url": "/brands/la-renon-healthcare-private-limited"
+      },
+      {
+        "slug": "la-renon-healthcare-pvt-ltd",
+        "name": "La Renon Healthcare Pvt. Ltd.",
+        "url": "/brands/la-renon-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "la-revas-pharma-pvt-ltd",
+        "name": "La Revas Pharma Pvt. Ltd.",
+        "url": "/brands/la-revas-pharma-pvt-ltd"
+      },
+      {
+        "slug": "la-vie-pharmaceuticals-pvt-ltd",
+        "name": "La Vie Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/la-vie-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "la-med-healthcare-pvt-ltd",
+        "name": "La-med Healthcare Pvt. Ltd.",
+        "url": "/brands/la-med-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "laafon-galaxy-pharmaceuticals",
+        "name": "Laafon Galaxy Pharmaceuticals",
+        "url": "/brands/laafon-galaxy-pharmaceuticals"
+      },
+      {
+        "slug": "labcorp-india-pvt-ltd",
+        "name": "Labcorp India Pvt. Ltd.",
+        "url": "/brands/labcorp-india-pvt-ltd"
+      },
+      {
+        "slug": "labdhi-pharma-surgical",
+        "name": "Labdhi Pharma surgical",
+        "url": "/brands/labdhi-pharma-surgical"
+      },
+      {
+        "slug": "labinduss-ltd",
+        "name": "Labinduss Ltd.",
+        "url": "/brands/labinduss-ltd"
+      },
+      {
+        "slug": "labios-pharmaceutical-pvt-ltd",
+        "name": "Labios Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/labios-pharmaceutical-pvt-ltd"
+      }
+    ]
+  },
+  "M": {
+    "letter": "M",
+    "totalPages": 41,
+    "brands": [
+      {
+        "slug": "m-b-laboratories",
+        "name": "M & B Laboratories",
+        "url": "/brands/m-b-laboratories"
+      },
+      {
+        "slug": "m-2-life-science",
+        "name": "M 2 Life Science",
+        "url": "/brands/m-2-life-science"
+      },
+      {
+        "slug": "m-a-s-pharmaceuticals-pvt-ltd",
+        "name": "M A S Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/m-a-s-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "m-g-pharmaceutical",
+        "name": "M G Pharmaceutical",
+        "url": "/brands/m-g-pharmaceutical"
+      },
+      {
+        "slug": "m-m-s-enterprises",
+        "name": "M M S Enterprises",
+        "url": "/brands/m-m-s-enterprises"
+      },
+      {
+        "slug": "m-s-pharma",
+        "name": "M S Pharma",
+        "url": "/brands/m-s-pharma"
+      },
+      {
+        "slug": "m-frank-pharmaceuticals",
+        "name": "M. Frank Pharmaceuticals",
+        "url": "/brands/m-frank-pharmaceuticals"
+      },
+      {
+        "slug": "m-d-pharmaceuticals-pvt-ltd",
+        "name": "M.D. Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/m-d-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "m-d-c-pharmaceuticals-p-ltd",
+        "name": "M.D.C. Pharmaceuticals (P) Ltd.",
+        "url": "/brands/m-d-c-pharmaceuticals-p-ltd"
+      },
+      {
+        "slug": "m-k-pharma-pvt-ltd",
+        "name": "M.K Pharma Pvt. Ltd.",
+        "url": "/brands/m-k-pharma-pvt-ltd"
+      },
+      {
+        "slug": "m-k-g-formulation",
+        "name": "M.K.G. Formulation",
+        "url": "/brands/m-k-g-formulation"
+      },
+      {
+        "slug": "m-m-labs",
+        "name": "M.M Labs",
+        "url": "/brands/m-m-labs"
+      },
+      {
+        "slug": "m-m-pharma",
+        "name": "M.M Pharma",
+        "url": "/brands/m-m-pharma"
+      },
+      {
+        "slug": "m-m-a-f-pharma-pvt-ltd",
+        "name": "M.M.A.F Pharma Pvt. Ltd.",
+        "url": "/brands/m-m-a-f-pharma-pvt-ltd"
+      },
+      {
+        "slug": "m-r-s-pharmaceuticals",
+        "name": "M.R.S. Pharmaceuticals",
+        "url": "/brands/m-r-s-pharmaceuticals"
+      },
+      {
+        "slug": "m-s-chemkart",
+        "name": "M/s Chemkart",
+        "url": "/brands/m-s-chemkart"
+      },
+      {
+        "slug": "m-s-greyfawn-healthcare",
+        "name": "M/S Greyfawn Healthcare",
+        "url": "/brands/m-s-greyfawn-healthcare"
+      },
+      {
+        "slug": "m-s-primacy-industries-pvt-ltd",
+        "name": "M/S Primacy Industries Pvt. Ltd.",
+        "url": "/brands/m-s-primacy-industries-pvt-ltd"
+      },
+      {
+        "slug": "m2h-pharmaceuticals",
+        "name": "M2H Pharmaceuticals",
+        "url": "/brands/m2h-pharmaceuticals"
+      },
+      {
+        "slug": "ma-lara-healthcare-pvt-ltd",
+        "name": "Ma Lara Healthcare Pvt. Ltd.",
+        "url": "/brands/ma-lara-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "maa-enterprise",
+        "name": "Maa Enterprise",
+        "url": "/brands/maa-enterprise"
+      },
+      {
+        "slug": "maa-formulations-pvt-ltd",
+        "name": "Maa Formulations Pvt. Ltd.",
+        "url": "/brands/maa-formulations-pvt-ltd"
+      },
+      {
+        "slug": "maa-mitahara",
+        "name": "Maa Mitahara",
+        "url": "/brands/maa-mitahara"
+      },
+      {
+        "slug": "maaah-pharmaceuticals-pvt-ltd",
+        "name": "Maaah Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/maaah-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "maan-pharmaceuticals-ltd",
+        "name": "Maan Pharmaceuticals Ltd.",
+        "url": "/brands/maan-pharmaceuticals-ltd"
+      }
+    ]
+  },
+  "N": {
+    "letter": "N",
+    "totalPages": 21,
+    "brands": [
+      {
+        "slug": "n-k-ethical-laboratories",
+        "name": "N K Ethical Laboratories",
+        "url": "/brands/n-k-ethical-laboratories"
+      },
+      {
+        "slug": "n-k-pharma-industries",
+        "name": "N K Pharma Industries",
+        "url": "/brands/n-k-pharma-industries"
+      },
+      {
+        "slug": "n-line-healthcare-pvt-ltd",
+        "name": "N Line Healthcare Pvt. Ltd.",
+        "url": "/brands/n-line-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "n-b-life-science-pvt-ltd",
+        "name": "N.b. Life Science Pvt. Ltd.",
+        "url": "/brands/n-b-life-science-pvt-ltd"
+      },
+      {
+        "slug": "n-s-pharmaceuticals",
+        "name": "N.S Pharmaceuticals",
+        "url": "/brands/n-s-pharmaceuticals"
+      },
+      {
+        "slug": "naatson-healthcare-pvt-ltd",
+        "name": "Naatson Healthcare Pvt. Ltd.",
+        "url": "/brands/naatson-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "nabapri-lifesciences-pvt-ltd",
+        "name": "Nabapri Lifesciences Pvt. Ltd.",
+        "url": "/brands/nabapri-lifesciences-pvt-ltd"
+      },
+      {
+        "slug": "nabarun-life-sciences",
+        "name": "Nabarun Life Sciences",
+        "url": "/brands/nabarun-life-sciences"
+      },
+      {
+        "slug": "nabiqasim-industries-pvt-ltd",
+        "name": "Nabiqasim Industries Pvt. Ltd.",
+        "url": "/brands/nabiqasim-industries-pvt-ltd"
+      },
+      {
+        "slug": "nac-international",
+        "name": "Nac International",
+        "url": "/brands/nac-international"
+      },
+      {
+        "slug": "nac-pharmaceuticals",
+        "name": "Nac Pharmaceuticals",
+        "url": "/brands/nac-pharmaceuticals"
+      },
+      {
+        "slug": "nacc-pharmaceutical-pvt-ltd",
+        "name": "NACC Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/nacc-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "nadans-lifesciences",
+        "name": "Nadans Lifesciences",
+        "url": "/brands/nadans-lifesciences"
+      },
+      {
+        "slug": "nagarjuna-ayurvedic-centre",
+        "name": "Nagarjuna Ayurvedic Centre",
+        "url": "/brands/nagarjuna-ayurvedic-centre"
+      },
+      {
+        "slug": "nahren-lifesciences",
+        "name": "Nahren Lifesciences",
+        "url": "/brands/nahren-lifesciences"
+      },
+      {
+        "slug": "naj-pharmaceuticals-pvt-ltd",
+        "name": "Naj Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/naj-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "nakpro-nutrition",
+        "name": "Nakpro Nutrition",
+        "url": "/brands/nakpro-nutrition"
+      },
+      {
+        "slug": "nakularch-meditech-pvt-ltd",
+        "name": "Nakularch Meditech Pvt. Ltd.",
+        "url": "/brands/nakularch-meditech-pvt-ltd"
+      },
+      {
+        "slug": "nalborn-pharmatech-private-limited",
+        "name": "Nalborn Pharmatech Private Limited",
+        "url": "/brands/nalborn-pharmatech-private-limited"
+      },
+      {
+        "slug": "nalthan-lifesciences-pvt-ltd",
+        "name": "Nalthan Lifesciences Pvt. Ltd.",
+        "url": "/brands/nalthan-lifesciences-pvt-ltd"
+      },
+      {
+        "slug": "namcare-biotech-llp",
+        "name": "NamCare Biotech LLP",
+        "url": "/brands/namcare-biotech-llp"
+      },
+      {
+        "slug": "nami-lifesciences-pvt-ltd",
+        "name": "Nami Lifesciences Pvt. Ltd.",
+        "url": "/brands/nami-lifesciences-pvt-ltd"
+      },
+      {
+        "slug": "namigo-pharma-pvt-ltd",
+        "name": "Namigo Pharma Pvt. Ltd.",
+        "url": "/brands/namigo-pharma-pvt-ltd"
+      },
+      {
+        "slug": "namo-pharma",
+        "name": "Namo Pharma",
+        "url": "/brands/namo-pharma"
+      },
+      {
+        "slug": "namo-remedies",
+        "name": "Namo Remedies",
+        "url": "/brands/namo-remedies"
+      }
+    ]
+  },
+  "O": {
+    "letter": "O",
+    "totalPages": 11,
+    "brands": [
+      {
+        "slug": "oak-vance-life-sciences-pvt-ltd",
+        "name": "OAK Vance Life Sciences Pvt. Ltd.",
+        "url": "/brands/oak-vance-life-sciences-pvt-ltd"
+      },
+      {
+        "slug": "oaknet-healthcare-pvt-ltd",
+        "name": "Oaknet Healthcare Pvt. Ltd.",
+        "url": "/brands/oaknet-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "oaly-pharma",
+        "name": "Oaly Pharma",
+        "url": "/brands/oaly-pharma"
+      },
+      {
+        "slug": "oarvi-pharma-pvt-ltd",
+        "name": "Oarvi Pharma Pvt. Ltd.",
+        "url": "/brands/oarvi-pharma-pvt-ltd"
+      },
+      {
+        "slug": "oasis-laboratories-pvt-ltd",
+        "name": "Oasis Laboratories Pvt. Ltd.",
+        "url": "/brands/oasis-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "oasis-remedies",
+        "name": "Oasis Remedies",
+        "url": "/brands/oasis-remedies"
+      },
+      {
+        "slug": "obaith-lifescience",
+        "name": "Obaith Lifescience",
+        "url": "/brands/obaith-lifescience"
+      },
+      {
+        "slug": "obat-medicare-pvt-ltd",
+        "name": "Obat Medicare Pvt. Ltd.",
+        "url": "/brands/obat-medicare-pvt-ltd"
+      },
+      {
+        "slug": "oberlin-healthcare-pvt-ltd",
+        "name": "Oberlin Healthcare Pvt. Ltd.",
+        "url": "/brands/oberlin-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "obsurge-biotech-ltd",
+        "name": "Obsurge Biotech Ltd.",
+        "url": "/brands/obsurge-biotech-ltd"
+      },
+      {
+        "slug": "obtain-healthcare",
+        "name": "Obtain Healthcare",
+        "url": "/brands/obtain-healthcare"
+      },
+      {
+        "slug": "obzone-pharmaceuticals-pvt-ltd",
+        "name": "Obzone Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/obzone-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "occuvea-pharmaceuticals-pvt-ltd",
+        "name": "Occuvea Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/occuvea-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "ocean-healthcare",
+        "name": "Ocean Healthcare",
+        "url": "/brands/ocean-healthcare"
+      },
+      {
+        "slug": "ocean-lifecare-private-limited",
+        "name": "Ocean Lifecare Private Limited",
+        "url": "/brands/ocean-lifecare-private-limited"
+      },
+      {
+        "slug": "ochoa-laboratories-ltd",
+        "name": "Ochoa Laboratories Ltd.",
+        "url": "/brands/ochoa-laboratories-ltd"
+      },
+      {
+        "slug": "octaglo-laboratories-pvt-ltd",
+        "name": "Octaglo Laboratories Pvt. Ltd.",
+        "url": "/brands/octaglo-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "octalife-pharmaceuticals-pvt-ltd",
+        "name": "Octalife Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/octalife-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "octamed-lifesciences-pvt-ltd",
+        "name": "Octamed Lifesciences Pvt. Ltd.",
+        "url": "/brands/octamed-lifesciences-pvt-ltd"
+      },
+      {
+        "slug": "octane-biotech-pvt-ltd",
+        "name": "Octane Biotech Pvt. Ltd.",
+        "url": "/brands/octane-biotech-pvt-ltd"
+      },
+      {
+        "slug": "octavia-labs-pvt-ltd",
+        "name": "Octavia Labs Pvt. Ltd..",
+        "url": "/brands/octavia-labs-pvt-ltd"
+      },
+      {
+        "slug": "octavius-pharma-pvt-ltd",
+        "name": "Octavius Pharma Pvt. Ltd.",
+        "url": "/brands/octavius-pharma-pvt-ltd"
+      },
+      {
+        "slug": "octillion-pharma",
+        "name": "Octillion pharma",
+        "url": "/brands/octillion-pharma"
+      },
+      {
+        "slug": "octillions-pharmaceuticals",
+        "name": "Octillions Pharmaceuticals",
+        "url": "/brands/octillions-pharmaceuticals"
+      },
+      {
+        "slug": "octis-healthcare-pvt-ltd",
+        "name": "Octis Healthcare Pvt. Ltd.",
+        "url": "/brands/octis-healthcare-pvt-ltd"
+      }
+    ]
+  },
+  "P": {
+    "letter": "P",
+    "totalPages": 20,
+    "brands": [
+      {
+        "slug": "p-b-pharmaceuticals-ltd",
+        "name": "P & B Pharmaceuticals Ltd.",
+        "url": "/brands/p-b-pharmaceuticals-ltd"
+      },
+      {
+        "slug": "p-and-p-dermaceuticals-pvt-ltd",
+        "name": "P and P Dermaceuticals Pvt. Ltd.",
+        "url": "/brands/p-and-p-dermaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "p-r-g-pharma-pvt-ltd",
+        "name": "P R G Pharma Pvt. Ltd.",
+        "url": "/brands/p-r-g-pharma-pvt-ltd"
+      },
+      {
+        "slug": "p4-medicine-pvt-ltd",
+        "name": "P4 Medicine Pvt. Ltd.",
+        "url": "/brands/p4-medicine-pvt-ltd"
+      },
+      {
+        "slug": "paarzon-pharmaceuticals",
+        "name": "Paarzon Pharmaceuticals",
+        "url": "/brands/paarzon-pharmaceuticals"
+      },
+      {
+        "slug": "pace-pharmaceuticals",
+        "name": "Pace Pharmaceuticals",
+        "url": "/brands/pace-pharmaceuticals"
+      },
+      {
+        "slug": "pacific-bioengineering-pvt-ltd",
+        "name": "Pacific Bioengineering Pvt. Ltd.",
+        "url": "/brands/pacific-bioengineering-pvt-ltd"
+      },
+      {
+        "slug": "pacific-biotech",
+        "name": "Pacific Biotech",
+        "url": "/brands/pacific-biotech"
+      },
+      {
+        "slug": "pacific-drugs-chemicals",
+        "name": "Pacific Drugs & Chemicals",
+        "url": "/brands/pacific-drugs-chemicals"
+      },
+      {
+        "slug": "pacific-india",
+        "name": "Pacific India",
+        "url": "/brands/pacific-india"
+      },
+      {
+        "slug": "pacific-meditech-pvt-ltd",
+        "name": "Pacific Meditech Pvt. Ltd.",
+        "url": "/brands/pacific-meditech-pvt-ltd"
+      },
+      {
+        "slug": "pacific-pharmaceuticals-pvt-ltd",
+        "name": "Pacific Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/pacific-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "pacira-healthcare-pvt-ltd",
+        "name": "Pacira Healthcare Pvt. Ltd.",
+        "url": "/brands/pacira-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "pacitora-biotech",
+        "name": "Pacitora Biotech",
+        "url": "/brands/pacitora-biotech"
+      },
+      {
+        "slug": "padmavati-chemicals",
+        "name": "Padmavati Chemicals",
+        "url": "/brands/padmavati-chemicals"
+      },
+      {
+        "slug": "pagnor-pharmaceutical-pvt-ltd",
+        "name": "Pagnor Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/pagnor-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "pagoda-pharmaceuticals",
+        "name": "Pagoda Pharmaceuticals",
+        "url": "/brands/pagoda-pharmaceuticals"
+      },
+      {
+        "slug": "paksons-pharmaceuticals-pvt-ltd",
+        "name": "Paksons Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/paksons-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "palak-stark-pvt-ltd",
+        "name": "Palak Stark Pvt. Ltd.",
+        "url": "/brands/palak-stark-pvt-ltd"
+      },
+      {
+        "slug": "palco-healthcare",
+        "name": "Palco Healthcare",
+        "url": "/brands/palco-healthcare"
+      },
+      {
+        "slug": "palmaris-lifesciences-private-limited",
+        "name": "Palmaris Lifesciences Private Limited",
+        "url": "/brands/palmaris-lifesciences-private-limited"
+      },
+      {
+        "slug": "pals-healthcare",
+        "name": "Pals Healthcare",
+        "url": "/brands/pals-healthcare"
+      },
+      {
+        "slug": "palson-drug",
+        "name": "Palson Drug",
+        "url": "/brands/palson-drug"
+      },
+      {
+        "slug": "palsons-derma-pvt-ltd",
+        "name": "Palsons Derma Pvt. Ltd.",
+        "url": "/brands/palsons-derma-pvt-ltd"
+      },
+      {
+        "slug": "palvin-pharmaceuticals",
+        "name": "Palvin Pharmaceuticals",
+        "url": "/brands/palvin-pharmaceuticals"
+      }
+    ]
+  },
+  "Q": {
+    "letter": "Q",
+    "totalPages": 2,
+    "brands": [
+      {
+        "slug": "q-check-pharmaceuticals-pvt-ltd",
+        "name": "Q Check Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/q-check-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "q-check-speciality-care",
+        "name": "Q Check Speciality Care",
+        "url": "/brands/q-check-speciality-care"
+      },
+      {
+        "slug": "q-check-pharmaceuticals",
+        "name": "Q-Check Pharmaceuticals",
+        "url": "/brands/q-check-pharmaceuticals"
+      },
+      {
+        "slug": "qras-pharmaceuticals",
+        "name": "Q'RAS Pharmaceuticals",
+        "url": "/brands/qras-pharmaceuticals"
+      },
+      {
+        "slug": "q4q-health-solutions-india-pvt-ltd",
+        "name": "Q4Q Health Solutions India Pvt. Ltd.",
+        "url": "/brands/q4q-health-solutions-india-pvt-ltd"
+      },
+      {
+        "slug": "qantas-biopharma-pvt-ltd",
+        "name": "Qantas Biopharma Pvt. Ltd.",
+        "url": "/brands/qantas-biopharma-pvt-ltd"
+      },
+      {
+        "slug": "qcl-life-science-pvt-ltd",
+        "name": "Qcl Life Science Pvt. Ltd.",
+        "url": "/brands/qcl-life-science-pvt-ltd"
+      },
+      {
+        "slug": "qgensun-healthcare",
+        "name": "Qgensun Healthcare",
+        "url": "/brands/qgensun-healthcare"
+      },
+      {
+        "slug": "qrative-care",
+        "name": "Qrative Care",
+        "url": "/brands/qrative-care"
+      },
+      {
+        "slug": "qren-lifesciences-pvt-ltd",
+        "name": "Qren Lifesciences Pvt. Ltd.",
+        "url": "/brands/qren-lifesciences-pvt-ltd"
+      },
+      {
+        "slug": "qrich-life-sciences",
+        "name": "Qrich Life Sciences",
+        "url": "/brands/qrich-life-sciences"
+      },
+      {
+        "slug": "qrit-life-sciences",
+        "name": "QRIT Life Sciences",
+        "url": "/brands/qrit-life-sciences"
+      },
+      {
+        "slug": "qrs-india-pvt-ltd",
+        "name": "QRS India Pvt. Ltd.",
+        "url": "/brands/qrs-india-pvt-ltd"
+      },
+      {
+        "slug": "quadriga-biotech-pvt-ltd",
+        "name": "Quadriga Biotech Pvt. Ltd.",
+        "url": "/brands/quadriga-biotech-pvt-ltd"
+      },
+      {
+        "slug": "quads-biotech-healthcare-pvt-ltd",
+        "name": "Quads Biotech Healthcare Pvt. Ltd.",
+        "url": "/brands/quads-biotech-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "qualchem-healthcare-pvt-ltd",
+        "name": "Qualchem Healthcare Pvt. Ltd.",
+        "url": "/brands/qualchem-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "qualimed-bioscience",
+        "name": "Qualimed Bioscience",
+        "url": "/brands/qualimed-bioscience"
+      },
+      {
+        "slug": "qualitron-bio-medica-pvt-ltd",
+        "name": "Qualitron Bio Medica Pvt. Ltd.",
+        "url": "/brands/qualitron-bio-medica-pvt-ltd"
+      },
+      {
+        "slug": "quality-bestochem-formulations-pvt-ltd",
+        "name": "Quality Bestochem Formulations Pvt. Ltd.",
+        "url": "/brands/quality-bestochem-formulations-pvt-ltd"
+      },
+      {
+        "slug": "quality-innovations-pharmaceuticals",
+        "name": "Quality Innovations & Pharmaceuticals",
+        "url": "/brands/quality-innovations-pharmaceuticals"
+      },
+      {
+        "slug": "quality-pharma-products-pvt-ltd",
+        "name": "Quality Pharma Products Pvt. Ltd.",
+        "url": "/brands/quality-pharma-products-pvt-ltd"
+      },
+      {
+        "slug": "qualways-pharmaceuticals-pvt-ltd",
+        "name": "Qualways Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/qualways-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "quantaas-enterprises",
+        "name": "Quantaas Enterprises",
+        "url": "/brands/quantaas-enterprises"
+      },
+      {
+        "slug": "quantis-biotech-india-pvt-ltd",
+        "name": "Quantis Biotech India Pvt. Ltd.",
+        "url": "/brands/quantis-biotech-india-pvt-ltd"
+      },
+      {
+        "slug": "quantum-formulations",
+        "name": "Quantum Formulations",
+        "url": "/brands/quantum-formulations"
+      }
+    ]
+  },
+  "R": {
+    "letter": "R",
+    "totalPages": 22,
+    "brands": [
+      {
+        "slug": "r-b-pharmaceuticals",
+        "name": "R B Pharmaceuticals",
+        "url": "/brands/r-b-pharmaceuticals"
+      },
+      {
+        "slug": "r-gene-healthcare-pharma",
+        "name": "R Gene Healthcare Pharma",
+        "url": "/brands/r-gene-healthcare-pharma"
+      },
+      {
+        "slug": "r-maandeep-organics-pvt-ltd",
+        "name": "R Maandeep Organics Pvt. Ltd.",
+        "url": "/brands/r-maandeep-organics-pvt-ltd"
+      },
+      {
+        "slug": "r-r-biotech",
+        "name": "R R Biotech",
+        "url": "/brands/r-r-biotech"
+      },
+      {
+        "slug": "r-steps-pharmaceutical",
+        "name": "R Steps Pharmaceutical",
+        "url": "/brands/r-steps-pharmaceutical"
+      },
+      {
+        "slug": "r-b-pharma",
+        "name": "R.B. Pharma",
+        "url": "/brands/r-b-pharma"
+      },
+      {
+        "slug": "r-b-remedies-pvt-ltd",
+        "name": "R.B. Remedies Pvt. Ltd.",
+        "url": "/brands/r-b-remedies-pvt-ltd"
+      },
+      {
+        "slug": "r-t-pharma",
+        "name": "R.T. Pharma",
+        "url": "/brands/r-t-pharma"
+      },
+      {
+        "slug": "raasa-ayurveda-pvt-ltd",
+        "name": "Raasa Ayurveda Pvt. Ltd.",
+        "url": "/brands/raasa-ayurveda-pvt-ltd"
+      },
+      {
+        "slug": "raayn-drugs",
+        "name": "Raayn Drugs",
+        "url": "/brands/raayn-drugs"
+      },
+      {
+        "slug": "rabnew-pharma",
+        "name": "Rabnew Pharma",
+        "url": "/brands/rabnew-pharma"
+      },
+      {
+        "slug": "race-pharmaceuticals-pvt-ltd",
+        "name": "Race Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/race-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "rachil-remedies-pvt-ltd",
+        "name": "Rachil Remedies Pvt. Ltd.",
+        "url": "/brands/rachil-remedies-pvt-ltd"
+      },
+      {
+        "slug": "rachit-medi-sciences",
+        "name": "Rachit Medi Sciences",
+        "url": "/brands/rachit-medi-sciences"
+      },
+      {
+        "slug": "raclon-labs",
+        "name": "Raclon Labs",
+        "url": "/brands/raclon-labs"
+      },
+      {
+        "slug": "racmose-pharmaceuticals-pvt-ltd",
+        "name": "Racmose Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/racmose-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "racoon-pharmaceutical",
+        "name": "Racoon Pharmaceutical",
+        "url": "/brands/racoon-pharmaceutical"
+      },
+      {
+        "slug": "raddison-healthcare-pvt-ltd",
+        "name": "Raddison Healthcare Pvt. Ltd.",
+        "url": "/brands/raddison-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "radesh-pharmaceuticals",
+        "name": "Radesh Pharmaceuticals",
+        "url": "/brands/radesh-pharmaceuticals"
+      },
+      {
+        "slug": "radhe-medtech-pvt-ltd",
+        "name": "Radhe Medtech Pvt. Ltd.",
+        "url": "/brands/radhe-medtech-pvt-ltd"
+      },
+      {
+        "slug": "radian-pharma",
+        "name": "Radian Pharma",
+        "url": "/brands/radian-pharma"
+      },
+      {
+        "slug": "radiant-healthcare-pvt-ltd",
+        "name": "Radiant Healthcare Pvt. Ltd.",
+        "url": "/brands/radiant-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "radiant-pharmaceuticals-ltd",
+        "name": "Radiant Pharmaceuticals Ltd.",
+        "url": "/brands/radiant-pharmaceuticals-ltd"
+      },
+      {
+        "slug": "radicals-pharma-ltd",
+        "name": "Radicals Pharma Ltd.",
+        "url": "/brands/radicals-pharma-ltd"
+      },
+      {
+        "slug": "radico-remedies",
+        "name": "Radico Remedies",
+        "url": "/brands/radico-remedies"
+      }
+    ]
+  },
+  "S": {
+    "letter": "S",
+    "totalPages": 49,
+    "brands": [
+      {
+        "slug": "s-m-pharmacy",
+        "name": "S & M Pharmacy",
+        "url": "/brands/s-m-pharmacy"
+      },
+      {
+        "slug": "s-s-healthcare",
+        "name": "S & S Healthcare",
+        "url": "/brands/s-s-healthcare"
+      },
+      {
+        "slug": "s-celereun-pharmaceutical",
+        "name": "S Celereun Pharmaceutical",
+        "url": "/brands/s-celereun-pharmaceutical"
+      },
+      {
+        "slug": "s-g-phyto-pharma-pvt-ltd",
+        "name": "S G Phyto Pharma Pvt. Ltd.",
+        "url": "/brands/s-g-phyto-pharma-pvt-ltd"
+      },
+      {
+        "slug": "s-h-pharmaceuticals-ltd",
+        "name": "S H Pharmaceuticals Ltd.",
+        "url": "/brands/s-h-pharmaceuticals-ltd"
+      },
+      {
+        "slug": "s-l-healthcare",
+        "name": "S L Healthcare",
+        "url": "/brands/s-l-healthcare"
+      },
+      {
+        "slug": "s-m-a-pharmaceuticals",
+        "name": "S M A Pharmaceuticals",
+        "url": "/brands/s-m-a-pharmaceuticals"
+      },
+      {
+        "slug": "s-p-pharma",
+        "name": "S P Pharma",
+        "url": "/brands/s-p-pharma"
+      },
+      {
+        "slug": "s-r-pharmaceuticals",
+        "name": "S R Pharmaceuticals",
+        "url": "/brands/s-r-pharmaceuticals"
+      },
+      {
+        "slug": "s-v-biovac-pharmaceuticals-pvt-ltd",
+        "name": "S V Biovac Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/s-v-biovac-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "s-v-synolife-pharmaceuticals",
+        "name": "S V Synolife Pharmaceuticals",
+        "url": "/brands/s-v-synolife-pharmaceuticals"
+      },
+      {
+        "slug": "s-a-remedies",
+        "name": "S.A Remedies",
+        "url": "/brands/s-a-remedies"
+      },
+      {
+        "slug": "s-bal",
+        "name": "S.BAL",
+        "url": "/brands/s-bal"
+      },
+      {
+        "slug": "s-bee-life-sciences",
+        "name": "S.Bee Life Sciences",
+        "url": "/brands/s-bee-life-sciences"
+      },
+      {
+        "slug": "s-p-pharmaceuticals",
+        "name": "S.P Pharmaceuticals",
+        "url": "/brands/s-p-pharmaceuticals"
+      },
+      {
+        "slug": "s-r-pharmaceuticals-7552",
+        "name": "S.R.Pharmaceuticals",
+        "url": "/brands/s-r-pharmaceuticals-7552"
+      },
+      {
+        "slug": "s-s-pharma-lifescience-pvt-ltd",
+        "name": "S.S. Pharma Lifescience Pvt. Ltd.",
+        "url": "/brands/s-s-pharma-lifescience-pvt-ltd"
+      },
+      {
+        "slug": "s-s-m-pharmaceuticals",
+        "name": "S.S.M Pharmaceuticals",
+        "url": "/brands/s-s-m-pharmaceuticals"
+      },
+      {
+        "slug": "s2-biogenics-healthcare",
+        "name": "S2 Biogenics Healthcare",
+        "url": "/brands/s2-biogenics-healthcare"
+      },
+      {
+        "slug": "s4-healthcare",
+        "name": "S4 Healthcare",
+        "url": "/brands/s4-healthcare"
+      },
+      {
+        "slug": "s9-pharma",
+        "name": "S9 Pharma",
+        "url": "/brands/s9-pharma"
+      },
+      {
+        "slug": "sa-remedies",
+        "name": "SA Remedies",
+        "url": "/brands/sa-remedies"
+      },
+      {
+        "slug": "saan-labs",
+        "name": "Saan Labs",
+        "url": "/brands/saan-labs"
+      },
+      {
+        "slug": "saanvika-pharma",
+        "name": "Saanvika Pharma",
+        "url": "/brands/saanvika-pharma"
+      },
+      {
+        "slug": "saaol-pharma-pvt-ltd",
+        "name": "Saaol Pharma Pvt. Ltd.",
+        "url": "/brands/saaol-pharma-pvt-ltd"
+      }
+    ]
+  },
+  "T": {
+    "letter": "T",
+    "totalPages": 12,
+    "brands": [
+      {
+        "slug": "t-walkers-pharmceuticals-pvt-ltd",
+        "name": "T.Walker's Pharmceuticals Pvt. Ltd.",
+        "url": "/brands/t-walkers-pharmceuticals-pvt-ltd"
+      },
+      {
+        "slug": "tablets-india-ltd",
+        "name": "Tablets India Ltd.",
+        "url": "/brands/tablets-india-ltd"
+      },
+      {
+        "slug": "tabq-therapeutics",
+        "name": "Tabq Therapeutics",
+        "url": "/brands/tabq-therapeutics"
+      },
+      {
+        "slug": "tabs-lab-healthcare-llp",
+        "name": "Tabs Lab Healthcare LLP",
+        "url": "/brands/tabs-lab-healthcare-llp"
+      },
+      {
+        "slug": "tabsule-pharmaceuticals",
+        "name": "Tabsule Pharmaceuticals",
+        "url": "/brands/tabsule-pharmaceuticals"
+      },
+      {
+        "slug": "tahbert-healthcare-pvt-ltd",
+        "name": "Tahbert Healthcare Pvt. Ltd.",
+        "url": "/brands/tahbert-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "taica-pharma",
+        "name": "Taica Pharma",
+        "url": "/brands/taica-pharma"
+      },
+      {
+        "slug": "taizi-pharma-pvt-ltd",
+        "name": "Taizi Pharma Pvt. Ltd.",
+        "url": "/brands/taizi-pharma-pvt-ltd"
+      },
+      {
+        "slug": "taj-pharma-india-ltd",
+        "name": "Taj Pharma India Ltd.",
+        "url": "/brands/taj-pharma-india-ltd"
+      },
+      {
+        "slug": "takeda-pharmaceuticals-india-pvt-ltd",
+        "name": "Takeda Pharmaceuticals India Pvt. Ltd.",
+        "url": "/brands/takeda-pharmaceuticals-india-pvt-ltd"
+      },
+      {
+        "slug": "taksa-life-sciences",
+        "name": "Taksa LIfe Sciences",
+        "url": "/brands/taksa-life-sciences"
+      },
+      {
+        "slug": "taksh-healthcare-pvt-ltd",
+        "name": "Taksh Healthcare Pvt. Ltd.",
+        "url": "/brands/taksh-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "taksha-remedies-pvt-ltd",
+        "name": "Taksha Remedies Pvt. Ltd.",
+        "url": "/brands/taksha-remedies-pvt-ltd"
+      },
+      {
+        "slug": "talent-healthcare",
+        "name": "Talent Healthcare",
+        "url": "/brands/talent-healthcare"
+      },
+      {
+        "slug": "talent-india",
+        "name": "Talent India",
+        "url": "/brands/talent-india"
+      },
+      {
+        "slug": "talin-remedies",
+        "name": "Talin Remedies",
+        "url": "/brands/talin-remedies"
+      },
+      {
+        "slug": "talohsty-medmark-pvt-ltd",
+        "name": "Talohsty Medmark Pvt. Ltd.",
+        "url": "/brands/talohsty-medmark-pvt-ltd"
+      },
+      {
+        "slug": "talson-pharmaceuticals",
+        "name": "Talson Pharmaceuticals",
+        "url": "/brands/talson-pharmaceuticals"
+      },
+      {
+        "slug": "talwar-pharma",
+        "name": "Talwar Pharma",
+        "url": "/brands/talwar-pharma"
+      },
+      {
+        "slug": "tamis-pharma",
+        "name": "Tamis Pharma",
+        "url": "/brands/tamis-pharma"
+      },
+      {
+        "slug": "tamman-titoe-pharma-pvt-ltd",
+        "name": "Tamman Titoe Pharma Pvt. Ltd.",
+        "url": "/brands/tamman-titoe-pharma-pvt-ltd"
+      },
+      {
+        "slug": "tan-therapeuticss",
+        "name": "Tan Therapeuticss",
+        "url": "/brands/tan-therapeuticss"
+      },
+      {
+        "slug": "tandem-life-sciences",
+        "name": "Tandem Life Sciences",
+        "url": "/brands/tandem-life-sciences"
+      },
+      {
+        "slug": "tanik-healthcare-pvt-ltd",
+        "name": "Tanik Healthcare Pvt. Ltd.",
+        "url": "/brands/tanik-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "tanishq-lifecare",
+        "name": "Tanishq Lifecare",
+        "url": "/brands/tanishq-lifecare"
+      }
+    ]
+  },
+  "U": {
+    "letter": "U",
+    "totalPages": 8,
+    "brands": [
+      {
+        "slug": "u-v-cancure-pvt-ltd",
+        "name": "U & V Cancure Pvt. Ltd.",
+        "url": "/brands/u-v-cancure-pvt-ltd"
+      },
+      {
+        "slug": "u-s-biotech",
+        "name": "U.S. Biotech",
+        "url": "/brands/u-s-biotech"
+      },
+      {
+        "slug": "u-v-healthcare",
+        "name": "U&V Healthcare",
+        "url": "/brands/u-v-healthcare"
+      },
+      {
+        "slug": "ubatlife-healthcare",
+        "name": "Ubatlife Healthcare",
+        "url": "/brands/ubatlife-healthcare"
+      },
+      {
+        "slug": "ubik-solutions-pvt-ltd",
+        "name": "UBIK Solutions Pvt. Ltd.",
+        "url": "/brands/ubik-solutions-pvt-ltd"
+      },
+      {
+        "slug": "ubique-pharma-pvt-ltd",
+        "name": "Ubique Pharma Pvt. Ltd.",
+        "url": "/brands/ubique-pharma-pvt-ltd"
+      },
+      {
+        "slug": "ubit-pharmaceuticals-pvt-ltd",
+        "name": "Ubit Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/ubit-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "ubort-remedies",
+        "name": "Ubort Remedies",
+        "url": "/brands/ubort-remedies"
+      },
+      {
+        "slug": "ucardix-pharmaceuticals",
+        "name": "Ucardix Pharmaceuticals",
+        "url": "/brands/ucardix-pharmaceuticals"
+      },
+      {
+        "slug": "ucb-india-pvt-ltd",
+        "name": "UCB India Pvt. Ltd.",
+        "url": "/brands/ucb-india-pvt-ltd"
+      },
+      {
+        "slug": "udai-pharmaceutical-pvt-ltd",
+        "name": "Udai Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/udai-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "udik-pharmaceuticals-pvt-ltd",
+        "name": "Udik Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/udik-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "uhc-life-sciences",
+        "name": "UHC Life Sciences",
+        "url": "/brands/uhc-life-sciences"
+      },
+      {
+        "slug": "uhud-lifesciences-opc-pvt-ltd",
+        "name": "UHUD Lifesciences (OPC) Pvt. Ltd.",
+        "url": "/brands/uhud-lifesciences-opc-pvt-ltd"
+      },
+      {
+        "slug": "uj-life-care-opc-pvt-ltd",
+        "name": "Uj Life Care (opc) Pvt. Ltd.",
+        "url": "/brands/uj-life-care-opc-pvt-ltd"
+      },
+      {
+        "slug": "uko-pharmatech-pvt-ltd",
+        "name": "Uko Pharmatech Pvt. Ltd.",
+        "url": "/brands/uko-pharmatech-pvt-ltd"
+      },
+      {
+        "slug": "ula-pharmaceuticals",
+        "name": "ULA Pharmaceuticals",
+        "url": "/brands/ula-pharmaceuticals"
+      },
+      {
+        "slug": "ulberto-pharma-pvt-ltd",
+        "name": "Ulberto Pharma Pvt. Ltd.",
+        "url": "/brands/ulberto-pharma-pvt-ltd"
+      },
+      {
+        "slug": "ulive-pharma",
+        "name": "Ulive Pharma",
+        "url": "/brands/ulive-pharma"
+      },
+      {
+        "slug": "ulterius-pharmaceuticals-pvt-ltd",
+        "name": "Ulterius Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/ulterius-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "ultichem-pharmaceuticals-pvt-ltd",
+        "name": "Ultichem Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/ultichem-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "ultilab",
+        "name": "Ultilab",
+        "url": "/brands/ultilab"
+      },
+      {
+        "slug": "ultimate-healthcare",
+        "name": "Ultimate Healthcare",
+        "url": "/brands/ultimate-healthcare"
+      },
+      {
+        "slug": "ultimedix",
+        "name": "ULTIMEDIX",
+        "url": "/brands/ultimedix"
+      },
+      {
+        "slug": "ultra-bio-labs",
+        "name": "Ultra Bio Labs",
+        "url": "/brands/ultra-bio-labs"
+      }
+    ]
+  },
+  "V": {
+    "letter": "V",
+    "totalPages": 16,
+    "brands": [
+      {
+        "slug": "v-care-biotech",
+        "name": "V Care Biotech",
+        "url": "/brands/v-care-biotech"
+      },
+      {
+        "slug": "v-care-pharma-pvt-ltd",
+        "name": "V Care Pharma Pvt. Ltd.",
+        "url": "/brands/v-care-pharma-pvt-ltd"
+      },
+      {
+        "slug": "v-mac-pharma-pvt-ltd",
+        "name": "V Mac Pharma Pvt. Ltd.",
+        "url": "/brands/v-mac-pharma-pvt-ltd"
+      },
+      {
+        "slug": "v-r-med-healthcare",
+        "name": "V R Med Healthcare",
+        "url": "/brands/v-r-med-healthcare"
+      },
+      {
+        "slug": "v-s-medico",
+        "name": "V S Medico",
+        "url": "/brands/v-s-medico"
+      },
+      {
+        "slug": "v-kind-healthcare",
+        "name": "V-Kind Healthcare",
+        "url": "/brands/v-kind-healthcare"
+      },
+      {
+        "slug": "v-h-bhagat-co",
+        "name": "V.H Bhagat & Co.",
+        "url": "/brands/v-h-bhagat-co"
+      },
+      {
+        "slug": "v-h-life-sciences",
+        "name": "V.H Life Sciences",
+        "url": "/brands/v-h-life-sciences"
+      },
+      {
+        "slug": "v-l-pharma",
+        "name": "V.L Pharma",
+        "url": "/brands/v-l-pharma"
+      },
+      {
+        "slug": "v-s-healthcare-ltd",
+        "name": "V.S. Healthcare Ltd.",
+        "url": "/brands/v-s-healthcare-ltd"
+      },
+      {
+        "slug": "vaadi-herbals-pvt-ltd",
+        "name": "Vaadi Herbals Pvt. Ltd.",
+        "url": "/brands/vaadi-herbals-pvt-ltd"
+      },
+      {
+        "slug": "vacuoles-pharmaceutical-pvt-ltd",
+        "name": "Vacuoles Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/vacuoles-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "vaddmaan-innovation-llp",
+        "name": "Vaddmaan Innovation LLP",
+        "url": "/brands/vaddmaan-innovation-llp"
+      },
+      {
+        "slug": "vagus",
+        "name": "Vagus",
+        "url": "/brands/vagus"
+      },
+      {
+        "slug": "vaibhav-enterprise",
+        "name": "Vaibhav Enterprise",
+        "url": "/brands/vaibhav-enterprise"
+      },
+      {
+        "slug": "vaishali-pharma-ltd",
+        "name": "Vaishali Pharma Ltd.",
+        "url": "/brands/vaishali-pharma-ltd"
+      },
+      {
+        "slug": "vaishali-pharmaceuticals",
+        "name": "Vaishali Pharmaceuticals",
+        "url": "/brands/vaishali-pharmaceuticals"
+      },
+      {
+        "slug": "vaishnavi-drugs-agency",
+        "name": "Vaishnavi Drugs Agency",
+        "url": "/brands/vaishnavi-drugs-agency"
+      },
+      {
+        "slug": "vajra-life-sciences",
+        "name": "Vajra Life Sciences",
+        "url": "/brands/vajra-life-sciences"
+      },
+      {
+        "slug": "vakker-pharmaceuticals-pvt-ltd",
+        "name": "Vakker Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/vakker-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "vaks-pharma",
+        "name": "Vaks Pharma",
+        "url": "/brands/vaks-pharma"
+      },
+      {
+        "slug": "vaksomac-biotech-pvt-ltd",
+        "name": "Vaksomac Biotech Pvt. Ltd.",
+        "url": "/brands/vaksomac-biotech-pvt-ltd"
+      },
+      {
+        "slug": "vakula-healthcare-pvt-ltd",
+        "name": "Vakula Healthcare Pvt. Ltd.",
+        "url": "/brands/vakula-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "valay-india-pharma-pvt-ltd",
+        "name": "Valay India Pharma Pvt. Ltd.",
+        "url": "/brands/valay-india-pharma-pvt-ltd"
+      },
+      {
+        "slug": "valcret-lifesciences-pvt-ltd",
+        "name": "Valcret Lifesciences Pvt. Ltd.",
+        "url": "/brands/valcret-lifesciences-pvt-ltd"
+      }
+    ]
+  },
+  "W": {
+    "letter": "W",
+    "totalPages": 9,
+    "brands": [
+      {
+        "slug": "waddle-healthcare-pvt-ltd",
+        "name": "Waddle Healthcare Pvt. Ltd.",
+        "url": "/brands/waddle-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "wafture-healthcare-pvt-ltd",
+        "name": "Wafture Healthcare Pvt. Ltd.",
+        "url": "/brands/wafture-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "wagtail-biotech-pvt-ltd",
+        "name": "Wagtail Biotech Pvt. Ltd.",
+        "url": "/brands/wagtail-biotech-pvt-ltd"
+      },
+      {
+        "slug": "waksman-selman-pharmaceuticals-pvt-ltd",
+        "name": "Waksman Selman Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/waksman-selman-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "waksmed-lifescience-pvt-ltd",
+        "name": "Waksmed Lifescience Pvt. Ltd.",
+        "url": "/brands/waksmed-lifescience-pvt-ltd"
+      },
+      {
+        "slug": "wal-mart-store-inc",
+        "name": "Wal-Mart Store, Inc..",
+        "url": "/brands/wal-mart-store-inc"
+      },
+      {
+        "slug": "walberg-pharmaceuticals",
+        "name": "Walberg Pharmaceuticals",
+        "url": "/brands/walberg-pharmaceuticals"
+      },
+      {
+        "slug": "walfs-pharma-pvt-ltd",
+        "name": "Walfs Pharma Pvt. Ltd.",
+        "url": "/brands/walfs-pharma-pvt-ltd"
+      },
+      {
+        "slug": "wallace-pharmaceuticals-pvt-ltd",
+        "name": "Wallace Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/wallace-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "wallnutree-neurosciences-india-pvt-ltd",
+        "name": "Wallnutree Neurosciences India Pvt. Ltd.",
+        "url": "/brands/wallnutree-neurosciences-india-pvt-ltd"
+      },
+      {
+        "slug": "wallrey-pharmaceuticals",
+        "name": "Wallrey Pharmaceuticals",
+        "url": "/brands/wallrey-pharmaceuticals"
+      },
+      {
+        "slug": "walmark-meditech-pvt-ltd",
+        "name": "Walmark Meditech Pvt. Ltd.",
+        "url": "/brands/walmark-meditech-pvt-ltd"
+      },
+      {
+        "slug": "walnut-lifesciences",
+        "name": "Walnut Lifesciences",
+        "url": "/brands/walnut-lifesciences"
+      },
+      {
+        "slug": "walnut-pharma-pvt-ltd",
+        "name": "Walnut Pharma Pvt. Ltd.",
+        "url": "/brands/walnut-pharma-pvt-ltd"
+      },
+      {
+        "slug": "walpar-healthcare",
+        "name": "Walpar Healthcare",
+        "url": "/brands/walpar-healthcare"
+      },
+      {
+        "slug": "walron-healthcare-pvt-ltd",
+        "name": "Walron Healthcare Pvt. Ltd.",
+        "url": "/brands/walron-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "walter-bushnell",
+        "name": "Walter Bushnell",
+        "url": "/brands/walter-bushnell"
+      },
+      {
+        "slug": "walton-healthcare-pvt-ltd",
+        "name": "Walton Healthcare Pvt. Ltd.",
+        "url": "/brands/walton-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "wanbury-ltd",
+        "name": "Wanbury Ltd.",
+        "url": "/brands/wanbury-ltd"
+      },
+      {
+        "slug": "wander-ltd",
+        "name": "Wander Ltd.",
+        "url": "/brands/wander-ltd"
+      },
+      {
+        "slug": "wannock-pharmaceuticals",
+        "name": "Wannock Pharmaceuticals",
+        "url": "/brands/wannock-pharmaceuticals"
+      },
+      {
+        "slug": "wardex-pharmaceutical-pvt-ltd",
+        "name": "Wardex Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/wardex-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "warikind-pharmaceuticals-pvt-ltd",
+        "name": "Warikind Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/warikind-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "warner-india-pvt-ltd",
+        "name": "Warner India Pvt. Ltd.",
+        "url": "/brands/warner-india-pvt-ltd"
+      },
+      {
+        "slug": "warren-pharmaceuticals-ltd",
+        "name": "Warren Pharmaceuticals Ltd.",
+        "url": "/brands/warren-pharmaceuticals-ltd"
+      }
+    ]
+  },
+  "X": {
+    "letter": "X",
+    "totalPages": 2,
+    "brands": [
+      {
+        "slug": "x-ever-life-science-pvt-ltd",
+        "name": "X Ever Life Science Pvt. Ltd.",
+        "url": "/brands/x-ever-life-science-pvt-ltd"
+      },
+      {
+        "slug": "x-med-medisciences",
+        "name": "X-Med Medisciences",
+        "url": "/brands/x-med-medisciences"
+      },
+      {
+        "slug": "xan-pharma-labs-pvt-ltd",
+        "name": "Xan Pharma Labs Pvt. Ltd.",
+        "url": "/brands/xan-pharma-labs-pvt-ltd"
+      },
+      {
+        "slug": "xanocia-lifesciences",
+        "name": "Xanocia Lifesciences",
+        "url": "/brands/xanocia-lifesciences"
+      },
+      {
+        "slug": "xavi-biotech-pvt-ltd",
+        "name": "Xavi Biotech Pvt. Ltd.",
+        "url": "/brands/xavi-biotech-pvt-ltd"
+      },
+      {
+        "slug": "xcel-labs",
+        "name": "Xcel Labs",
+        "url": "/brands/xcel-labs"
+      },
+      {
+        "slug": "xectus-healthcare",
+        "name": "Xectus Healthcare",
+        "url": "/brands/xectus-healthcare"
+      },
+      {
+        "slug": "xellence-laboratories",
+        "name": "Xellence Laboratories",
+        "url": "/brands/xellence-laboratories"
+      },
+      {
+        "slug": "xemex-life-sciences",
+        "name": "Xemex Life Sciences",
+        "url": "/brands/xemex-life-sciences"
+      },
+      {
+        "slug": "xemex-pharmaceuticals-pvt-ltd",
+        "name": "Xemex Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/xemex-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "xena-coronus-healthcare-pvt-ltd",
+        "name": "Xena Coronus Healthcare Pvt. Ltd.",
+        "url": "/brands/xena-coronus-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "xencare-lifesciences-pvt-ltd",
+        "name": "Xencare Lifesciences Pvt. Ltd.",
+        "url": "/brands/xencare-lifesciences-pvt-ltd"
+      },
+      {
+        "slug": "xenial-pharma",
+        "name": "Xenial Pharma",
+        "url": "/brands/xenial-pharma"
+      },
+      {
+        "slug": "xeno-pharmaceuticals-pvt-ltd",
+        "name": "Xeno Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/xeno-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "xenomics-pharmaceuticals-pvt-ltd",
+        "name": "Xenomics Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/xenomics-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "xenon-pharmaceuticals",
+        "name": "Xenon Pharmaceuticals",
+        "url": "/brands/xenon-pharmaceuticals"
+      },
+      {
+        "slug": "xenovia-healthcare-pvt-ltd",
+        "name": "Xenovia Healthcare Pvt. Ltd.",
+        "url": "/brands/xenovia-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "xeplo-healthcare-pvt-ltd",
+        "name": "Xeplo Healthcare Pvt. Ltd.",
+        "url": "/brands/xeplo-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "xesus-pharmaceuticals",
+        "name": "Xesus Pharmaceuticals",
+        "url": "/brands/xesus-pharmaceuticals"
+      },
+      {
+        "slug": "xieon-life-sciences-pvt-ltd",
+        "name": "Xieon Life Sciences Pvt. Ltd.",
+        "url": "/brands/xieon-life-sciences-pvt-ltd"
+      },
+      {
+        "slug": "ximing-labs-pvt-ltd",
+        "name": "Ximing Labs Pvt. Ltd.",
+        "url": "/brands/ximing-labs-pvt-ltd"
+      },
+      {
+        "slug": "xion-pharmaceuticals-pvt-ltd",
+        "name": "Xion Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/xion-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "xlcea-pharmaceuticals-pvt-ltd",
+        "name": "Xlcea Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/xlcea-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "xovak-pharmtech",
+        "name": "Xovak Pharmtech",
+        "url": "/brands/xovak-pharmtech"
+      },
+      {
+        "slug": "xperia-healthcare-pvt-ltd",
+        "name": "Xperia Healthcare Pvt. Ltd.",
+        "url": "/brands/xperia-healthcare-pvt-ltd"
+      }
+    ]
+  },
+  "Y": {
+    "letter": "Y",
+    "totalPages": 2,
+    "brands": [
+      {
+        "slug": "y-t-enterprises-gurukul-kangri-pharmacy",
+        "name": "Y T Enterprises (Gurukul Kangri Pharmacy)",
+        "url": "/brands/y-t-enterprises-gurukul-kangri-pharmacy"
+      },
+      {
+        "slug": "yacca-pharmaceuticals-pvt-ltd",
+        "name": "Yacca Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/yacca-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "yaher-pharma",
+        "name": "Yaher Pharma",
+        "url": "/brands/yaher-pharma"
+      },
+      {
+        "slug": "yahova-biotechnologies-pvt-ltd",
+        "name": "Yahova Biotechnologies Pvt. Ltd.",
+        "url": "/brands/yahova-biotechnologies-pvt-ltd"
+      },
+      {
+        "slug": "yami-pharma",
+        "name": "Yami Pharma",
+        "url": "/brands/yami-pharma"
+      },
+      {
+        "slug": "yanolite-pharma-pvt-ltd",
+        "name": "Yanolite Pharma Pvt. Ltd.",
+        "url": "/brands/yanolite-pharma-pvt-ltd"
+      },
+      {
+        "slug": "yap-bioceuticals",
+        "name": "Yap Bioceuticals",
+        "url": "/brands/yap-bioceuticals"
+      },
+      {
+        "slug": "yap-cosderm-laboratories-pvt-ltd",
+        "name": "Yap Cosderm Laboratories Pvt. Ltd.",
+        "url": "/brands/yap-cosderm-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "yash-care-lifesciences",
+        "name": "Yash Care Lifesciences",
+        "url": "/brands/yash-care-lifesciences"
+      },
+      {
+        "slug": "yash-pharma-laboratories-pvt-ltd",
+        "name": "Yash Pharma Laboratories Pvt. Ltd.",
+        "url": "/brands/yash-pharma-laboratories-pvt-ltd"
+      },
+      {
+        "slug": "yash-remedies",
+        "name": "Yash Remedies",
+        "url": "/brands/yash-remedies"
+      },
+      {
+        "slug": "yashram-lifestyle-brands-pvt-ltd",
+        "name": "Yashram Lifestyle Brands Pvt. Ltd.",
+        "url": "/brands/yashram-lifestyle-brands-pvt-ltd"
+      },
+      {
+        "slug": "yashtraa-healthcare",
+        "name": "Yashtraa Healthcare",
+        "url": "/brands/yashtraa-healthcare"
+      },
+      {
+        "slug": "yathansh-biopharmaceuticals",
+        "name": "Yathansh Biopharmaceuticals",
+        "url": "/brands/yathansh-biopharmaceuticals"
+      },
+      {
+        "slug": "yaxon-biocare-pvt-ltd",
+        "name": "Yaxon BioCare Pvt. Ltd.",
+        "url": "/brands/yaxon-biocare-pvt-ltd"
+      },
+      {
+        "slug": "yazh-pharma",
+        "name": "Yazh Pharma",
+        "url": "/brands/yazh-pharma"
+      },
+      {
+        "slug": "yazidi-pharma",
+        "name": "Yazidi Pharma",
+        "url": "/brands/yazidi-pharma"
+      },
+      {
+        "slug": "yeluri-formulations-pvt-ltd",
+        "name": "Yeluri Formulations Pvt. Ltd.",
+        "url": "/brands/yeluri-formulations-pvt-ltd"
+      },
+      {
+        "slug": "yenisowl-pharmaceuticals",
+        "name": "Yenisowl Pharmaceuticals",
+        "url": "/brands/yenisowl-pharmaceuticals"
+      },
+      {
+        "slug": "yeoman-drugs",
+        "name": "Yeoman Drugs",
+        "url": "/brands/yeoman-drugs"
+      },
+      {
+        "slug": "yes-pharma",
+        "name": "Yes Pharma",
+        "url": "/brands/yes-pharma"
+      },
+      {
+        "slug": "yester-pharma-pvt-ltd",
+        "name": "Yester Pharma Pvt. Ltd.",
+        "url": "/brands/yester-pharma-pvt-ltd"
+      },
+      {
+        "slug": "yew-biotech",
+        "name": "Yew Biotech",
+        "url": "/brands/yew-biotech"
+      },
+      {
+        "slug": "yew-lifesciences",
+        "name": "Yew Lifesciences",
+        "url": "/brands/yew-lifesciences"
+      },
+      {
+        "slug": "yodley-life-sciences-pvt-ltd",
+        "name": "Yodley Life Sciences Pvt. Ltd.",
+        "url": "/brands/yodley-life-sciences-pvt-ltd"
+      }
+    ]
+  },
+  "Z": {
+    "letter": "Z",
+    "totalPages": 10,
+    "brands": [
+      {
+        "slug": "z-plus-remedies",
+        "name": "Z Plus Remedies",
+        "url": "/brands/z-plus-remedies"
+      },
+      {
+        "slug": "za1-pharmaceuticals-pvt-ltd",
+        "name": "Za1 Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/za1-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "zadine-rumbs-ltd",
+        "name": "Zadine Rumbs Ltd.",
+        "url": "/brands/zadine-rumbs-ltd"
+      },
+      {
+        "slug": "zainarco-labs-pvt-ltd",
+        "name": "Zainarco Labs Pvt. Ltd.",
+        "url": "/brands/zainarco-labs-pvt-ltd"
+      },
+      {
+        "slug": "zainul-bio-remedies-llp",
+        "name": "Zainul Bio-Remedies LLP",
+        "url": "/brands/zainul-bio-remedies-llp"
+      },
+      {
+        "slug": "zainul-pharmaceutical-pvt-ltd",
+        "name": "Zainul Pharmaceutical Pvt. Ltd.",
+        "url": "/brands/zainul-pharmaceutical-pvt-ltd"
+      },
+      {
+        "slug": "zaiva-lifesciences",
+        "name": "Zaiva Lifesciences",
+        "url": "/brands/zaiva-lifesciences"
+      },
+      {
+        "slug": "zalman-life-sciences",
+        "name": "Zalman Life Sciences",
+        "url": "/brands/zalman-life-sciences"
+      },
+      {
+        "slug": "zam-zam-halal-products-pvt-ltd",
+        "name": "Zam Zam Halal Products Pvt. Ltd.",
+        "url": "/brands/zam-zam-halal-products-pvt-ltd"
+      },
+      {
+        "slug": "zandu-pharmaceutical-works-ltd",
+        "name": "Zandu Pharmaceutical Works Ltd.",
+        "url": "/brands/zandu-pharmaceutical-works-ltd"
+      },
+      {
+        "slug": "zaneka-healthcare-pvt-ltd",
+        "name": "Zaneka Healthcare Pvt. Ltd.",
+        "url": "/brands/zaneka-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "zanetaz-medicorp",
+        "name": "Zanetaz Medicorp",
+        "url": "/brands/zanetaz-medicorp"
+      },
+      {
+        "slug": "zaney-pharma-pvt-ltd",
+        "name": "Zaney Pharma Pvt. Ltd.",
+        "url": "/brands/zaney-pharma-pvt-ltd"
+      },
+      {
+        "slug": "zanjoe-formulation-pvt-ltd",
+        "name": "Zanjoe Formulation Pvt. Ltd.",
+        "url": "/brands/zanjoe-formulation-pvt-ltd"
+      },
+      {
+        "slug": "zap-healthcare-pvt-ltd",
+        "name": "Zap Healthcare Pvt. Ltd.",
+        "url": "/brands/zap-healthcare-pvt-ltd"
+      },
+      {
+        "slug": "zaq-healthcare",
+        "name": "Zaq Healthcare",
+        "url": "/brands/zaq-healthcare"
+      },
+      {
+        "slug": "zareenova-pharma",
+        "name": "Zareenova Pharma",
+        "url": "/brands/zareenova-pharma"
+      },
+      {
+        "slug": "zareta-biotec-pvt-ltd",
+        "name": "Zareta Biotec Pvt. Ltd.",
+        "url": "/brands/zareta-biotec-pvt-ltd"
+      },
+      {
+        "slug": "zargan-healthcare",
+        "name": "Zargan Healthcare",
+        "url": "/brands/zargan-healthcare"
+      },
+      {
+        "slug": "zaria-pharmaceuticals-pvt-ltd",
+        "name": "Zaria Pharmaceuticals Pvt. Ltd.",
+        "url": "/brands/zaria-pharmaceuticals-pvt-ltd"
+      },
+      {
+        "slug": "zatine-cosmocon-pharma-pvt-ltd",
+        "name": "Zatine Cosmocon Pharma Pvt. Ltd.",
+        "url": "/brands/zatine-cosmocon-pharma-pvt-ltd"
+      },
+      {
+        "slug": "zatropha-pharma",
+        "name": "Zatropha Pharma",
+        "url": "/brands/zatropha-pharma"
+      },
+      {
+        "slug": "zaurac-healthcare",
+        "name": "Zaurac Healthcare",
+        "url": "/brands/zaurac-healthcare"
+      },
+      {
+        "slug": "zavik-drugs",
+        "name": "Zavik Drugs",
+        "url": "/brands/zavik-drugs"
+      },
+      {
+        "slug": "zavion-therapeutics",
+        "name": "Zavion Therapeutics",
+        "url": "/brands/zavion-therapeutics"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3080 @@
+{
+  "0-9": {
+    "letter": "0-9",
+    "totalPages": 25,
+    "items": [
+      {
+        "slug": "10-d-10-infusion-500ml",
+        "id": "1327667",
+        "name": "10 D 10% Infusion 500ml",
+        "manufacturer": "Claris Lifesciences Ltd.",
+        "price": 139,
+        "packageSize": "Bottle of 500 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "10-d-10-injection-500ml",
+        "id": "1340310",
+        "name": "10 D 10% Injection 500ml",
+        "manufacturer": "Otsuka Pharmaceutical India Pvt. Ltd.",
+        "price": 36,
+        "packageSize": "Bottle of 500 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "10-li-20mg-tablet-10s",
+        "id": "1079529",
+        "name": "10 LI 20mg Tablet 10s",
+        "manufacturer": "Apex Diagnostic And Imaging Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/b30cccb9-9533-409a-b07d-a0f305eb73a1_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "10-li-m-500-20mg-sr-tablet-10s",
+        "id": "1108622",
+        "name": "10 LI M 500/20mg SR Tablet 10s",
+        "manufacturer": "Apex Diagnostic And Imaging Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/6b045661-8cc7-4259-8874-87636c7053e1_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "10-pm-25mg-tablet-4s",
+        "id": "1322778",
+        "name": "10 PM 25mg Tablet 4s",
+        "manufacturer": "Hallmark Formulations Pharmaceuticals",
+        "price": 79,
+        "packageSize": "Strip of 4 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "10-pm-50mg-tablet-4s",
+        "id": "1218149",
+        "name": "10 PM 50mg Tablet 4s",
+        "manufacturer": "Hallmark Formulations Pharmaceuticals",
+        "price": 111,
+        "packageSize": "Strip of 4 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "1-al-10mg-tablet-15s",
+        "id": "1199517",
+        "name": "1 AL 10mg Tablet 15s",
+        "manufacturer": "FDC Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/7ca258d4-4a91-49f6-9473-59836d46e6d1_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "1-al-2-5mg-syrup-30ml",
+        "id": "1011437",
+        "name": "1 AL 2.5mg Syrup 30ml",
+        "manufacturer": "FDC Ltd.",
+        "price": 25,
+        "packageSize": "Bottle of 30 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/af54b538-e132-4a5a-8cef-b8e69b30e61d_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "1-al-5mg-tablet-10s",
+        "id": "1005886",
+        "name": "1 AL 5mg Tablet 10s",
+        "manufacturer": "FDC Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/89478fde-ba5c-40bd-80e3-2d5d5dbd7115_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "1-al-ax-5-75mg-capsule-10s",
+        "id": "1115416",
+        "name": "1 AL AX 5/75mg Capsule 10s",
+        "manufacturer": "FDC Ltd.",
+        "price": 65,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "1-al-m-2-5-4mg-syrup-60ml",
+        "id": "1298445",
+        "name": "1 AL M 2.5/4mg Syrup 60ml",
+        "manufacturer": "FDC Ltd.",
+        "price": 25,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/c9c341ca-485b-40fe-992f-71518c52f37c_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "1-al-m-5-10mg-tablet-10s",
+        "id": "1200710",
+        "name": "1 AL M 5/10mg Tablet 10s",
+        "manufacturer": "FDC Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/2bdcd964-364e-40b6-8a41-81eb196b8086_wm.png?w=640&amp;q=80"
+      }
+    ]
+  },
+  "A": {
+    "letter": "A",
+    "totalPages": 3496,
+    "items": [
+      {
+        "slug": "a-125mg-suspension-60ml",
+        "id": "1062178",
+        "name": "A 125mg Suspension 60ml",
+        "manufacturer": "Adventure Life Sciences Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a-13-cream-10gm",
+        "id": "1362728",
+        "name": "A 13 Cream 10gm",
+        "manufacturer": "Indi Pharma",
+        "price": 55,
+        "packageSize": "Tube of 10 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a1-5mg-tablet-10s-pasteur-",
+        "id": "1413715",
+        "name": "A1 5mg Tablet 10s (Pasteur)",
+        "manufacturer": "Pasteur Laboratories Pvt. Ltd.",
+        "price": 11,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a-1-5mg-tablet-10s-patson-",
+        "id": "1114444",
+        "name": "A 1 5mg Tablet 10s (Patson)",
+        "manufacturer": "Patson Laboratories Pvt. Ltd.",
+        "price": 11,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a1a-10-75mg-capsule-10s",
+        "id": "1261679",
+        "name": "A1A 10/75mg Capsule 10s",
+        "manufacturer": "Strides shasun Ltd.",
+        "price": 56,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a1-mox-xl-400-57mg-oral-solution-60ml",
+        "id": "1919183",
+        "name": "A1 Mox XL 400/57mg Oral Solution 60ml",
+        "manufacturer": "Biotree Formulations Pvt. Ltd.",
+        "price": 299,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://plrx.gumlet.io/be9f13ca-606d-46db-9402-fb6b4a262a6f.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "a24-250mg-tablet-6s",
+        "id": "1117643",
+        "name": "A24 250mg Tablet 6s",
+        "manufacturer": "Comed Chemicals Ltd.",
+        "price": 53,
+        "packageSize": "Strip of 6 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a24-500mg-tablet-3s",
+        "id": "1867071",
+        "name": "A24 500mg Tablet 3s",
+        "manufacturer": "Comed Chemicals Ltd.",
+        "price": 60,
+        "packageSize": "Strip of 3 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a24-500mg-tablet-5s",
+        "id": "1248700",
+        "name": "A24 500mg Tablet 5s",
+        "manufacturer": "Comed Chemicals Ltd.",
+        "price": 104,
+        "packageSize": "Strip of 5 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a-250mg-suspension-60ml",
+        "id": "1048325",
+        "name": "A 250mg Suspension 60ml",
+        "manufacturer": "Adventure Life Sciences Pvt. Ltd.",
+        "price": 28,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a2-5-10mg-tablet-10s",
+        "id": "1119081",
+        "name": "A2 5/10mg Tablet 10s",
+        "manufacturer": "Zydus Cadila",
+        "price": 37,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "a2-5-50mg-tablet-10s",
+        "id": "1115908",
+        "name": "A2 5/50mg Tablet 10s",
+        "manufacturer": "Patson Laboratories Pvt. Ltd.",
+        "price": 17,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "B": {
+    "letter": "B",
+    "totalPages": 1116,
+    "items": [
+      {
+        "slug": "b-0-5-mof-eye-drop-5ml",
+        "id": "1871114",
+        "name": "B 0.5% Mof Eye Drop 5ml",
+        "manufacturer": "Ben Remedies Pvt. Ltd.",
+        "price": 121,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "b12-bigshots-1500mcg-aq-injection-1ml",
+        "id": "1871140",
+        "name": "B12 Bigshots 1500mcg AQ Injection 1ml",
+        "manufacturer": "Diabello Healthcare Pvt. Ltd.",
+        "price": 139,
+        "packageSize": "Prefilled of 1 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "b12-plus-1500mcg-injection-1ml",
+        "id": "1871141",
+        "name": "B12 Plus+ 1500mcg Injection 1ml",
+        "manufacturer": "Hubris Pharmaceuticals Pvt. Ltd.",
+        "price": 170,
+        "packageSize": "Prefilled of 1 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "b1mgrok-20mg-tablet-10s",
+        "id": "1871142",
+        "name": "B1mgrok 20mg Tablet 10s",
+        "manufacturer": "Jagsam Pharma",
+        "price": 150,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "b1mgrok-40mg-tablet-10s",
+        "id": "1871143",
+        "name": "B1mgrok 40mg Tablet 10s",
+        "manufacturer": "Jagsam Pharma",
+        "price": 196,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "b-29-500mcg-injection",
+        "id": "1231382",
+        "name": "B-29 500mcg Injection",
+        "manufacturer": "Corona Remedies Pvt. Ltd.",
+        "price": 38,
+        "packageSize": "Vial of 1 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "b-29-aq-injection",
+        "id": "1296230",
+        "name": "B-29 AQ Injection",
+        "manufacturer": "Corona Remedies Pvt. Ltd.",
+        "price": 69,
+        "packageSize": "Vial of 1 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/32b5c73c-721c-4158-be83-a3366ea1e02b_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "b-29-aq-pfs-1500mcg-injection-1ml",
+        "id": "1012920",
+        "name": "B 29 AQ PFS 1500mcg Injection 1ml",
+        "manufacturer": "Corona Remedies Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Prefilled syringe of 1 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/3a632ce5-e8ee-4f37-a6e5-0b945836e076_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "b-29-lc-tablet-10s",
+        "id": "1376631",
+        "name": "B 29 LC Tablet 10s",
+        "manufacturer": "Corona Remedies Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/3521df17-0ae7-436b-a1ff-73b454187646_cswm?w=640&amp;q=80"
+      },
+      {
+        "slug": "b-29-lc-tablet-15s",
+        "id": "1834279",
+        "name": "B 29 LC Tablet 15s",
+        "manufacturer": "Corona Remedies Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/1942bd9f-d99b-468a-b201-67cc744ab2e2_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "b-29max-capsule-10s",
+        "id": "1201422",
+        "name": "B 29Max Capsule 10s",
+        "manufacturer": "Corona Remedies Pvt. Ltd.",
+        "price": 201,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/6d3f5704-bb11-43d6-9831-cd4d53d2baf4_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "b-29max-capsule-15s",
+        "id": "1414741",
+        "name": "B 29Max Capsule 15s",
+        "manufacturer": "Corona Remedies Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 15 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/ca511e39-fee6-4d68-85d7-1bc7965541ad_wm.png?w=640&amp;q=80"
+      }
+    ]
+  },
+  "C": {
+    "letter": "C",
+    "totalPages": 3407,
+    "items": [
+      {
+        "slug": "c009-0-09-eye-drop-5ml",
+        "id": "1920269",
+        "name": "C009 0.09% Eye Drop 5ml",
+        "manufacturer": "Entod Pharmaceuticals Ltd.",
+        "price": 395,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c-0-5-max-eye-drop-5ml",
+        "id": "1872753",
+        "name": "C 0.5% Max Eye Drop 5ml",
+        "manufacturer": "Rexoby Pharmaceutical Pvt. Ltd.",
+        "price": 155,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c-10-40mg-telsys-tablet-10s",
+        "id": "1872754",
+        "name": "C 10/40mg Telsys Tablet 10s",
+        "manufacturer": "Macsys LifeSciences",
+        "price": 45,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/bf774cb3-51f7-4827-afed-a976f2ec5335_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "c-10-cold-tablet-10s",
+        "id": "1329172",
+        "name": "C 10 Cold Tablet 10s",
+        "manufacturer": "Nukind Healthcare Pvt. Ltd.",
+        "price": 30,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c-10-cold-total-tablet-10s",
+        "id": "1127587",
+        "name": "C 10 Cold &amp; Total Tablet 10s",
+        "manufacturer": "Nukind Healthcare Pvt. Ltd.",
+        "price": 67,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c-10mg-flozin-tablet-10s",
+        "id": "1872755",
+        "name": "C 10mg Flozin Tablet 10s",
+        "manufacturer": "Cucard Pharma",
+        "price": 131,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c-200mg-tablet",
+        "id": "1411211",
+        "name": "C 200mg Tablet",
+        "manufacturer": "Atlantic Pharma Ltd.",
+        "price": 120,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c-2-275mg-pon-syrup-200ml",
+        "id": "1872756",
+        "name": "C 2/275mg Pon Syrup 200ml",
+        "manufacturer": "Thar Pharmaceuticals",
+        "price": 70,
+        "packageSize": "Bottle of 200 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c2cef-200-125mg-cv-tablet-10s",
+        "id": "1872789",
+        "name": "C2Cef 200/125mg CV Tablet 10s",
+        "manufacturer": "Coxmed Pharma",
+        "price": 234,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c2-cold-tablet-10s",
+        "id": "1872787",
+        "name": "C2 Cold Tablet 10s",
+        "manufacturer": "Vin Arx Pharmaceuticals Pvt. Ltd.",
+        "price": 61,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c2-dx-4-10mg-cough-syrup-sugar-free-100ml",
+        "id": "1872788",
+        "name": "C2 DX 4/10mg Cough Syrup Sugar Free 100ml",
+        "manufacturer": "Vin Arx Pharmaceuticals Pvt. Ltd.",
+        "price": 93,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "c2fix-o-tablet",
+        "id": "1408675",
+        "name": "C2fix-O Tablet",
+        "manufacturer": "Capsules India",
+        "price": 161,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/5b30ae30-d238-4479-98dc-78a17a087978_wm.png?w=640&amp;q=80"
+      }
+    ]
+  },
+  "D": {
+    "letter": "D",
+    "totalPages": 2077,
+    "items": [
+      {
+        "slug": "d-10-20mg-opz-capsule-15s",
+        "id": "1876854",
+        "name": "D 10/20mg Opz Capsule 15s",
+        "manufacturer": "DWD Pharmaceuticals Ltd.",
+        "price": 146,
+        "packageSize": "Strip of 15 Capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d-10-325mg-pam-tablet-10s",
+        "id": "1876855",
+        "name": "D 10/325mg Pam Tablet 10s",
+        "manufacturer": "Monarchy Lifescience Pvt. Ltd.",
+        "price": 46,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d-10-infusion",
+        "id": "1327949",
+        "name": "D 10% Infusion",
+        "manufacturer": "AXA Parenterals Ltd.",
+        "price": 68,
+        "packageSize": "Bottle of 500 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d-1500mcg-meth-injection-1s",
+        "id": "1876856",
+        "name": "D 1500mcg Meth Injection 1s",
+        "manufacturer": "DWD Pharmaceuticals Ltd.",
+        "price": 50,
+        "packageSize": "Ampoule of 1 Unit",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d-150mg-1gm-1gm-kit",
+        "id": "1273926",
+        "name": "D 150mg/1gm/1gm Kit",
+        "manufacturer": "Daksh Pharma Pvt. Ltd.",
+        "price": 110,
+        "packageSize": "Packet of 1 Kit",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d-20-capsule",
+        "id": "1083553",
+        "name": "D 20 Capsule",
+        "manufacturer": "Austin Healthcare",
+        "price": 117,
+        "packageSize": "Strip of 15 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/7901da9e-d756-4015-aa60-951866bcb54d_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "d2-10mg-fem-tablet-10s",
+        "id": "1876926",
+        "name": "D2 10mg Fem Tablet 10s",
+        "manufacturer": "Repens Healthcare India Pvt. Ltd.",
+        "price": 562,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d-25-infusion",
+        "id": "1388919",
+        "name": "D 25% Infusion",
+        "manufacturer": "Marck Biosciences Ltd.",
+        "price": 17,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d-25-infusion-100ml",
+        "id": "1863158",
+        "name": "D 25 % Infusion 100ml",
+        "manufacturer": "Intas Pharmaceuticals Ltd.",
+        "price": 19,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d-2-classy-200mg-125mg-tablet",
+        "id": "1158741",
+        "name": "D 2 Classy 200mg/125mg Tablet",
+        "manufacturer": "Henry Pharmaceuticals",
+        "price": 89,
+        "packageSize": "Strip of 6 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d2-cort-6mg-tablet",
+        "id": "1031188",
+        "name": "D2 Cort 6mg Tablet",
+        "manufacturer": "Daffohils Laboratories Pvt. Ltd.",
+        "price": 86,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "d2h-tablet",
+        "id": "1252036",
+        "name": "D2H Tablet",
+        "manufacturer": "Jaiwik Biotech",
+        "price": 77,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "E": {
+    "letter": "E",
+    "totalPages": 1606,
+    "items": [
+      {
+        "slug": "e-2-0-06-gel-3gm",
+        "id": "1210063",
+        "name": "E 2 0.06% Gel 3gm",
+        "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+        "price": 10,
+        "packageSize": "Tube of 3 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "e-2-2mg-tablet-18s",
+        "id": "1228849",
+        "name": "E 2 2mg Tablet 18s",
+        "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+        "price": 152,
+        "packageSize": "Strip of 18 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2-2mg-tablet-28s",
+        "id": "1246334",
+        "name": "E2 2mg Tablet 28s",
+        "manufacturer": "Varima Pharma Pvt. Ltd.",
+        "price": 459,
+        "packageSize": "Strip of 28 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/927ac94b-563d-4977-afff-a70238eb3b66_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2care-tablet",
+        "id": "1234602",
+        "name": "E2care Tablet",
+        "manufacturer": "Cheminnova Life Sciences",
+        "price": 337,
+        "packageSize": "Strip of 28 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/7bb5bd0e-6eb9-4ef3-96b8-a81a16cf55e7_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2mg-shine-tablet-28s",
+        "id": "1879933",
+        "name": "E2mg Shine Tablet 28s",
+        "manufacturer": "Ellinor Lifesciences",
+        "price": 525,
+        "packageSize": "Strip of 28 Tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/809e4c97-f5cc-4b18-bf4d-1a9832bb7b39_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2mgval-2mg-tablet-28s",
+        "id": "1879934",
+        "name": "E2mgVal 2mg Tablet 28s",
+        "manufacturer": "Senovio Healthcare Pvt. Ltd.",
+        "price": 426,
+        "packageSize": "Strip of 28 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2r-20mg-tablet",
+        "id": "1246487",
+        "name": "E2R 20mg Tablet",
+        "manufacturer": "Libramed Pharmaceuticals Private Ltd.",
+        "price": 17,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2r-d-30mg-20mg-capsule-sr",
+        "id": "1085089",
+        "name": "E2R D 30mg/20mg Capsule SR",
+        "manufacturer": "Libramed Pharmaceuticals Private Ltd.",
+        "price": 42,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2rifit-120mg-tablet",
+        "id": "1363673",
+        "name": "E2Rifit 120mg Tablet",
+        "manufacturer": "Aroma Healthcare",
+        "price": 173,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2rifit-mr-150mg-60mg-tablet-10s",
+        "id": "1405650",
+        "name": "E2Rifit MR 150mg/60mg Tablet 10s",
+        "manufacturer": "Aroma Healthcare",
+        "price": 243,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2tab-h-2mg-tablet-28s",
+        "id": "1010841",
+        "name": "E2tab H 2mg Tablet 28s",
+        "manufacturer": "Varima Pharma Pvt. Ltd.",
+        "price": 500,
+        "packageSize": "Strip of 28 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/71076fc4-e070-47a8-9c0d-d74f3f1e1b27_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "e2v-0-06-gel-80gm",
+        "id": "1918204",
+        "name": "E2V 0.06% Gel 80gm",
+        "manufacturer": "Gland Pharma Ltd",
+        "price": 1,
+        "packageSize": "Tube of 80 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "F": {
+    "letter": "F",
+    "totalPages": 1303,
+    "items": [
+      {
+        "slug": "f-029-d-capsule",
+        "id": "1098792",
+        "name": "F 029 D Capsule",
+        "manufacturer": "Akumentis Healthcare Ltd.",
+        "price": 189,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/0f094646-e349-4b37-8c9f-20c2751c735f_wm.jpeg?w=640&amp;q=80"
+      },
+      {
+        "slug": "f-120mg-tablet-6s",
+        "id": "1329264",
+        "name": "F 120mg Tablet 6s",
+        "manufacturer": "Zoic Lifesciences",
+        "price": 33,
+        "packageSize": "Strip of 6 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "f-150mg-tablet-4s",
+        "id": "1070297",
+        "name": "F 150mg Tablet 4s",
+        "manufacturer": "Symbiosis Pharmaceuticals Pvt. Ltd.",
+        "price": 57,
+        "packageSize": "Strip of 4 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "f-180mg-tablet-10s",
+        "id": "1030817",
+        "name": "F 180mg Tablet 10s",
+        "manufacturer": "Zoic Lifesciences",
+        "price": 140,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "f-1mg-tablet",
+        "id": "1317327",
+        "name": "F 1mg Tablet",
+        "manufacturer": "Newtrimed",
+        "price": 46,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "f-1-rise-plus-tablet-10s",
+        "id": "1145580",
+        "name": "F 1 Rise Plus Tablet 10s",
+        "manufacturer": "911 Dermatology Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/da47defe-b700-40b4-8fe0-c38e4a3268b3_wm.jpeg?w=640&amp;q=80"
+      },
+      {
+        "slug": "f-20-tablet",
+        "id": "1068240",
+        "name": "F 20 Tablet",
+        "manufacturer": "Midas Healthcare Ltd.",
+        "price": 30,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "f-40mg-tablet-10s",
+        "id": "1079940",
+        "name": "F 40mg Tablet 10s",
+        "manufacturer": "Talohsty Medmark Pvt. Ltd.",
+        "price": 98,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "f-a-0-25-mg-20-mg-tablet",
+        "id": "1033871",
+        "name": "F &amp; A 0.25 mg/20 mg Tablet",
+        "manufacturer": "Midas Healthcare Ltd.",
+        "price": 42,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "fa-150mg-tablet-1s",
+        "id": "1078878",
+        "name": "FA 150mg Tablet 1s",
+        "manufacturer": "Thrift Pharmaceuticals",
+        "price": 18,
+        "packageSize": "Strip of 1 tablet",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "fa9-softgel-capsule",
+        "id": "1011319",
+        "name": "FA9 Softgel Capsule",
+        "manufacturer": "Kathkin Lifesciences Pvt. Ltd.",
+        "price": 173,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/268c28e1-9847-4488-9700-c531b76d6f59_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "faa-20-tablet-15s",
+        "id": "1207793",
+        "name": "Faa 20 Tablet 15s",
+        "manufacturer": "Lupin Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/09940243-2c2e-4ca7-8b15-83f5cbe28db5_wm.png?w=640&amp;q=80"
+      }
+    ]
+  },
+  "G": {
+    "letter": "G",
+    "totalPages": 1351,
+    "items": [
+      {
+        "slug": "g-1mg-tablet-10s",
+        "id": "1296637",
+        "name": "G 1mg Tablet 10s",
+        "manufacturer": "Protech Telelinks",
+        "price": 63,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "g1mt-tablet-sr",
+        "id": "1361881",
+        "name": "G1MT Tablet SR",
+        "manufacturer": "Maestro Healthcare Pvt. Ltd.",
+        "price": 90,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "g-2-275mg-cyp-syrup-200ml",
+        "id": "1883634",
+        "name": "G 2/275mg Cyp Syrup 200ml",
+        "manufacturer": "Gadin Biotech",
+        "price": 149,
+        "packageSize": "Bottle of 200 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2act-2-500mg-tablet-10s",
+        "id": "1275534",
+        "name": "G2Act 2/500mg Tablet 10s",
+        "manufacturer": "Reflaction Healthcare",
+        "price": 72,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2k-200mg-tablet",
+        "id": "1118261",
+        "name": "G2K 200mg Tablet",
+        "manufacturer": "Biological E Ltd.",
+        "price": 30,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2k-400mg-tablet",
+        "id": "1118264",
+        "name": "G2K 400mg Tablet",
+        "manufacturer": "Biological E Ltd.",
+        "price": 57,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2k-injection",
+        "id": "1297343",
+        "name": "G2K Injection",
+        "manufacturer": "Biological E Ltd.",
+        "price": 46,
+        "packageSize": "Vial of 10 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/818db776-1140-4361-9e23-ce12ed5fd6dc_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2-kof-dc-syrup-sugar-free-100ml",
+        "id": "1001221",
+        "name": "G2 Kof DC Syrup Sugar Free 100ml",
+        "manufacturer": "Goodman Gilman&#x27;s Life Sciences Pvt. Ltd.",
+        "price": 84,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2-kof-syrup-100ml",
+        "id": "1276394",
+        "name": "G2 Kof Syrup 100ml",
+        "manufacturer": "Goodman Gilman&#x27;s Life Sciences Pvt. Ltd.",
+        "price": 84,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2-lax-oral-solution-sugar-free-100ml",
+        "id": "1242838",
+        "name": "G2 Lax Oral Solution Sugar Free 100ml",
+        "manufacturer": "Goodman Gilman&#x27;s Life Sciences Pvt. Ltd.",
+        "price": 103,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/9c7a66ed-dead-46c0-b2cf-2e5a5cf93bd3_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2m500-tablet-pr",
+        "id": "1105311",
+        "name": "G2M500 Tablet PR",
+        "manufacturer": "Insutik Pharmaceuticals Pvt. Ltd.",
+        "price": 45,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/fa3ca752-cae0-4d05-b512-40f1ba37d089_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "g2-mf-2-500mg-tablet-10s",
+        "id": "1127091",
+        "name": "G2 MF 2/500mg Tablet 10s",
+        "manufacturer": "Welbe Life Sciences",
+        "price": 38,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "H": {
+    "letter": "H",
+    "totalPages": 519,
+    "items": [
+      {
+        "slug": "h-100mg-cortisone-injection-1s",
+        "id": "1885594",
+        "name": "H 100mg Cortisone Injection 1s",
+        "manufacturer": "Winlet Pharma",
+        "price": 44,
+        "packageSize": "Vial of 1 Unit",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h1-b-5mg-tablet-10s",
+        "id": "1885598",
+        "name": "H1 B 5mg Tablet 10s",
+        "manufacturer": "PAN Healthcare Pvt. Ltd.",
+        "price": 117,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h1-bm-5-10mg-tablet-10s",
+        "id": "1885599",
+        "name": "H1 BM 5/10mg Tablet 10s",
+        "manufacturer": "PAN Healthcare Pvt. Ltd.",
+        "price": 56,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h-2-a-150mg-tablet",
+        "id": "1274386",
+        "name": "H 2 A 150mg Tablet",
+        "manufacturer": "Drakt Pharmaceutical Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h2a-150mg-tablet-10s",
+        "id": "1225603",
+        "name": "H2A 150mg Tablet 10s",
+        "manufacturer": "Pan Pharmaceuticals Ltd.",
+        "price": 13,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h2-check-40mg-tablet-10s",
+        "id": "1381305",
+        "name": "H2 Check 40mg Tablet 10s",
+        "manufacturer": "Zeuson Medicines Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h2-check-d-10-40mg-tablet-10s",
+        "id": "1359843",
+        "name": "H2 Check D 10/40mg Tablet 10s",
+        "manufacturer": "Zeuson Medicines Pvt. Ltd.",
+        "price": 93,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h2clo-25mg-tablet",
+        "id": "1133956",
+        "name": "H2clo 25mg Tablet",
+        "manufacturer": "Hi-Cure Biotech",
+        "price": 30,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h2cort-100mg-injection",
+        "id": "1158491",
+        "name": "H2Cort 100mg Injection",
+        "manufacturer": "Miracalus Pharma Pvt. Ltd.",
+        "price": 43,
+        "packageSize": "Vial of 10 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h2h-25mg-tablet-10s",
+        "id": "1307986",
+        "name": "H2H 25mg Tablet 10s",
+        "manufacturer": "Sigma Softgel Formulation",
+        "price": 30,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h2loc-40mg-injection-2ml",
+        "id": "1005224",
+        "name": "H2Loc 40mg Injection 2ml",
+        "manufacturer": "Torrent Pharmaceuticals Ltd.",
+        "price": 3,
+        "packageSize": "Vial of 2 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "h2mont-2-5-4mg-kid-syrup-60ml",
+        "id": "1885600",
+        "name": "H2MONT 2.5/4mg Kid Syrup 60ml",
+        "manufacturer": "Admiris Pharmaceuticals Pvt. Ltd.",
+        "price": 174,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "I": {
+    "letter": "I",
+    "totalPages": 830,
+    "items": [
+      {
+        "slug": "i-0-15-0-02mg-con-tablet-28s",
+        "id": "1886316",
+        "name": "I 0.15/0.02mg Con Tablet 28s",
+        "manufacturer": "Eskag Pharma Pvt. Ltd.",
+        "price": 195,
+        "packageSize": "Strip of 28 Tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/f646819b-aa8d-489f-ac3b-565ec968c4cc_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "i-10-0-5-eye-drops-10ml",
+        "id": "1864889",
+        "name": "i 10 0.5% Eye drops 10ml",
+        "manufacturer": "Laborate Pharmaceuticals India Ltd.",
+        "price": 83,
+        "packageSize": "Vial of 10 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "i-100-xt-tablet-15s",
+        "id": "1415872",
+        "name": "I 100 XT Tablet 15s",
+        "manufacturer": "Tevos Pharmaceuticals",
+        "price": 150,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/d2d7b8c3-5f29-4d64-9b3a-71f915713e56_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "i-10mg-capsule-10s",
+        "id": "1265233",
+        "name": "I 10mg Capsule 10s",
+        "manufacturer": "Prism Life Sciences Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "i12-12mg-tablet-10s",
+        "id": "1405210",
+        "name": "I12 12mg Tablet 10s",
+        "manufacturer": "Zoic Lifesciences",
+        "price": 271,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "i-12mg-tablet-10s",
+        "id": "1272634",
+        "name": "I 12mg Tablet 10s",
+        "manufacturer": "Spey Medical Pvt. Ltd.",
+        "price": 281,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "i-20mg-capsule-10s",
+        "id": "1113446",
+        "name": "I 20mg Capsule 10s",
+        "manufacturer": "Prism Life Sciences Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "i3-100mg-injection",
+        "id": "1416808",
+        "name": "I3 100mg Injection",
+        "manufacturer": "Blisson Mediplus Pvt. Ltd.",
+        "price": 1,
+        "packageSize": "Ampoule of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "i4-max-tablet",
+        "id": "1147314",
+        "name": "I4 Max Tablet",
+        "manufacturer": "D&#x27;light Lifescience Pvt. Ltd.",
+        "price": 114,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/e2eb3e17-b95f-4bca-9636-e6be2ec27b44_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "i-acne-10mg-capsule-10s",
+        "id": "1131393",
+        "name": "I Acne 10mg Capsule 10s",
+        "manufacturer": "SG Lifecare Pvt. Ltd.",
+        "price": 98,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "iacne-10mg-softgel-capsule-10s",
+        "id": "1155495",
+        "name": "Iacne 10mg Softgel Capsule 10s",
+        "manufacturer": "SG Pharma",
+        "price": 156,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "i-acne-20mg-capsule-10s",
+        "id": "1027509",
+        "name": "I Acne 20mg Capsule 10s",
+        "manufacturer": "SG Lifecare Pvt. Ltd.",
+        "price": 140,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "J": {
+    "letter": "J",
+    "totalPages": 238,
+    "items": [
+      {
+        "slug": "jaa-40mg-tablet-10s",
+        "id": "1098201",
+        "name": "Jaa 40mg Tablet 10s",
+        "manufacturer": "S.Bee Life Sciences",
+        "price": 45,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jaa-dsr-30-40mg-capsule-10s",
+        "id": "1269131",
+        "name": "Jaa DSR 30/40mg Capsule 10s",
+        "manufacturer": "S.Bee Life Sciences",
+        "price": 75,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/6411f140-bfe4-44be-a849-5ab11722f075_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "jaafin-oral-suspension-200ml",
+        "id": "1258714",
+        "name": "Jaafin Oral Suspension 200ml",
+        "manufacturer": "S.Bee Life Sciences",
+        "price": 150,
+        "packageSize": "Bottle of 200 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jab-150mg-injection",
+        "id": "1026804",
+        "name": "JAB 150mg Injection",
+        "manufacturer": "Jantec Pharma",
+        "price": 75,
+        "packageSize": "Vial of 2 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jabryus-100mg-tablet-28s",
+        "id": "1920743",
+        "name": "Jabryus 100mg Tablet 28s",
+        "manufacturer": "Glenmark Pharmaceuticals Ltd.",
+        "price": 51,
+        "packageSize": "Bottle of 28 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jabryus-200mg-tablet-28s",
+        "id": "1920744",
+        "name": "Jabryus 200mg Tablet 28s",
+        "manufacturer": "Glenmark Pharmaceuticals Ltd.",
+        "price": 70,
+        "packageSize": "Bottle of 28 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jabryus-50mg-tablet-28s",
+        "id": "1920745",
+        "name": "Jabryus 50mg Tablet 28s",
+        "manufacturer": "Glenmark Pharmaceuticals Ltd.",
+        "price": 41,
+        "packageSize": "Bottle of 28 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jacclav-400-57mg-forte-dry-syrup-30ml",
+        "id": "1887364",
+        "name": "Jacclav 400/57mg Forte Dry Syrup 30ml",
+        "manufacturer": "Jacsims Pharmaceuticals",
+        "price": 142,
+        "packageSize": "Bottle of 30 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jacclav-bd-200-28-5mg-paediatric-oral-suspension-30ml",
+        "id": "1887365",
+        "name": "Jacclav BD 200/28.5mg Paediatric Oral Suspension 30ml",
+        "manufacturer": "Jacsims Pharmaceuticals",
+        "price": 63,
+        "packageSize": "Bottle of 30 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jacef-1000mg-injection-1-injection",
+        "id": "1191910",
+        "name": "Jacef 1000mg Injection 1 Injection",
+        "manufacturer": "Jarun Pharmaceuticals",
+        "price": 61,
+        "packageSize": "Vial of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jacef-1000mg-injection-1-powder-for-injection",
+        "id": "1170107",
+        "name": "Jacef 1000mg Injection 1 Powder for Injection",
+        "manufacturer": "Jantec Pharma",
+        "price": 58,
+        "packageSize": "Vial of 1 unit",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "jacef-2000mg-injection",
+        "id": "1214652",
+        "name": "Jacef 2000mg Injection",
+        "manufacturer": "Jantec Pharma",
+        "price": 135,
+        "packageSize": "Vial of 2 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "K": {
+    "letter": "K",
+    "totalPages": 633,
+    "items": [
+      {
+        "slug": "k20-cream-30gm",
+        "id": "1205385",
+        "name": "K20 Cream 30gm",
+        "manufacturer": "Sanstuti Pharmaceuticals Pvt. Ltd.",
+        "price": 149,
+        "packageSize": "Tube of 30 gm",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/7db30b55-ad6d-48ed-a386-7758f2da3e1e_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "k20-soap-75gm",
+        "id": "1206771",
+        "name": "K20 Soap 75gm",
+        "manufacturer": "Sanstuti Pharmaceuticals Pvt. Ltd.",
+        "price": 113,
+        "packageSize": "Packet of 75 gm",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/fe3f5ff5-b307-404a-9354-f4129591254f_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "k2-all-tablet-10s",
+        "id": "1887818",
+        "name": "K2 All Tablet 10s",
+        "manufacturer": "Impetus Pharma",
+        "price": 220,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "k2k-plus-softgel-capsule",
+        "id": "1412222",
+        "name": "K2K Plus Softgel Capsule",
+        "manufacturer": "Hicxica Formulations Pvt. Ltd.",
+        "price": 110,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/993b3956-db4b-4aa9-b350-e6698e7472e0_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "k2-tone-cream",
+        "id": "1076427",
+        "name": "K2-Tone Cream",
+        "manufacturer": "Hi-Cure Biotech",
+        "price": 72,
+        "packageSize": "Tube of 15 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "k2-zac-2-soap-75gm",
+        "id": "1150387",
+        "name": "K2 Zac 2% Soap 75gm",
+        "manufacturer": "Swakam Biotech Pvt. Ltd.",
+        "price": 117,
+        "packageSize": "Box of 75 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "k2-ziv-cream",
+        "id": "1352864",
+        "name": "K2-Ziv Cream",
+        "manufacturer": "Kuresys Labs",
+        "price": 120,
+        "packageSize": "Tube of 20 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "k2-zole-soap-75gm",
+        "id": "1377130",
+        "name": "K2 Zole Soap 75gm",
+        "manufacturer": "Salve Pharmaceuticals Pvt. Ltd.",
+        "price": 161,
+        "packageSize": "Packet of 75 gm",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/9f08bbe1-39f9-4566-8ddb-5cc71cd51c46_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "k2-zole-solution-100ml",
+        "id": "1208030",
+        "name": "K2 Zole Solution 100ml",
+        "manufacturer": "Salve Pharmaceuticals Pvt. Ltd.",
+        "price": 316,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/ffaa7357-a8d4-479a-ac0d-12ab85f23c02_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "kaaflox-200-500mg-oz-tablet-10s",
+        "id": "1887819",
+        "name": "Kaaflox 200/500mg OZ Tablet 10s",
+        "manufacturer": "Davis Medilabs",
+        "price": 140,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "kabanat-60mg-injection-1-5ml",
+        "id": "1295357",
+        "name": "Kabanat 60mg Injection 1.5ml",
+        "manufacturer": "Natco Pharma Ltd.",
+        "price": 25,
+        "packageSize": "Vial of 1.5 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/d04cd254-52ae-478e-8ffc-140b6f67f351_wm.jpeg?w=640&amp;q=80"
+      },
+      {
+        "slug": "kabezed-dsr-30mg-20mg-capsule",
+        "id": "1255899",
+        "name": "Kabezed DSR 30mg/20mg Capsule",
+        "manufacturer": "Kapeetus Medicorp",
+        "price": 56,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "L": {
+    "letter": "L",
+    "totalPages": 1671,
+    "items": [
+      {
+        "slug": "l10-m-tablet",
+        "id": "1263948",
+        "name": "L10-M Tablet",
+        "manufacturer": "Kuresys Labs",
+        "price": 93,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l-1-canazole-cream-10gm",
+        "id": "1888569",
+        "name": "L 1% Canazole Cream 10gm",
+        "manufacturer": "Lupin Ltd.",
+        "price": 158,
+        "packageSize": "Tube of 10 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l-1-trum-cream-30gm",
+        "id": "1888570",
+        "name": "L 1% Trum Cream 30gm",
+        "manufacturer": "Dermpix A Division Of Iberia Pharmaceuticals India Ltd.",
+        "price": 325,
+        "packageSize": "Tube of 30 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l24-m-tablet",
+        "id": "1025475",
+        "name": "L24 M Tablet",
+        "manufacturer": "Avis Lifecare Pvt. Ltd.",
+        "price": 93,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l250-250mg-tablet",
+        "id": "1090590",
+        "name": "L250 250mg Tablet",
+        "manufacturer": "Maneesh Pharmaceuticals Ltd.",
+        "price": 20,
+        "packageSize": "Strip of 5 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l2-zone-1-ointment",
+        "id": "1045855",
+        "name": "L2 Zone 1% Ointment",
+        "manufacturer": "Hi-Cure Biotech",
+        "price": 140,
+        "packageSize": "Tube of 10 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l500-500mg-tablet",
+        "id": "1368869",
+        "name": "L500 500mg Tablet",
+        "manufacturer": "Maneesh Pharmaceuticals Ltd.",
+        "price": 38,
+        "packageSize": "Strip of 5 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l-500-800mg-cortex-tablet-10s",
+        "id": "1888572",
+        "name": "L 500/800mg Cortex Tablet 10s",
+        "manufacturer": "Algen Remedies Pvt Ltd",
+        "price": 702,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l-5-10mg-nano-tablet-10s",
+        "id": "1888571",
+        "name": "L 5/10mg Nano Tablet 10s",
+        "manufacturer": "Steris Healthcare Pvt. Ltd.",
+        "price": 135,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/9e18df0a-04ba-40a7-b534-c14199046177_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "l5-fol-soft-gelatin-capsule-10s",
+        "id": "1921558",
+        "name": "L5 Fol Soft Gelatin Capsule 10s",
+        "manufacturer": "Siskan Pharma",
+        "price": 189,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://plrx.gumlet.io/5dcfd235-b364-440b-891f-ccc8a0df8e91.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "l-5mg-capsule-4s",
+        "id": "1174518",
+        "name": "L 5mg Capsule 4s",
+        "manufacturer": "Adonis Laboratories Pvt. Ltd.",
+        "price": 16,
+        "packageSize": "Strip of 4 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "l-5mg-tablet-10s",
+        "id": "1217385",
+        "name": "L 5mg Tablet 10s",
+        "manufacturer": "Solitaire Pharmacia Pvt. Ltd.",
+        "price": 18,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "M": {
+    "letter": "M",
+    "totalPages": 2364,
+    "items": [
+      {
+        "slug": "m-0-5-drop-eye-drop-5ml",
+        "id": "1890718",
+        "name": "M 0.5% Drop Eye Drop 5ml",
+        "manufacturer": "Strengthen Pharma Pvt. Ltd.",
+        "price": 112,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/63e09dd5-625b-4a7c-85f2-991776db9156_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "m0xynic-duo-875-125mg-tablet-6s",
+        "id": "1118010",
+        "name": "M0xynic DUO 875/125mg Tablet 6s",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 223,
+        "packageSize": "Strip of 6 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m-1500mcg-np-tablet-14s",
+        "id": "1846313",
+        "name": "M 1500mcg NP Tablet 14s",
+        "manufacturer": "Wockhardt Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 14 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m-1500mcg-pfs-injection-1ml",
+        "id": "1845758",
+        "name": "M 1500mcg PFS Injection 1ml",
+        "manufacturer": "Wockhardt Ltd.",
+        "price": 25,
+        "packageSize": "Prefilled Syringe of 1 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m-1500-x-prefilled-syringe-injection-2ml",
+        "id": "1866760",
+        "name": "M 1500 X Prefilled Syringe Injection 2ml",
+        "manufacturer": "Wockhardt Ltd.",
+        "price": 25,
+        "packageSize": "Prefilled Syringe of 2 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m2-bact-particles",
+        "id": "1418104",
+        "name": "M2-Bact Particles",
+        "manufacturer": "D D Pharmaceuticals",
+        "price": 783,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m2cal-cq-tablet-10s",
+        "id": "1836054",
+        "name": "M2Cal Cq Tablet 10s",
+        "manufacturer": "M2H Pharmaceuticals",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/683a5779-e926-48c0-a169-2198625004df_wm.jpeg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m2cal-cq-tablet-15s",
+        "id": "1864700",
+        "name": "M2Cal Cq Tablet 15s",
+        "manufacturer": "M2H Pharmaceuticals",
+        "price": 25,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m2-cef-1000-injection",
+        "id": "1170460",
+        "name": "M2-Cef 1000 Injection",
+        "manufacturer": "Monark Biocare Pvt. Ltd.",
+        "price": 50,
+        "packageSize": "Vial of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m2-cef-200mg-tablet",
+        "id": "1286357",
+        "name": "M2 Cef 200mg Tablet",
+        "manufacturer": "M 2 Life Science",
+        "price": 98,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m2-cef-500-injection",
+        "id": "1168557",
+        "name": "M2-Cef 500 Injection",
+        "manufacturer": "Monark Biocare Pvt. Ltd.",
+        "price": 44,
+        "packageSize": "Vial of 10 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "m2-cef-s-1-5-injection",
+        "id": "1058411",
+        "name": "M2-Cef-S 1.5 Injection",
+        "manufacturer": "Monark Biocare Pvt. Ltd.",
+        "price": 110,
+        "packageSize": "Vial of 10 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "N": {
+    "letter": "N",
+    "totalPages": 1501,
+    "items": [
+      {
+        "slug": "n-100mg-tablet",
+        "id": "1154113",
+        "name": "N 100mg Tablet",
+        "manufacturer": "Alexa Organics Pvt. Ltd.",
+        "price": 56,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "n-200mg-capsule-4s",
+        "id": "1071053",
+        "name": "N 200mg Capsule 4s",
+        "manufacturer": "Quality Innovations &amp; Pharmaceuticals",
+        "price": 122,
+        "packageSize": "Strip of 4 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "n-250mg-oral-suspension-60ml",
+        "id": "1418912",
+        "name": "N 250Mg Oral Suspension 60ml",
+        "manufacturer": "Meddox Formulations",
+        "price": 44,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "n-500mg-tablet",
+        "id": "1182259",
+        "name": "N 500mg Tablet",
+        "manufacturer": "Indoco Remedies Ltd.",
+        "price": 27,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "n8lc-5-10mg-tablet-7s",
+        "id": "1126634",
+        "name": "N8LC 5/10mg Tablet 7s",
+        "manufacturer": "ABN Drugs",
+        "price": 35,
+        "packageSize": "Strip of 7 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "na-0-1-hyronate-eye-drop-10ml",
+        "id": "1894007",
+        "name": "Na 0.1% Hyronate Eye Drop 10ml",
+        "manufacturer": "Vision Pharma",
+        "price": 276,
+        "packageSize": "Bottle of 10 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/25e5a2f4-cdfb-472a-b64d-eb4fb720ce41_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "na2co3-tablet",
+        "id": "1153539",
+        "name": "Na2Co3 Tablet",
+        "manufacturer": "Retro Life Sciences",
+        "price": 84,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/54718f4c-78b1-48fc-bfaa-8b8adbd0e3b6_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "naari-cal-tablet",
+        "id": "1379033",
+        "name": "Naari Cal Tablet",
+        "manufacturer": "Jagsonpal Pharmaceuticals Ltd.",
+        "price": 135,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "naaz-0-25mg-tablet",
+        "id": "1422871",
+        "name": "Naaz 0.25mg Tablet",
+        "manufacturer": "Aurum Life Science Pvt. Ltd.",
+        "price": 18,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "naaz-0-5mg-tablet",
+        "id": "1367934",
+        "name": "Naaz 0.5mg Tablet",
+        "manufacturer": "Aurum Life Science Pvt. Ltd.",
+        "price": 31,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "naaz-150mg-tablet",
+        "id": "1208647",
+        "name": "Naaz 150mg Tablet",
+        "manufacturer": "Gynogen",
+        "price": 16,
+        "packageSize": "Strip of 1 tablet",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "naaz-plus-0-5-mg-20-mg-tablet",
+        "id": "1315619",
+        "name": "Naaz Plus 0.5 mg/20 mg Tablet",
+        "manufacturer": "Aurum Life Science Pvt. Ltd.",
+        "price": 48,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "O": {
+    "letter": "O",
+    "totalPages": 1540,
+    "items": [
+      {
+        "slug": "o1b-200mg-suspension",
+        "id": "1188777",
+        "name": "O1B 200mg Suspension",
+        "manufacturer": "Litaka Pharmaceuticals Ltd.",
+        "price": 24,
+        "packageSize": "Bottle of 30 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o1b-plus-capsule",
+        "id": "1008521",
+        "name": "O1B Plus Capsule",
+        "manufacturer": "Litaka Pharmaceuticals Ltd.",
+        "price": 72,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o1b-tablet",
+        "id": "1294098",
+        "name": "O1B Tablet",
+        "manufacturer": "Litaka Pharmaceuticals Ltd.",
+        "price": 46,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o-200-500mg-z-tablet-10s",
+        "id": "1895910",
+        "name": "O+200/500mg Z Tablet 10s",
+        "manufacturer": "Technopharm Pvt. Ltd.",
+        "price": 140,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o-200mg-tablet-10s",
+        "id": "1193481",
+        "name": "O 200mg Tablet 10s",
+        "manufacturer": "P &amp; B Pharmaceuticals Ltd.",
+        "price": 45,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o2-200-500mg-life-tablet-10s",
+        "id": "1895911",
+        "name": "O2 200/500mg Life Tablet 10s",
+        "manufacturer": "Sun Lifecare",
+        "price": 240,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o2-200-500mg-tablet-10s",
+        "id": "1110305",
+        "name": "O2 200/500mg Tablet 10s",
+        "manufacturer": "Medley Pharmaceuticals",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/d1b817e4-2913-419c-8f85-638032629faf_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "o2-200mg-500mg-infusion",
+        "id": "1369712",
+        "name": "O2 200mg/500mg Infusion",
+        "manufacturer": "Medley Pharmaceuticals",
+        "price": 128,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o2-50-125mg-suspension-60ml",
+        "id": "1856072",
+        "name": "O2 50/125mg Suspension 60ml",
+        "manufacturer": "Medley Pharmaceuticals",
+        "price": 53,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o2-bact-1-cream-5gm",
+        "id": "1296176",
+        "name": "O2 Bact 1% Cream 5gm",
+        "manufacturer": "Medley Pharmaceuticals",
+        "price": 25,
+        "packageSize": "Tube of 5 gm",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/e5e7f4d7-89b1-49e5-9899-ab93f35f04aa_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "o2-car-600mg-tablet",
+        "id": "1131917",
+        "name": "O2-Car 600mg Tablet",
+        "manufacturer": "Zoic Lifesciences",
+        "price": 106,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "o2-derm-cream-15gm",
+        "id": "1202463",
+        "name": "O2 Derm Cream 15gm",
+        "manufacturer": "Medley Pharmaceuticals",
+        "price": 25,
+        "packageSize": "Tube of 15 gm",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/2f76a8c1-3b6d-49bd-9e0d-f3520d1f23a4_wm.png?w=640&amp;q=80"
+      }
+    ]
+  },
+  "P": {
+    "letter": "P",
+    "totalPages": 2117,
+    "items": [
+      {
+        "slug": "p-100mg-drop-15ml",
+        "id": "1304423",
+        "name": "P 100mg Drop 15ml",
+        "manufacturer": "Apex Diagnostic And Imaging Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Bottle of 15 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/cc1eeedd-bdd8-4046-bee8-8c224d6b1601_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "p-125-suspension-60ml",
+        "id": "1209593",
+        "name": "P 125 Suspension 60ml",
+        "manufacturer": "Apex Diagnostic And Imaging Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/4bb22161-f960-4653-a62d-b73d3270d07d_wm.jpeg?w=640&amp;q=80"
+      },
+      {
+        "slug": "p-20mg-tablet",
+        "id": "1199114",
+        "name": "P 20mg Tablet",
+        "manufacturer": "Sunways India Pvt. Ltd.",
+        "price": 34,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "p-250-mf-100mg-250-oral-suspension-60ml",
+        "id": "1419236",
+        "name": "P 250 MF 100mg/250 Oral Suspension 60ml",
+        "manufacturer": "Apex Diagnostic And Imaging Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/b47c097d-5cef-493a-bfe8-8608e7dc94f3.webp?w=640&amp;q=80"
+      },
+      {
+        "slug": "p-250mg-suspension-60ml",
+        "id": "1207419",
+        "name": "P 250mg Suspension 60ml",
+        "manufacturer": "Apex Diagnostic And Imaging Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/b910d1cc-f9ca-487a-b323-7ef2c45a9c7f_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "p-250mg-tablet-dt-10s",
+        "id": "1203434",
+        "name": "P 250mg Tablet DT 10s",
+        "manufacturer": "Apex Diagnostic And Imaging Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://plrx.gumlet.io/6a3fae40-d212-4358-b87e-a2f0d924ff80.jpeg?w=640&amp;q=80"
+      },
+      {
+        "slug": "p2cain-0-5-eye-drop-5ml",
+        "id": "1897682",
+        "name": "P2Cain 0.5% Eye Drop 5ml",
+        "manufacturer": "Nri Vision Care India Ltd.",
+        "price": 53,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "p-2-capsule",
+        "id": "1168399",
+        "name": "P 2 Capsule",
+        "manufacturer": "Maxamus Pharma Pvt. Ltd.",
+        "price": 117,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "p2gas-40-tablet",
+        "id": "1197773",
+        "name": "P2Gas 40 Tablet",
+        "manufacturer": "Guillain Pharma Pvt. Ltd.",
+        "price": 35,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/39ed9e78-0599-4a9d-b1ed-138d47713c20_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "p2gly-eye-drop",
+        "id": "1204712",
+        "name": "P2GLY Eye Drop",
+        "manufacturer": "Aspen Remedies",
+        "price": 398,
+        "packageSize": "Bottle of 10 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/d1f45333-6696-4419-b724-427776b3cb6a_wm.jpeg?w=640&amp;q=80"
+      },
+      {
+        "slug": "p2i-40mg-tablet-10s",
+        "id": "1301377",
+        "name": "P2I 40mg Tablet 10s",
+        "manufacturer": "Lupin Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/a6cd518f-a832-45bb-8b13-354fa1ea9a40_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "p2i-d-capsule-30-40mg-capsule-pr-10s",
+        "id": "1199869",
+        "name": "P2i D Capsule 30/40mg Capsule PR 10s",
+        "manufacturer": "Lupin Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/0bf2dc0e-cff2-461a-bd55-a65c20e9f2d8_wm.png?w=640&amp;q=80"
+      }
+    ]
+  },
+  "Q": {
+    "letter": "Q",
+    "totalPages": 168,
+    "items": [
+      {
+        "slug": "q-100mg-suspension",
+        "id": "1094633",
+        "name": "Q 100mg Suspension",
+        "manufacturer": "Rhombus Pharma Pvt. Ltd.",
+        "price": 58,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "q-150mg-suspension",
+        "id": "1183230",
+        "name": "Q 150mg Suspension",
+        "manufacturer": "Rhombus Pharma Pvt. Ltd.",
+        "price": 58,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "q2-clav-tablet-10s",
+        "id": "1900324",
+        "name": "Q2 Clav Tablet 10s",
+        "manufacturer": "Q2 Pharma Pvt. Ltd.",
+        "price": 206,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "q-300mg-tablet",
+        "id": "1326896",
+        "name": "Q 300mg Tablet",
+        "manufacturer": "Rhombus Pharma Pvt. Ltd.",
+        "price": 56,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "q4g-eye-drop",
+        "id": "1007479",
+        "name": "Q4G Eye Drop",
+        "manufacturer": "Appasamy Ocular Device Pvt. Ltd.",
+        "price": 28,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "q9-300mg-suspension",
+        "id": "1272773",
+        "name": "Q9 300mg Suspension",
+        "manufacturer": "Vanguard Therapeutics Pvt. Ltd.",
+        "price": 205,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "qace-sp-100mg-325mg-15mg-tablet",
+        "id": "1004475",
+        "name": "Qace SP 100mg/325mg/15mg Tablet",
+        "manufacturer": "Dr. Kumars Pharmaceuticals",
+        "price": 85,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "qadriderm-cream-15gm",
+        "id": "1900325",
+        "name": "Qadriderm Cream 15gm",
+        "manufacturer": "Alive Healthcare",
+        "price": 56,
+        "packageSize": "Tube of 15 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "qalypan-d-30mg-40mg-tablet",
+        "id": "1328893",
+        "name": "Qalypan D 30mg/40mg Tablet",
+        "manufacturer": "Life Care Biotec",
+        "price": 71,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "qalypride-plus-1mg-500mg-tablet",
+        "id": "1107469",
+        "name": "Qalypride Plus 1mg/500mg Tablet",
+        "manufacturer": "Oaly Pharma",
+        "price": 47,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "qalysartan-40mg-tablet-10s",
+        "id": "1900326",
+        "name": "Qalysartan 40mg Tablet 10s",
+        "manufacturer": "Qaly Pharma",
+        "price": 55,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "qalysartan-h-40-12-5mg-tablet-10s",
+        "id": "1900327",
+        "name": "Qalysartan H 40/12.5mg Tablet 10s",
+        "manufacturer": "Qaly Pharma",
+        "price": 74,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "R": {
+    "letter": "R",
+    "totalPages": 2160,
+    "items": [
+      {
+        "slug": "r-100mg-injection-1s",
+        "id": "1900590",
+        "name": "R 100mg Injection 1s",
+        "manufacturer": "RG Pharma Healthcare",
+        "price": 121,
+        "packageSize": "Ampoule of 1 Unit",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/d13c785b-96b7-4664-b870-344118c138b9_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "r10a-10-mg-75-mg-capsule",
+        "id": "1114110",
+        "name": "R10A 10 mg/75 mg Capsule",
+        "manufacturer": "Centaur Pharmaceuticals Pvt. Ltd.",
+        "price": 44,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "r-20mg-tablet-10s",
+        "id": "1264355",
+        "name": "R 20mg Tablet 10s",
+        "manufacturer": "Gnext Lab Pvt. Ltd.",
+        "price": 68,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "r2-10mg-tablet-10s-abbott-",
+        "id": "1105993",
+        "name": "R2 10mg Tablet 10s (Abbott)",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 191,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/b2778957-9629-4035-ac9a-48ad98817bd8_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "r-2-10mg-tablet-10s-wockhardt-",
+        "id": "1857693",
+        "name": "R 2 10mg Tablet 10s (Wockhardt)",
+        "manufacturer": "Wockhardt Ltd.",
+        "price": 191,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "r2-20mg-tablet-10s",
+        "id": "1011527",
+        "name": "R2 20mg Tablet 10s",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 348,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/fcdfc232-d414-49d9-801d-c912ca6a1f92_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "r2-40mg-tablet-10s",
+        "id": "1018329",
+        "name": "R2 40mg Tablet 10s",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 452,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/e21c54b9-3f57-41ba-9002-58e36cc6b8bc_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "r2-5mg-tablet-10s",
+        "id": "1296164",
+        "name": "R2 5mg Tablet 10s",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 105,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/a123011e-6a23-487b-93e2-d86b2638ec28_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "r2-asp-150-10mg-tablet-10s",
+        "id": "1016720",
+        "name": "R2 ASP 150/10mg Tablet 10s",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 56,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/97d29195-e159-4e67-94b1-210437befe59_wm.jpeg?w=640&amp;q=80"
+      },
+      {
+        "slug": "r2-asp-75-10mg-capsule-10s",
+        "id": "1225303",
+        "name": "R2 ASP 75/10mg Capsule 10s",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 46,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/d6a649d0-3ad0-4254-b782-4bd682f951d8_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "r2-f-10-145mg-tablet-10s",
+        "id": "1377509",
+        "name": "R2 F 10/145mg Tablet 10s",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 290,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "r2-f-5-145mg-tablet-10s",
+        "id": "1107260",
+        "name": "R2 F 5/145mg Tablet 10s",
+        "manufacturer": "Abbott Healthcare Pvt. Ltd.",
+        "price": 181,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/25780a03-6241-40e1-b871-7d3165477f65_wm.png?w=640&amp;q=80"
+      }
+    ]
+  },
+  "S": {
+    "letter": "S",
+    "totalPages": 2057,
+    "items": [
+      {
+        "slug": "s-1000-500mg-zone-injection-1s",
+        "id": "1903838",
+        "name": "S 1000/500mg Zone Injection 1s",
+        "manufacturer": "Medilance Healthcare",
+        "price": 267,
+        "packageSize": "Vial of 1 Unit",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "s-15-tablet",
+        "id": "1313406",
+        "name": "S 15 Tablet",
+        "manufacturer": "Nodysis Pharma Pvt. Ltd.",
+        "price": 46,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "s-20-1000mg-fate-oral-suspension-100ml",
+        "id": "1903839",
+        "name": "S 20/1000mg Fate Oral Suspension 100ml",
+        "manufacturer": "Alpha Nova Pharmaceuticals",
+        "price": 112,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "s24-dm-10-1000-100mg-tablet-10s",
+        "id": "1396963",
+        "name": "S24 DM 10/1000/100mg Tablet 10s",
+        "manufacturer": "Indchemie Health Specialities Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/39bb75f0-b59f-446e-8b3b-f8b26980e57d_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "s24-dm-10-500-100mg-tablet-10s",
+        "id": "1397005",
+        "name": "S24 DM 10/500/100mg Tablet 10s",
+        "manufacturer": "Indchemie Health Specialities Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/0589d8e1-819d-49e8-95ee-169871e65f74_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "s3lact-tablet-10s",
+        "id": "1837144",
+        "name": "S3Lact Tablet 10s",
+        "manufacturer": "Medilab India",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "s4m-eye-drop-10ml",
+        "id": "1125938",
+        "name": "S4M Eye Drop 10ml",
+        "manufacturer": "Aden Healthcare",
+        "price": 60,
+        "packageSize": "Bottle of 10 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "sa-100mg-325mg-tablet",
+        "id": "1404063",
+        "name": "SA 100mg/325mg Tablet",
+        "manufacturer": "Magbro Healthcare Pvt. Ltd.",
+        "price": 36,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "sa-12-ointment-25gm",
+        "id": "1124061",
+        "name": "SA 12 Ointment 25gm",
+        "manufacturer": "Palsons Derma Pvt. Ltd.",
+        "price": 55,
+        "packageSize": "Tube of 25 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "sa-20-ointment",
+        "id": "1252132",
+        "name": "SA 20 Ointment",
+        "manufacturer": "Inex Medicaments Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Tube of 25 gm",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/090021cf-b0ac-49d1-a9b9-bf617710e7ac_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "saak-ear-drop",
+        "id": "1073770",
+        "name": "Saak Ear Drop",
+        "manufacturer": "Kaiser Drugs Pvt. Ltd.",
+        "price": 64,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "saan-50mg-tablet",
+        "id": "1322593",
+        "name": "Saan 50mg Tablet",
+        "manufacturer": "Hinglaj Laboratories",
+        "price": 32,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "T": {
+    "letter": "T",
+    "totalPages": 2229,
+    "items": [
+      {
+        "slug": "t-1-eye-drop",
+        "id": "1118495",
+        "name": "T 1 Eye Drop",
+        "manufacturer": "Entod Pharmaceuticals Ltd.",
+        "price": 279,
+        "packageSize": "Packet of 3 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/23096b8f-21ea-45b5-bd6e-62801ee423c0_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "t-1-pf-eye-drop",
+        "id": "1098799",
+        "name": "T 1 PF Eye Drop",
+        "manufacturer": "Entod Pharmaceuticals Ltd.",
+        "price": 373,
+        "packageSize": "Bottle of 3 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/cdf381fc-9e81-479f-aa64-eae582b2226d_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "t-1-z-eye-drop-3ml",
+        "id": "1837466",
+        "name": "T 1 Z Eye Drop 3ml",
+        "manufacturer": "Entod Pharmaceuticals Ltd.",
+        "price": 25,
+        "packageSize": "Bottle of 3 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/5bdebac6-21a0-46b7-8a23-00fbdfa75ed5_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "t-200mg-cidium-capsule-10s",
+        "id": "1906475",
+        "name": "T 200mg Cidium Capsule 10s",
+        "manufacturer": "Medisun Pharma",
+        "price": 231,
+        "packageSize": "Strip of 10 Capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "t-20mg-tablet",
+        "id": "1308485",
+        "name": "T 20mg Tablet",
+        "manufacturer": "Zoic Lifesciences",
+        "price": 92,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "t-2-275mg-cypro-syrup-200ml",
+        "id": "1906474",
+        "name": "T 2/275mg Cypro Syrup 200ml",
+        "manufacturer": "Medinova Biosciences",
+        "price": 161,
+        "packageSize": "Bottle of 200 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "t2c-10mg-tablet-15s",
+        "id": "1208252",
+        "name": "T2C 10mg Tablet 15s",
+        "manufacturer": "Ipca Laboratories Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/49ceab50-68b1-4227-976e-0112217c400b_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "t2c-5mg-tablet-15s",
+        "id": "1011511",
+        "name": "T2C 5mg Tablet 15s",
+        "manufacturer": "Ipca Laboratories Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/37bd550b-efd2-4b34-86f3-78dd41f5bd14_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "t2c-m-10-1000mg-tablet-15s",
+        "id": "1280136",
+        "name": "T2C M 10/1000mg Tablet 15s",
+        "manufacturer": "Ipca Laboratories Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/c7dcc042-e2f5-4de7-b456-36c3ada2f224_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "t2c-m-10-500mg-tablet-er-15s",
+        "id": "1377105",
+        "name": "T2C M 10/500mg Tablet ER 15s",
+        "manufacturer": "Ipca Laboratories Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/b1682ab0-454c-44f0-b212-517a62babd60_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "t2c-s-10-100mg-tablet-10s",
+        "id": "1840076",
+        "name": "T2C S 10/100mg Tablet 10s",
+        "manufacturer": "Ipca Laboratories Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "t2c-s-10-100mg-tablet-15s",
+        "id": "1920462",
+        "name": "T2C S 10/100mg Tablet 15s",
+        "manufacturer": "Ipca Laboratories Ltd.",
+        "price": 274,
+        "packageSize": "Strip of 15 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "U": {
+    "letter": "U",
+    "totalPages": 392,
+    "items": [
+      {
+        "slug": "u-0-5-lub-eye-drop-10ml",
+        "id": "1909751",
+        "name": "U 0.5% Lub Eye Drop 10ml",
+        "manufacturer": "Aelmar Pharmaceutical Pvt. Ltd.",
+        "price": 130,
+        "packageSize": "Bottle of 10 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "u-0-5-mof-eye-drop-5ml",
+        "id": "1909752",
+        "name": "U 0.5% Mof Eye Drop 5ml",
+        "manufacturer": "Aelmar Pharmaceutical Pvt. Ltd.",
+        "price": 110,
+        "packageSize": "Bottle of 5 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "u-5-mite-cream-30gm",
+        "id": "1909753",
+        "name": "U 5% Mite Cream 30gm",
+        "manufacturer": "Nevuron India Pvt. Ltd.",
+        "price": 50,
+        "packageSize": "Tube of 30 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uace-pt-tablet",
+        "id": "1265945",
+        "name": "Uace-PT Tablet",
+        "manufacturer": "Unison Laboratories",
+        "price": 145,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uace-sp-tablet",
+        "id": "1320809",
+        "name": "Uace-SP Tablet",
+        "manufacturer": "Unison Laboratories",
+        "price": 89,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uace-t8-100mg-8mg-tablet",
+        "id": "1027092",
+        "name": "Uace-T8 100mg/8mg Tablet",
+        "manufacturer": "Unison Laboratories",
+        "price": 177,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uae-100mg-tablet-10s",
+        "id": "1185860",
+        "name": "Uae 100mg Tablet 10s",
+        "manufacturer": "Pharmasynth Formulations Ltd.",
+        "price": 27,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uart-l-80-480mg-tablet-10s",
+        "id": "1909768",
+        "name": "Uart L 80/480mg Tablet 10s",
+        "manufacturer": "Lanark Laboratories Pvt. Ltd.",
+        "price": 70,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uasta-250mg-oral-suspension-60ml",
+        "id": "1339149",
+        "name": "Uasta 250mg Oral Suspension 60ml",
+        "manufacturer": "Uniword Pharma",
+        "price": 37,
+        "packageSize": "Bottle of 60 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uasta-a-100mg-tablet",
+        "id": "1151827",
+        "name": "Uasta A 100mg Tablet",
+        "manufacturer": "Uniword Pharma",
+        "price": 30,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uasta-a-200mg-tablet",
+        "id": "1268930",
+        "name": "Uasta A 200mg Tablet",
+        "manufacturer": "Uniword Pharma",
+        "price": 45,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "uasta-ace-100mg-325mg-15mg-tablet",
+        "id": "1268929",
+        "name": "Uasta Ace 100mg/325mg/15mg Tablet",
+        "manufacturer": "Uniword Pharma",
+        "price": 71,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "V": {
+    "letter": "V",
+    "totalPages": 1161,
+    "items": [
+      {
+        "slug": "v-0-2mg-tablet-10s",
+        "id": "1861383",
+        "name": "V 0.2mg Tablet 10s",
+        "manufacturer": "Sain Medicaments Pvt. Ltd.",
+        "price": 65,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "v-0-3mg-tablet-10s",
+        "id": "1861384",
+        "name": "V 0.3mg Tablet 10s",
+        "manufacturer": "Sain Medicaments Pvt. Ltd.",
+        "price": 199,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "v-20iu-pressin-injection-1ml",
+        "id": "1910322",
+        "name": "V 20IU Pressin Injection 1ml",
+        "manufacturer": "Biohexol Lifesciences",
+        "price": 280,
+        "packageSize": "Ampoule of 1 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/aa210141-aabb-46ae-a1cf-84069ec9ac32_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "v-2-50-325-10mg-plus-tablet-10s",
+        "id": "1861386",
+        "name": "V 2 50/325/10mg Plus Tablet 10s",
+        "manufacturer": "Zelleven Pharma Pvt. Ltd.",
+        "price": 83,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "v-2-50-mg-10-mg-tablet",
+        "id": "1113800",
+        "name": "V 2 50 mg/10 mg Tablet",
+        "manufacturer": "Derma Joint Healthcare Pvt. Ltd.",
+        "price": 51,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "v2cf-200-tablet-dt",
+        "id": "1101367",
+        "name": "V2CF 200 Tablet DT",
+        "manufacturer": "Venture Healthcare Pharma Pvt. Ltd.",
+        "price": 89,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "v2-liv-plus-300mg-tablet-10s",
+        "id": "1861401",
+        "name": "V2 Liv Plus 300mg Tablet 10s",
+        "manufacturer": "Amazeen Pharmaceuticals Pvt. Ltd.",
+        "price": 478,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "v2n-150mg-tablet-1s",
+        "id": "1050864",
+        "name": "V2N 150mg Tablet 1s",
+        "manufacturer": "Aden Healthcare",
+        "price": 16,
+        "packageSize": "Strip of 1 tablet",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "v-2-plus-tablet-10s",
+        "id": "1302975",
+        "name": "V 2 Plus Tablet 10s",
+        "manufacturer": "Derma Joint Healthcare Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/6ef894c5-5eab-4951-954c-c5e5ab7fae8a_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "v2v-10mg-20mg-tablet",
+        "id": "1125769",
+        "name": "V2V 10mg/20mg Tablet",
+        "manufacturer": "VInc.a Lifesciences",
+        "price": 16,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "v2-zyme-oral-drops",
+        "id": "1376714",
+        "name": "V2 Zyme Oral Drops",
+        "manufacturer": "Novitas Remedies Pvt. Ltd.",
+        "price": 77,
+        "packageSize": "Bottle of 15 ml",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/0b312906-354c-4655-93b4-08238b011ec9_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "v3s-injection-1000-500",
+        "id": "1283048",
+        "name": "V3S Injection 1000/500",
+        "manufacturer": "Bountiful Lifesciences Pvt. Ltd.",
+        "price": 928,
+        "packageSize": "Vial of 1 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "W": {
+    "letter": "W",
+    "totalPages": 304,
+    "items": [
+      {
+        "slug": "waakano-10mg-tablet-10s",
+        "id": "1911856",
+        "name": "Waakano 10mg Tablet 10s",
+        "manufacturer": "Bilberry Pharmaceutical Pvt. Ltd.",
+        "price": 177,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "waakano-40mg-tablet-10s",
+        "id": "1911857",
+        "name": "Waakano 40mg Tablet 10s",
+        "manufacturer": "Bilberry Pharmaceutical Pvt. Ltd.",
+        "price": 458,
+        "packageSize": "Strip of 10 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "waakano-f-tablet",
+        "id": "1185608",
+        "name": "Waakano F Tablet",
+        "manufacturer": "Bilberry Pharmaceutical Pvt. Ltd.",
+        "price": 177,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "waakano-gold-10-75-75mg-capsule-10s",
+        "id": "1861999",
+        "name": "Waakano Gold 10/75/75mg Capsule 10s",
+        "manufacturer": "Bilberry Pharmaceutical Pvt. Ltd.",
+        "price": 168,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "wabcon-0-1-cream",
+        "id": "1366140",
+        "name": "Wabcon 0.1% Cream",
+        "manufacturer": "Elliot Biotech Pvt. Ltd.",
+        "price": 128,
+        "packageSize": "Tube of 20 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "wabcon-0-1-lotion",
+        "id": "1070617",
+        "name": "Wabcon 0.1% Lotion",
+        "manufacturer": "Elliot Biotech Pvt. Ltd.",
+        "price": 122,
+        "packageSize": "Bottle of 15 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "wabcon-t-cream",
+        "id": "1366132",
+        "name": "Wabcon T Cream",
+        "manufacturer": "Elliot Biotech Pvt. Ltd.",
+        "price": 108,
+        "packageSize": "Tube of 15 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "wabzole-2-0-cream",
+        "id": "1070606",
+        "name": "Wabzole 2.0% Cream",
+        "manufacturer": "Elliot Biotech Pvt. Ltd.",
+        "price": 63,
+        "packageSize": "Tube of 20 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "wacon-150mg-tablet-1s",
+        "id": "1911858",
+        "name": "Wacon 150mg Tablet 1s",
+        "manufacturer": "Bioderma Laboratories",
+        "price": 11,
+        "packageSize": "Strip of 1 Tablet",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "wadflox-oz-200mg-500mg-tablet",
+        "id": "1079252",
+        "name": "Wadflox OZ 200mg/500mg Tablet",
+        "manufacturer": "Latmad Pharmaceuticals",
+        "price": 103,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "wadnaha-10mg-tablet-10s",
+        "id": "1370281",
+        "name": "Wadnaha 10mg Tablet 10s",
+        "manufacturer": "Fuhrer Pharmaceuticals Pvt. Ltd.",
+        "price": 179,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/6810ad72-30cd-436b-a435-bb2bfdea7c4a_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "wadol-100mg-injection",
+        "id": "1137115",
+        "name": "Wadol 100mg Injection",
+        "manufacturer": "SandMartin Pharmaceuticals Pvt. Ltd.",
+        "price": 32,
+        "packageSize": "Vial of 2 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "X": {
+    "letter": "X",
+    "totalPages": 247,
+    "items": [
+      {
+        "slug": "x-0-2-sis-mouth-wash-150ml",
+        "id": "1912244",
+        "name": "X 0.2% Sis Mouth Wash 150ml",
+        "manufacturer": "Medi Tech Remedies",
+        "price": 121,
+        "packageSize": "Bottle of 150 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "x-0-2-sis-mouth-wash-450ml",
+        "id": "1912245",
+        "name": "X 0.2% Sis Mouth Wash 450ml",
+        "manufacturer": "Medi Tech Remedies",
+        "price": 318,
+        "packageSize": "Bottle of 450 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "x-0-2-sis-mouth-wash-50ml",
+        "id": "1912246",
+        "name": "X 0.2% Sis Mouth Wash 50ml",
+        "manufacturer": "Medi Tech Remedies",
+        "price": 60,
+        "packageSize": "Bottle of 50 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "x-100-soft-gelatin-capsule",
+        "id": "1014108",
+        "name": "X 100 Soft Gelatin Capsule",
+        "manufacturer": "Alder Biochem Pvt. Ltd.",
+        "price": 450,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/meds-prescription/14cb0f06-5948-406b-a936-0d6d4bcf997b_wm.png?w=640&amp;q=80"
+      },
+      {
+        "slug": "x-1-tinea-cream-50gm",
+        "id": "1912247",
+        "name": "X 1% Tinea Cream 50gm",
+        "manufacturer": "H&amp;B Wellness",
+        "price": 76,
+        "packageSize": "Tube of 50 gm",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "x2pan-d-30mg-40mg-capsule-sr",
+        "id": "1193452",
+        "name": "X2Pan D 30mg/40mg Capsule SR",
+        "manufacturer": "Skylight Pharmaceuticals Pvt. Ltd.",
+        "price": 92,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "xabclot-10mg-tablet-14s",
+        "id": "1912257",
+        "name": "Xabclot 10mg Tablet 14s",
+        "manufacturer": "Kasdap Healthcare Pvt. Ltd.",
+        "price": 421,
+        "packageSize": "Strip of 14 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "xabclot-15mg-tablet-14s",
+        "id": "1912258",
+        "name": "Xabclot 15mg Tablet 14s",
+        "manufacturer": "Kasdap Healthcare Pvt. Ltd.",
+        "price": 539,
+        "packageSize": "Strip of 14 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "xabclot-20mg-tablet-14s",
+        "id": "1912260",
+        "name": "Xabclot 20mg Tablet 14s",
+        "manufacturer": "Kasdap Healthcare Pvt. Ltd.",
+        "price": 637,
+        "packageSize": "Strip of 14 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "xabclot-2-5mg-tablet-14s",
+        "id": "1912259",
+        "name": "Xabclot 2.5mg Tablet 14s",
+        "manufacturer": "Kasdap Healthcare Pvt. Ltd.",
+        "price": 225,
+        "packageSize": "Strip of 14 Tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "xabine-500mg-tablet",
+        "id": "1293493",
+        "name": "Xabine 500mg Tablet",
+        "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+        "price": 1,
+        "packageSize": "Strip of 1 tablet",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "xabine-500mg-tablet-10s",
+        "id": "1862156",
+        "name": "Xabine 500mg Tablet 10s",
+        "manufacturer": "Ranbaxy Laboratories Ltd.",
+        "price": 1,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "Y": {
+    "letter": "Y",
+    "totalPages": 91,
+    "items": [
+      {
+        "slug": "yabeta-16mg-tablet",
+        "id": "1058546",
+        "name": "Yabeta 16mg Tablet",
+        "manufacturer": "Spranza Vita Pharmaceutical LLP",
+        "price": 65,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yab-l-75mg-20mg-capsule",
+        "id": "1279983",
+        "name": "Yab L 75mg/20mg Capsule",
+        "manufacturer": "Yami Pharma",
+        "price": 186,
+        "packageSize": "Strip of 10 capsules",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yacanor-400mg-600mg-tablet",
+        "id": "1218018",
+        "name": "Yacanor 400mg/600mg Tablet",
+        "manufacturer": "Yacca Pharmaceuticals Pvt. Ltd.",
+        "price": 49,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yacaphen-plus-400mg-500mg-tablet",
+        "id": "1122681",
+        "name": "Yacaphen Plus 400mg/500mg Tablet",
+        "manufacturer": "Yacca Pharmaceuticals Pvt. Ltd.",
+        "price": 11,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yacca-lyte-syrup-100ml",
+        "id": "1217053",
+        "name": "Yacca Lyte Syrup 100ml",
+        "manufacturer": "Genesis Remedies Pvt. Ltd.",
+        "price": 43,
+        "packageSize": "Bottle of 100 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yacca-place-tablet-10s",
+        "id": "1020074",
+        "name": "Yacca Place Tablet 10s",
+        "manufacturer": "Genesis Biotech Inc.",
+        "price": 38,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yacert-50mg-tablet-10s",
+        "id": "1349875",
+        "name": "Yacert 50mg Tablet 10s",
+        "manufacturer": "Acekinetics Healthcare Pvt. Ltd.",
+        "price": 37,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yactum-1000-500mg-injection-1s",
+        "id": "1393114",
+        "name": "Yactum 1000/500mg Injection 1s",
+        "manufacturer": "Forgo Pharmaceuticals Pvt. Ltd.",
+        "price": 119,
+        "packageSize": "Vial of 10 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yactum-250-125mg-injection-1s",
+        "id": "1391815",
+        "name": "Yactum 250/125mg Injection 1s",
+        "manufacturer": "Forgo Pharmaceuticals Pvt. Ltd.",
+        "price": 45,
+        "packageSize": "Vial of 1 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yactum-500-250mg-injection-1s",
+        "id": "1391240",
+        "name": "Yactum 500/250mg Injection 1s",
+        "manufacturer": "Forgo Pharmaceuticals Pvt. Ltd.",
+        "price": 73,
+        "packageSize": "Vial of 2 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yactum-sb-1000-125mg-injection-1s",
+        "id": "1190831",
+        "name": "Yactum SB 1000/125mg Injection 1s",
+        "manufacturer": "Forgo Pharmaceuticals Pvt. Ltd.",
+        "price": 139,
+        "packageSize": "Vial of 1 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "yactum-sb-250-125mg-injection-1s",
+        "id": "1190826",
+        "name": "Yactum SB 250/125mg Injection 1s",
+        "manufacturer": "Forgo Pharmaceuticals Pvt. Ltd.",
+        "price": 44,
+        "packageSize": "Vial of 1 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  },
+  "Z": {
+    "letter": "Z",
+    "totalPages": 935,
+    "items": [
+      {
+        "slug": "z-1-200mg-5ml-suspension",
+        "id": "1178939",
+        "name": "Z 1 200mg/5ml Suspension",
+        "manufacturer": "Lupin Ltd.",
+        "price": 56,
+        "packageSize": "Bottle of 15 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "z-1-250mg-tablet",
+        "id": "1179479",
+        "name": "Z 1 250mg Tablet",
+        "manufacturer": "Lupin Ltd.",
+        "price": 64,
+        "packageSize": "Strip of 6 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "z-1-250mg-tablet-10s",
+        "id": "1862317",
+        "name": "Z 1 250mg Tablet 10s",
+        "manufacturer": "Lupin Ltd.",
+        "price": 120,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "z-1-500mg-tablet",
+        "id": "1231517",
+        "name": "Z 1 500mg Tablet",
+        "manufacturer": "Lupin Ltd.",
+        "price": 64,
+        "packageSize": "Strip of 3 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "z1-xl-200mg-oral-suspension-30ml",
+        "id": "1912794",
+        "name": "Z1 XL 200mg Oral Suspension 30ml",
+        "manufacturer": "Lupin Ltd.",
+        "price": 94,
+        "packageSize": "Bottle of 30 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "z8-10mg-tablet",
+        "id": "1006248",
+        "name": "Z8 10mg Tablet",
+        "manufacturer": "Intas Pharmaceuticals Ltd.",
+        "price": 81,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "z8-5mg-tablet",
+        "id": "1080893",
+        "name": "Z8 5mg Tablet",
+        "manufacturer": "Intas Pharmaceuticals Ltd.",
+        "price": 53,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "zaa-200mg-oral-suspension",
+        "id": "1031200",
+        "name": "Zaa 200mg Oral Suspension",
+        "manufacturer": "Daffohils Laboratories Pvt. Ltd.",
+        "price": 15,
+        "packageSize": "Bottle of 10 ml",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "zaa-400mg-tablet",
+        "id": "1328024",
+        "name": "Zaa 400mg Tablet",
+        "manufacturer": "Daffohils Laboratories Pvt. Ltd.",
+        "price": 116,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "zaalkryp-6mg-tablet",
+        "id": "1255307",
+        "name": "Zaalkryp 6mg Tablet",
+        "manufacturer": "Kryptomed Formulations Pvt. Ltd.",
+        "price": 73,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "zaan-ct-500-mg-600-mg-tablet",
+        "id": "1175569",
+        "name": "Zaan CT 500 mg/600 mg Tablet",
+        "manufacturer": "Vanguard Therapeutics Pvt. Ltd.",
+        "price": 89,
+        "packageSize": "Strip of 10 tablets",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      },
+      {
+        "slug": "zaa-plus-12mg-400mg-tablet",
+        "id": "1031478",
+        "name": "Zaa Plus 12mg/400mg Tablet",
+        "manufacturer": "Daffohils Laboratories Pvt. Ltd.",
+        "price": 25,
+        "packageSize": "Strip of 1 tablet",
+        "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+      }
+    ]
+  }
+}

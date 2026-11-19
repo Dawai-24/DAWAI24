@@ -1,0 +1,1915 @@
+{
+  "0-9": {
+    "letter": "0-9",
+    "totalPages": 0,
+    "diseases": []
+  },
+  "A": {
+    "letter": "A",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 120,
+        "slug": "acidity",
+        "name": "Acidity",
+        "url": "/disease/acidity/120"
+      },
+      {
+        "id": 118,
+        "slug": "acne",
+        "name": "Acne",
+        "url": "/disease/acne/118"
+      },
+      {
+        "id": 224,
+        "slug": "addison-s-disease",
+        "name": "Addison's disease",
+        "url": "/disease/addison-s-disease/224"
+      },
+      {
+        "id": 225,
+        "slug": "airplane-ear",
+        "name": "Airplane ear",
+        "url": "/disease/airplane-ear/225"
+      },
+      {
+        "id": 48,
+        "slug": "allergic-conditions",
+        "name": "Allergic conditions",
+        "url": "/disease/allergic-conditions/48"
+      },
+      {
+        "id": 263,
+        "slug": "alzheimer-s-disease",
+        "name": "Alzheimer's disease",
+        "url": "/disease/alzheimer-s-disease/263"
+      },
+      {
+        "id": 114,
+        "slug": "amenorrhea",
+        "name": "Amenorrhea",
+        "url": "/disease/amenorrhea/114"
+      },
+      {
+        "id": 217,
+        "slug": "anal-fissure",
+        "name": "Anal fissure",
+        "url": "/disease/anal-fissure/217"
+      },
+      {
+        "id": 152,
+        "slug": "anaphylaxis",
+        "name": "Anaphylaxis",
+        "url": "/disease/anaphylaxis/152"
+      },
+      {
+        "id": 173,
+        "slug": "anorexia-nervosa",
+        "name": "Anorexia Nervosa",
+        "url": "/disease/anorexia-nervosa/173"
+      },
+      {
+        "id": 260,
+        "slug": "anxiety",
+        "name": "Anxiety",
+        "url": "/disease/anxiety/260"
+      },
+      {
+        "id": 134,
+        "slug": "appendicitis",
+        "name": "Appendicitis",
+        "url": "/disease/appendicitis/134"
+      },
+      {
+        "id": 16,
+        "slug": "arthritis",
+        "name": "Arthritis",
+        "url": "/disease/arthritis/16"
+      },
+      {
+        "id": 205,
+        "slug": "ascites",
+        "name": "Ascites",
+        "url": "/disease/ascites/205"
+      },
+      {
+        "id": 9,
+        "slug": "asthma",
+        "name": "Asthma",
+        "url": "/disease/asthma/9"
+      },
+      {
+        "id": 278,
+        "slug": "atopic-dermatitis",
+        "name": "Atopic dermatitis",
+        "url": "/disease/atopic-dermatitis/278"
+      },
+      {
+        "id": 148,
+        "slug": "attention-deficit-hyperactivity-disorder-adhd-",
+        "name": "Attention deficit hyperactivity disorder (ADHD)",
+        "url": "/disease/attention-deficit-hyperactivity-disorder-adhd-/148"
+      },
+      {
+        "id": 132,
+        "slug": "autism",
+        "name": "Autism",
+        "url": "/disease/autism/132"
+      }
+    ]
+  },
+  "B": {
+    "letter": "B",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 240,
+        "slug": "baby-colic",
+        "name": "Baby colic",
+        "url": "/disease/baby-colic/240"
+      },
+      {
+        "id": 147,
+        "slug": "back-pain",
+        "name": "Back pain",
+        "url": "/disease/back-pain/147"
+      },
+      {
+        "id": 281,
+        "slug": "bacterial-infections",
+        "name": "Bacterial infections",
+        "url": "/disease/bacterial-infections/281"
+      },
+      {
+        "id": 103,
+        "slug": "bacterial-skin-infections",
+        "name": "Bacterial skin infections",
+        "url": "/disease/bacterial-skin-infections/103"
+      },
+      {
+        "id": 139,
+        "slug": "bed-wetting",
+        "name": "Bed-wetting",
+        "url": "/disease/bed-wetting/139"
+      },
+      {
+        "id": 192,
+        "slug": "bell-s-palsy",
+        "name": "Bell's palsy",
+        "url": "/disease/bell-s-palsy/192"
+      },
+      {
+        "id": 2,
+        "slug": "benign-prostatic-hyperplasia",
+        "name": "Benign prostatic hyperplasia",
+        "url": "/disease/benign-prostatic-hyperplasia/2"
+      },
+      {
+        "id": 289,
+        "slug": "bipolar-disorder",
+        "name": "Bipolar disorder",
+        "url": "/disease/bipolar-disorder/289"
+      },
+      {
+        "id": 146,
+        "slug": "black-hairy-tongue",
+        "name": "Black Hairy Tongue",
+        "url": "/disease/black-hairy-tongue/146"
+      },
+      {
+        "id": 37,
+        "slug": "bloating",
+        "name": "Bloating",
+        "url": "/disease/bloating/37"
+      },
+      {
+        "id": 155,
+        "slug": "blood-cancer",
+        "name": "Blood cancer",
+        "url": "/disease/blood-cancer/155"
+      },
+      {
+        "id": 236,
+        "slug": "body-ache",
+        "name": "Body Ache",
+        "url": "/disease/body-ache/236"
+      },
+      {
+        "id": 279,
+        "slug": "body-odor",
+        "name": "Body Odor",
+        "url": "/disease/body-odor/279"
+      },
+      {
+        "id": 51,
+        "slug": "breast-cancer",
+        "name": "Breast cancer",
+        "url": "/disease/breast-cancer/51"
+      },
+      {
+        "id": 181,
+        "slug": "bronchitis",
+        "name": "Bronchitis",
+        "url": "/disease/bronchitis/181"
+      },
+      {
+        "id": 261,
+        "slug": "bruxism",
+        "name": "Bruxism",
+        "url": "/disease/bruxism/261"
+      },
+      {
+        "id": 83,
+        "slug": "bulimia-nervosa",
+        "name": "Bulimia nervosa",
+        "url": "/disease/bulimia-nervosa/83"
+      },
+      {
+        "id": 156,
+        "slug": "bunions",
+        "name": "Bunions",
+        "url": "/disease/bunions/156"
+      },
+      {
+        "id": 282,
+        "slug": "burns",
+        "name": "Burns",
+        "url": "/disease/burns/282"
+      }
+    ]
+  },
+  "C": {
+    "letter": "C",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 296,
+        "slug": "calcium-deficiency",
+        "name": "Calcium deficiency",
+        "url": "/disease/calcium-deficiency/296"
+      },
+      {
+        "id": 223,
+        "slug": "cataract",
+        "name": "Cataract",
+        "url": "/disease/cataract/223"
+      },
+      {
+        "id": 153,
+        "slug": "cervical-cancer",
+        "name": "Cervical cancer",
+        "url": "/disease/cervical-cancer/153"
+      },
+      {
+        "id": 128,
+        "slug": "chickenpox",
+        "name": "Chickenpox",
+        "url": "/disease/chickenpox/128"
+      },
+      {
+        "id": 96,
+        "slug": "chikungunya",
+        "name": "Chikungunya",
+        "url": "/disease/chikungunya/96"
+      },
+      {
+        "id": 220,
+        "slug": "choking",
+        "name": "Choking",
+        "url": "/disease/choking/220"
+      },
+      {
+        "id": 231,
+        "slug": "cholera",
+        "name": "Cholera",
+        "url": "/disease/cholera/231"
+      },
+      {
+        "id": 206,
+        "slug": "colon-cancer",
+        "name": "Colon cancer",
+        "url": "/disease/colon-cancer/206"
+      },
+      {
+        "id": 221,
+        "slug": "color-blindness",
+        "name": "Color blindness",
+        "url": "/disease/color-blindness/221"
+      },
+      {
+        "id": 234,
+        "slug": "common-cold",
+        "name": "Common cold",
+        "url": "/disease/common-cold/234"
+      },
+      {
+        "id": 36,
+        "slug": "conjunctivitis",
+        "name": "Conjunctivitis",
+        "url": "/disease/conjunctivitis/36"
+      },
+      {
+        "id": 12,
+        "slug": "constipation",
+        "name": "Constipation",
+        "url": "/disease/constipation/12"
+      },
+      {
+        "id": 75,
+        "slug": "corns",
+        "name": "Corns",
+        "url": "/disease/corns/75"
+      },
+      {
+        "id": 265,
+        "slug": "coronary-artery-disease",
+        "name": "Coronary artery disease",
+        "url": "/disease/coronary-artery-disease/265"
+      },
+      {
+        "id": 243,
+        "slug": "cough",
+        "name": "Cough",
+        "url": "/disease/cough/243"
+      },
+      {
+        "id": 254,
+        "slug": "cracked-heels",
+        "name": "Cracked heels",
+        "url": "/disease/cracked-heels/254"
+      },
+      {
+        "id": 89,
+        "slug": "crohn-s-disease",
+        "name": "Crohn’s disease",
+        "url": "/disease/crohn-s-disease/89"
+      },
+      {
+        "id": 113,
+        "slug": "croup",
+        "name": "Croup",
+        "url": "/disease/croup/113"
+      },
+      {
+        "id": 197,
+        "slug": "cuts-and-puncture-wounds",
+        "name": "Cuts and puncture wounds",
+        "url": "/disease/cuts-and-puncture-wounds/197"
+      }
+    ]
+  },
+  "D": {
+    "letter": "D",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 170,
+        "slug": "dandruff",
+        "name": "Dandruff",
+        "url": "/disease/dandruff/170"
+      },
+      {
+        "id": 74,
+        "slug": "dehydration",
+        "name": "Dehydration",
+        "url": "/disease/dehydration/74"
+      },
+      {
+        "id": 44,
+        "slug": "dementia",
+        "name": "Dementia",
+        "url": "/disease/dementia/44"
+      },
+      {
+        "id": 290,
+        "slug": "dengue",
+        "name": "Dengue",
+        "url": "/disease/dengue/290"
+      },
+      {
+        "id": 162,
+        "slug": "dental-pain",
+        "name": "Dental pain",
+        "url": "/disease/dental-pain/162"
+      },
+      {
+        "id": 168,
+        "slug": "depression",
+        "name": "Depression",
+        "url": "/disease/depression/168"
+      },
+      {
+        "id": 204,
+        "slug": "diabetes",
+        "name": "Diabetes",
+        "url": "/disease/diabetes/204"
+      },
+      {
+        "id": 216,
+        "slug": "diphtheria",
+        "name": "Diphtheria",
+        "url": "/disease/diphtheria/216"
+      },
+      {
+        "id": 244,
+        "slug": "dizziness",
+        "name": "Dizziness",
+        "url": "/disease/dizziness/244"
+      },
+      {
+        "id": 28,
+        "slug": "down-syndrome",
+        "name": "Down syndrome",
+        "url": "/disease/down-syndrome/28"
+      },
+      {
+        "id": 52,
+        "slug": "dry-eyes",
+        "name": "Dry eyes",
+        "url": "/disease/dry-eyes/52"
+      },
+      {
+        "id": 191,
+        "slug": "dry-skin",
+        "name": "Dry Skin",
+        "url": "/disease/dry-skin/191"
+      },
+      {
+        "id": 203,
+        "slug": "dysentery",
+        "name": "Dysentery",
+        "url": "/disease/dysentery/203"
+      },
+      {
+        "id": 270,
+        "slug": "dyslexia",
+        "name": "Dyslexia",
+        "url": "/disease/dyslexia/270"
+      }
+    ]
+  },
+  "E": {
+    "letter": "E",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 93,
+        "slug": "ear-pain",
+        "name": "Ear pain",
+        "url": "/disease/ear-pain/93"
+      },
+      {
+        "id": 227,
+        "slug": "earwax",
+        "name": "Earwax",
+        "url": "/disease/earwax/227"
+      },
+      {
+        "id": 70,
+        "slug": "ectopic-pregnancy",
+        "name": "Ectopic pregnancy",
+        "url": "/disease/ectopic-pregnancy/70"
+      },
+      {
+        "id": 53,
+        "slug": "eczema",
+        "name": "Eczema",
+        "url": "/disease/eczema/53"
+      },
+      {
+        "id": 87,
+        "slug": "edema",
+        "name": "Edema",
+        "url": "/disease/edema/87"
+      },
+      {
+        "id": 95,
+        "slug": "emotional-eating",
+        "name": "Emotional eating",
+        "url": "/disease/emotional-eating/95"
+      },
+      {
+        "id": 38,
+        "slug": "encephalitis",
+        "name": "Encephalitis",
+        "url": "/disease/encephalitis/38"
+      },
+      {
+        "id": 42,
+        "slug": "endometriosis",
+        "name": "Endometriosis",
+        "url": "/disease/endometriosis/42"
+      },
+      {
+        "id": 127,
+        "slug": "enlarged-spleen",
+        "name": "Enlarged Spleen",
+        "url": "/disease/enlarged-spleen/127"
+      },
+      {
+        "id": 161,
+        "slug": "epilepsy",
+        "name": "Epilepsy",
+        "url": "/disease/epilepsy/161"
+      },
+      {
+        "id": 17,
+        "slug": "erectile-dysfunction",
+        "name": "Erectile dysfunction",
+        "url": "/disease/erectile-dysfunction/17"
+      },
+      {
+        "id": 102,
+        "slug": "esophageal-cancer",
+        "name": "Esophageal cancer",
+        "url": "/disease/esophageal-cancer/102"
+      },
+      {
+        "id": 151,
+        "slug": "excessive-burping",
+        "name": "Excessive burping",
+        "url": "/disease/excessive-burping/151"
+      },
+      {
+        "id": 142,
+        "slug": "excessive-sweating",
+        "name": "Excessive sweating",
+        "url": "/disease/excessive-sweating/142"
+      },
+      {
+        "id": 293,
+        "slug": "eye-strain",
+        "name": "Eye strain",
+        "url": "/disease/eye-strain/293"
+      }
+    ]
+  },
+  "F": {
+    "letter": "F",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 65,
+        "slug": "fainting-syncope-",
+        "name": "Fainting (Syncope)",
+        "url": "/disease/fainting-syncope-/65"
+      },
+      {
+        "id": 94,
+        "slug": "fatty-liver-disease",
+        "name": "Fatty liver disease",
+        "url": "/disease/fatty-liver-disease/94"
+      },
+      {
+        "id": 258,
+        "slug": "febrile-seizure",
+        "name": "Febrile Seizure",
+        "url": "/disease/febrile-seizure/258"
+      },
+      {
+        "id": 68,
+        "slug": "female-infertility",
+        "name": "Female infertility",
+        "url": "/disease/female-infertility/68"
+      },
+      {
+        "id": 131,
+        "slug": "fever",
+        "name": "Fever",
+        "url": "/disease/fever/131"
+      },
+      {
+        "id": 143,
+        "slug": "filariasis",
+        "name": "Filariasis",
+        "url": "/disease/filariasis/143"
+      },
+      {
+        "id": 164,
+        "slug": "fistula",
+        "name": "Fistula",
+        "url": "/disease/fistula/164"
+      },
+      {
+        "id": 288,
+        "slug": "flatulence-gas-formation-",
+        "name": "Flatulence (gas formation)",
+        "url": "/disease/flatulence-gas-formation-/288"
+      },
+      {
+        "id": 112,
+        "slug": "folliculitis",
+        "name": "Folliculitis",
+        "url": "/disease/folliculitis/112"
+      },
+      {
+        "id": 67,
+        "slug": "food-allergies",
+        "name": "Food allergies",
+        "url": "/disease/food-allergies/67"
+      },
+      {
+        "id": 77,
+        "slug": "food-poisoning",
+        "name": "Food poisoning",
+        "url": "/disease/food-poisoning/77"
+      },
+      {
+        "id": 252,
+        "slug": "frozen-shoulder",
+        "name": "Frozen shoulder",
+        "url": "/disease/frozen-shoulder/252"
+      },
+      {
+        "id": 49,
+        "slug": "fungal-skin-infections",
+        "name": "Fungal skin infections",
+        "url": "/disease/fungal-skin-infections/49"
+      }
+    ]
+  },
+  "G": {
+    "letter": "G",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 129,
+        "slug": "g6pd-deficiency",
+        "name": "G6PD Deficiency",
+        "url": "/disease/g6pd-deficiency/129"
+      },
+      {
+        "id": 190,
+        "slug": "gallbladder-stones",
+        "name": "Gallbladder stones",
+        "url": "/disease/gallbladder-stones/190"
+      },
+      {
+        "id": 97,
+        "slug": "gastritis",
+        "name": "Gastritis",
+        "url": "/disease/gastritis/97"
+      },
+      {
+        "id": 199,
+        "slug": "gastroenteritis",
+        "name": "Gastroenteritis",
+        "url": "/disease/gastroenteritis/199"
+      },
+      {
+        "id": 239,
+        "slug": "gastroesophageal-reflux-disease-acid-reflux-",
+        "name": "Gastroesophageal reflux disease (Acid reflux)",
+        "url": "/disease/gastroesophageal-reflux-disease-acid-reflux-/239"
+      },
+      {
+        "id": 88,
+        "slug": "gestational-diabetes",
+        "name": "Gestational diabetes",
+        "url": "/disease/gestational-diabetes/88"
+      },
+      {
+        "id": 264,
+        "slug": "gingivitis",
+        "name": "Gingivitis",
+        "url": "/disease/gingivitis/264"
+      },
+      {
+        "id": 176,
+        "slug": "glaucoma",
+        "name": "Glaucoma",
+        "url": "/disease/glaucoma/176"
+      },
+      {
+        "id": 119,
+        "slug": "gluten-intolerance",
+        "name": "Gluten Intolerance",
+        "url": "/disease/gluten-intolerance/119"
+      },
+      {
+        "id": 46,
+        "slug": "goiter",
+        "name": "Goiter",
+        "url": "/disease/goiter/46"
+      },
+      {
+        "id": 182,
+        "slug": "gonorrhea",
+        "name": "Gonorrhea",
+        "url": "/disease/gonorrhea/182"
+      },
+      {
+        "id": 14,
+        "slug": "gout",
+        "name": "Gout",
+        "url": "/disease/gout/14"
+      },
+      {
+        "id": 117,
+        "slug": "graves-disease",
+        "name": "Graves Disease",
+        "url": "/disease/graves-disease/117"
+      },
+      {
+        "id": 250,
+        "slug": "gynaecomastia",
+        "name": "Gynaecomastia",
+        "url": "/disease/gynaecomastia/250"
+      }
+    ]
+  },
+  "H": {
+    "letter": "H",
+    "totalPages": 2,
+    "diseases": [
+      {
+        "id": 285,
+        "slug": "h1n1-influenza-swine-flu-",
+        "name": "H1N1 Influenza (Swine Flu)",
+        "url": "/disease/h1n1-influenza-swine-flu-/285"
+      },
+      {
+        "id": 159,
+        "slug": "hair-loss",
+        "name": "Hair loss",
+        "url": "/disease/hair-loss/159"
+      },
+      {
+        "id": 228,
+        "slug": "hand-foot-and-mouth-disease",
+        "name": "Hand, Foot, and Mouth Disease",
+        "url": "/disease/hand-foot-and-mouth-disease/228"
+      },
+      {
+        "id": 144,
+        "slug": "hangover",
+        "name": "Hangover",
+        "url": "/disease/hangover/144"
+      },
+      {
+        "id": 251,
+        "slug": "hay-fever",
+        "name": "Hay fever",
+        "url": "/disease/hay-fever/251"
+      },
+      {
+        "id": 171,
+        "slug": "headache",
+        "name": "Headache",
+        "url": "/disease/headache/171"
+      },
+      {
+        "id": 30,
+        "slug": "head-lice",
+        "name": "Head lice",
+        "url": "/disease/head-lice/30"
+      },
+      {
+        "id": 166,
+        "slug": "heart-attack",
+        "name": "Heart attack",
+        "url": "/disease/heart-attack/166"
+      },
+      {
+        "id": 174,
+        "slug": "heart-failure",
+        "name": "Heart Failure",
+        "url": "/disease/heart-failure/174"
+      },
+      {
+        "id": 137,
+        "slug": "heat-cramps",
+        "name": "Heat Cramps",
+        "url": "/disease/heat-cramps/137"
+      },
+      {
+        "id": 275,
+        "slug": "heat-exhaustion",
+        "name": "Heat Exhaustion",
+        "url": "/disease/heat-exhaustion/275"
+      },
+      {
+        "id": 116,
+        "slug": "heat-rash",
+        "name": "Heat rash",
+        "url": "/disease/heat-rash/116"
+      },
+      {
+        "id": 292,
+        "slug": "heat-stroke",
+        "name": "Heat stroke",
+        "url": "/disease/heat-stroke/292"
+      },
+      {
+        "id": 121,
+        "slug": "hemophilia",
+        "name": "Hemophilia",
+        "url": "/disease/hemophilia/121"
+      },
+      {
+        "id": 91,
+        "slug": "hepatitis-a",
+        "name": "Hepatitis A",
+        "url": "/disease/hepatitis-a/91"
+      },
+      {
+        "id": 64,
+        "slug": "hernia",
+        "name": "Hernia",
+        "url": "/disease/hernia/64"
+      },
+      {
+        "id": 10,
+        "slug": "herpes-simplex-virus-infections",
+        "name": "Herpes Simplex Virus Infections",
+        "url": "/disease/herpes-simplex-virus-infections/10"
+      },
+      {
+        "id": 90,
+        "slug": "hiccups",
+        "name": "Hiccups",
+        "url": "/disease/hiccups/90"
+      },
+      {
+        "id": 8,
+        "slug": "hirsutism",
+        "name": "Hirsutism",
+        "url": "/disease/hirsutism/8"
+      },
+      {
+        "id": 24,
+        "slug": "hiv-infection",
+        "name": "HIV infection",
+        "url": "/disease/hiv-infection/24"
+      },
+      {
+        "id": 20,
+        "slug": "hypercalcemia",
+        "name": "Hypercalcemia",
+        "url": "/disease/hypercalcemia/20"
+      },
+      {
+        "id": 111,
+        "slug": "hypermetropia",
+        "name": "Hypermetropia",
+        "url": "/disease/hypermetropia/111"
+      },
+      {
+        "id": 7,
+        "slug": "hyperpigmentation",
+        "name": "Hyperpigmentation",
+        "url": "/disease/hyperpigmentation/7"
+      },
+      {
+        "id": 19,
+        "slug": "hypertension-high-blood-pressure-",
+        "name": "Hypertension (high blood pressure)",
+        "url": "/disease/hypertension-high-blood-pressure-/19"
+      }
+    ]
+  },
+  "I": {
+    "letter": "I",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 136,
+        "slug": "impacted-wisdom-tooth",
+        "name": "Impacted Wisdom Tooth",
+        "url": "/disease/impacted-wisdom-tooth/136"
+      },
+      {
+        "id": 272,
+        "slug": "impetigo",
+        "name": "Impetigo",
+        "url": "/disease/impetigo/272"
+      },
+      {
+        "id": 1,
+        "slug": "indigestion",
+        "name": "Indigestion",
+        "url": "/disease/indigestion/1"
+      },
+      {
+        "id": 222,
+        "slug": "inflammation-within-blood-vessels-vasculitis-",
+        "name": "Inflammation within blood vessels (Vasculitis)",
+        "url": "/disease/inflammation-within-blood-vessels-vasculitis-/222"
+      },
+      {
+        "id": 237,
+        "slug": "inflammatory-bowel-disease",
+        "name": "Inflammatory bowel disease",
+        "url": "/disease/inflammatory-bowel-disease/237"
+      },
+      {
+        "id": 60,
+        "slug": "influenza-flu-",
+        "name": "Influenza (flu)",
+        "url": "/disease/influenza-flu-/60"
+      },
+      {
+        "id": 5,
+        "slug": "insomnia",
+        "name": "Insomnia",
+        "url": "/disease/insomnia/5"
+      },
+      {
+        "id": 280,
+        "slug": "intrahepatic-cholestasis-of-pregnancy-icp-",
+        "name": "Intrahepatic cholestasis of pregnancy (ICP)",
+        "url": "/disease/intrahepatic-cholestasis-of-pregnancy-icp-/280"
+      },
+      {
+        "id": 22,
+        "slug": "iron-deficiency-anemia",
+        "name": "Iron deficiency anemia",
+        "url": "/disease/iron-deficiency-anemia/22"
+      },
+      {
+        "id": 235,
+        "slug": "irritable-bowel-syndrome",
+        "name": "Irritable bowel syndrome",
+        "url": "/disease/irritable-bowel-syndrome/235"
+      },
+      {
+        "id": 149,
+        "slug": "itching",
+        "name": "Itching",
+        "url": "/disease/itching/149"
+      }
+    ]
+  },
+  "J": {
+    "letter": "J",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 145,
+        "slug": "japanese-encephalitis",
+        "name": "Japanese encephalitis",
+        "url": "/disease/japanese-encephalitis/145"
+      },
+      {
+        "id": 188,
+        "slug": "jaundice",
+        "name": "Jaundice",
+        "url": "/disease/jaundice/188"
+      },
+      {
+        "id": 109,
+        "slug": "jet-lag",
+        "name": "Jet lag",
+        "url": "/disease/jet-lag/109"
+      },
+      {
+        "id": 21,
+        "slug": "joint-pain",
+        "name": "Joint pain",
+        "url": "/disease/joint-pain/21"
+      }
+    ]
+  },
+  "K": {
+    "letter": "K",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 135,
+        "slug": "kawasaki-disease",
+        "name": "Kawasaki Disease",
+        "url": "/disease/kawasaki-disease/135"
+      },
+      {
+        "id": 195,
+        "slug": "keratitis",
+        "name": "Keratitis",
+        "url": "/disease/keratitis/195"
+      },
+      {
+        "id": 104,
+        "slug": "keratosis-pilaris",
+        "name": "Keratosis pilaris",
+        "url": "/disease/keratosis-pilaris/104"
+      },
+      {
+        "id": 59,
+        "slug": "kidney-cancer",
+        "name": "Kidney cancer",
+        "url": "/disease/kidney-cancer/59"
+      },
+      {
+        "id": 208,
+        "slug": "kidney-failure",
+        "name": "Kidney failure",
+        "url": "/disease/kidney-failure/208"
+      },
+      {
+        "id": 69,
+        "slug": "kidney-stone",
+        "name": "Kidney stone",
+        "url": "/disease/kidney-stone/69"
+      },
+      {
+        "id": 105,
+        "slug": "klinefelter-syndrome",
+        "name": "Klinefelter syndrome",
+        "url": "/disease/klinefelter-syndrome/105"
+      }
+    ]
+  },
+  "L": {
+    "letter": "L",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 99,
+        "slug": "lactose-intolerance",
+        "name": "Lactose intolerance",
+        "url": "/disease/lactose-intolerance/99"
+      },
+      {
+        "id": 150,
+        "slug": "latex-allergy",
+        "name": "Latex Allergy",
+        "url": "/disease/latex-allergy/150"
+      },
+      {
+        "id": 177,
+        "slug": "leprosy",
+        "name": "Leprosy",
+        "url": "/disease/leprosy/177"
+      },
+      {
+        "id": 226,
+        "slug": "leptospirosis",
+        "name": "Leptospirosis",
+        "url": "/disease/leptospirosis/226"
+      },
+      {
+        "id": 249,
+        "slug": "liver-cancer",
+        "name": "Liver cancer",
+        "url": "/disease/liver-cancer/249"
+      },
+      {
+        "id": 133,
+        "slug": "liver-cirrhosis",
+        "name": "Liver cirrhosis",
+        "url": "/disease/liver-cirrhosis/133"
+      },
+      {
+        "id": 284,
+        "slug": "low-blood-pressure",
+        "name": "Low blood pressure",
+        "url": "/disease/low-blood-pressure/284"
+      },
+      {
+        "id": 194,
+        "slug": "low-immunity",
+        "name": "Low Immunity",
+        "url": "/disease/low-immunity/194"
+      },
+      {
+        "id": 266,
+        "slug": "lung-cancer",
+        "name": "Lung cancer",
+        "url": "/disease/lung-cancer/266"
+      }
+    ]
+  },
+  "M": {
+    "letter": "M",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 106,
+        "slug": "magnesium-deficiency",
+        "name": "Magnesium deficiency",
+        "url": "/disease/magnesium-deficiency/106"
+      },
+      {
+        "id": 165,
+        "slug": "malaria",
+        "name": "Malaria",
+        "url": "/disease/malaria/165"
+      },
+      {
+        "id": 219,
+        "slug": "male-infertility",
+        "name": "Male infertility",
+        "url": "/disease/male-infertility/219"
+      },
+      {
+        "id": 27,
+        "slug": "measles",
+        "name": "Measles",
+        "url": "/disease/measles/27"
+      },
+      {
+        "id": 140,
+        "slug": "melanoma",
+        "name": "Melanoma",
+        "url": "/disease/melanoma/140"
+      },
+      {
+        "id": 245,
+        "slug": "melasma",
+        "name": "Melasma",
+        "url": "/disease/melasma/245"
+      },
+      {
+        "id": 179,
+        "slug": "meningitis",
+        "name": "Meningitis",
+        "url": "/disease/meningitis/179"
+      },
+      {
+        "id": 185,
+        "slug": "menopause",
+        "name": "Menopause",
+        "url": "/disease/menopause/185"
+      },
+      {
+        "id": 56,
+        "slug": "migraine",
+        "name": "Migraine",
+        "url": "/disease/migraine/56"
+      },
+      {
+        "id": 238,
+        "slug": "motion-sickness",
+        "name": "Motion sickness",
+        "url": "/disease/motion-sickness/238"
+      },
+      {
+        "id": 242,
+        "slug": "mouth-ulcers",
+        "name": "Mouth ulcers",
+        "url": "/disease/mouth-ulcers/242"
+      },
+      {
+        "id": 262,
+        "slug": "mpox-monkeypox-",
+        "name": "Mpox (Monkeypox)",
+        "url": "/disease/mpox-monkeypox-/262"
+      },
+      {
+        "id": 26,
+        "slug": "mucormycosis",
+        "name": "Mucormycosis",
+        "url": "/disease/mucormycosis/26"
+      },
+      {
+        "id": 167,
+        "slug": "multiple-myeloma",
+        "name": "Multiple myeloma",
+        "url": "/disease/multiple-myeloma/167"
+      },
+      {
+        "id": 63,
+        "slug": "multiple-sclerosis-ms-",
+        "name": "Multiple sclerosis (MS)",
+        "url": "/disease/multiple-sclerosis-ms-/63"
+      },
+      {
+        "id": 178,
+        "slug": "mumps",
+        "name": "Mumps",
+        "url": "/disease/mumps/178"
+      },
+      {
+        "id": 267,
+        "slug": "myocarditis",
+        "name": "Myocarditis",
+        "url": "/disease/myocarditis/267"
+      },
+      {
+        "id": 115,
+        "slug": "myopia",
+        "name": "Myopia",
+        "url": "/disease/myopia/115"
+      }
+    ]
+  },
+  "N": {
+    "letter": "N",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 35,
+        "slug": "nail-infections",
+        "name": "Nail infections",
+        "url": "/disease/nail-infections/35"
+      },
+      {
+        "id": 81,
+        "slug": "narcolepsy-uncontrollable-daytime-sleepiness-",
+        "name": "Narcolepsy (Uncontrollable daytime sleepiness)",
+        "url": "/disease/narcolepsy-uncontrollable-daytime-sleepiness-/81"
+      },
+      {
+        "id": 47,
+        "slug": "nausea",
+        "name": "Nausea",
+        "url": "/disease/nausea/47"
+      },
+      {
+        "id": 62,
+        "slug": "neck-pain",
+        "name": "Neck pain",
+        "url": "/disease/neck-pain/62"
+      },
+      {
+        "id": 169,
+        "slug": "neonatal-jaundice",
+        "name": "Neonatal Jaundice",
+        "url": "/disease/neonatal-jaundice/169"
+      },
+      {
+        "id": 108,
+        "slug": "neuropathic-pain",
+        "name": "Neuropathic pain",
+        "url": "/disease/neuropathic-pain/108"
+      },
+      {
+        "id": 158,
+        "slug": "night-eating-syndrome",
+        "name": "Night eating syndrome",
+        "url": "/disease/night-eating-syndrome/158"
+      },
+      {
+        "id": 229,
+        "slug": "nose-bleeding",
+        "name": "Nose bleeding",
+        "url": "/disease/nose-bleeding/229"
+      },
+      {
+        "id": 141,
+        "slug": "nutritional-deficiencies",
+        "name": "Nutritional deficiencies",
+        "url": "/disease/nutritional-deficiencies/141"
+      }
+    ]
+  },
+  "O": {
+    "letter": "O",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 277,
+        "slug": "obesity",
+        "name": "Obesity",
+        "url": "/disease/obesity/277"
+      },
+      {
+        "id": 230,
+        "slug": "obsessive-compulsive-disorder",
+        "name": "Obsessive-compulsive disorder",
+        "url": "/disease/obsessive-compulsive-disorder/230"
+      },
+      {
+        "id": 291,
+        "slug": "oral-cancer",
+        "name": "Oral cancer",
+        "url": "/disease/oral-cancer/291"
+      },
+      {
+        "id": 66,
+        "slug": "oral-thrush",
+        "name": "Oral thrush",
+        "url": "/disease/oral-thrush/66"
+      },
+      {
+        "id": 34,
+        "slug": "osteoarthritis",
+        "name": "Osteoarthritis",
+        "url": "/disease/osteoarthritis/34"
+      },
+      {
+        "id": 198,
+        "slug": "osteomalacia",
+        "name": "Osteomalacia",
+        "url": "/disease/osteomalacia/198"
+      },
+      {
+        "id": 58,
+        "slug": "osteoporosis",
+        "name": "Osteoporosis",
+        "url": "/disease/osteoporosis/58"
+      },
+      {
+        "id": 125,
+        "slug": "ovarian-cancer",
+        "name": "Ovarian cancer",
+        "url": "/disease/ovarian-cancer/125"
+      }
+    ]
+  },
+  "P": {
+    "letter": "P",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 274,
+        "slug": "paget-s-disease",
+        "name": "Paget's disease",
+        "url": "/disease/paget-s-disease/274"
+      },
+      {
+        "id": 200,
+        "slug": "palpitations",
+        "name": "Palpitations",
+        "url": "/disease/palpitations/200"
+      },
+      {
+        "id": 123,
+        "slug": "pancreatic-cancer",
+        "name": "Pancreatic cancer",
+        "url": "/disease/pancreatic-cancer/123"
+      },
+      {
+        "id": 233,
+        "slug": "pancreatitis",
+        "name": "Pancreatitis",
+        "url": "/disease/pancreatitis/233"
+      },
+      {
+        "id": 283,
+        "slug": "parkinson-s-disease",
+        "name": "Parkinson's disease",
+        "url": "/disease/parkinson-s-disease/283"
+      },
+      {
+        "id": 213,
+        "slug": "peptic-ulcer-disease",
+        "name": "Peptic ulcer disease",
+        "url": "/disease/peptic-ulcer-disease/213"
+      },
+      {
+        "id": 215,
+        "slug": "period-pain-menstrual-cramps-",
+        "name": "Period pain (menstrual cramps)",
+        "url": "/disease/period-pain-menstrual-cramps-/215"
+      },
+      {
+        "id": 210,
+        "slug": "piles",
+        "name": "Piles",
+        "url": "/disease/piles/210"
+      },
+      {
+        "id": 98,
+        "slug": "placenta-previa",
+        "name": "Placenta previa",
+        "url": "/disease/placenta-previa/98"
+      },
+      {
+        "id": 18,
+        "slug": "pneumonia",
+        "name": "Pneumonia",
+        "url": "/disease/pneumonia/18"
+      },
+      {
+        "id": 73,
+        "slug": "polio",
+        "name": "Polio",
+        "url": "/disease/polio/73"
+      },
+      {
+        "id": 193,
+        "slug": "polycystic-ovarian-syndrome-pcos-",
+        "name": "Polycystic ovarian syndrome (PCOS)",
+        "url": "/disease/polycystic-ovarian-syndrome-pcos-/193"
+      },
+      {
+        "id": 78,
+        "slug": "postpartum-depression",
+        "name": "Postpartum depression",
+        "url": "/disease/postpartum-depression/78"
+      },
+      {
+        "id": 126,
+        "slug": "pre-eclampsia",
+        "name": "Pre-eclampsia",
+        "url": "/disease/pre-eclampsia/126"
+      },
+      {
+        "id": 100,
+        "slug": "premature-labor",
+        "name": "Premature Labor",
+        "url": "/disease/premature-labor/100"
+      },
+      {
+        "id": 86,
+        "slug": "premenstrual-syndrome-pms-",
+        "name": "Premenstrual syndrome (PMS)",
+        "url": "/disease/premenstrual-syndrome-pms-/86"
+      },
+      {
+        "id": 122,
+        "slug": "prostate-cancer",
+        "name": "Prostate cancer",
+        "url": "/disease/prostate-cancer/122"
+      },
+      {
+        "id": 180,
+        "slug": "prostatitis",
+        "name": "Prostatitis",
+        "url": "/disease/prostatitis/180"
+      },
+      {
+        "id": 172,
+        "slug": "psoriasis",
+        "name": "Psoriasis",
+        "url": "/disease/psoriasis/172"
+      },
+      {
+        "id": 232,
+        "slug": "pulmonary-embolism",
+        "name": "Pulmonary embolism",
+        "url": "/disease/pulmonary-embolism/232"
+      }
+    ]
+  },
+  "Q": {
+    "letter": "Q",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 50,
+        "slug": "q-fever",
+        "name": "Q fever",
+        "url": "/disease/q-fever/50"
+      }
+    ]
+  },
+  "R": {
+    "letter": "R",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 175,
+        "slug": "rabies",
+        "name": "Rabies",
+        "url": "/disease/rabies/175"
+      },
+      {
+        "id": 268,
+        "slug": "raynaud-s-disease",
+        "name": "Raynaud's disease",
+        "url": "/disease/raynaud-s-disease/268"
+      },
+      {
+        "id": 130,
+        "slug": "rheumatic-fever",
+        "name": "Rheumatic fever",
+        "url": "/disease/rheumatic-fever/130"
+      },
+      {
+        "id": 25,
+        "slug": "rheumatoid-arthritis",
+        "name": "Rheumatoid arthritis",
+        "url": "/disease/rheumatoid-arthritis/25"
+      },
+      {
+        "id": 45,
+        "slug": "rickets",
+        "name": "Rickets",
+        "url": "/disease/rickets/45"
+      },
+      {
+        "id": 43,
+        "slug": "ringworm",
+        "name": "Ringworm",
+        "url": "/disease/ringworm/43"
+      },
+      {
+        "id": 246,
+        "slug": "rosacea",
+        "name": "Rosacea",
+        "url": "/disease/rosacea/246"
+      },
+      {
+        "id": 160,
+        "slug": "rubella",
+        "name": "Rubella",
+        "url": "/disease/rubella/160"
+      }
+    ]
+  },
+  "S": {
+    "letter": "S",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 6,
+        "slug": "scabies",
+        "name": "Scabies",
+        "url": "/disease/scabies/6"
+      },
+      {
+        "id": 15,
+        "slug": "schizophrenia",
+        "name": "Schizophrenia",
+        "url": "/disease/schizophrenia/15"
+      },
+      {
+        "id": 55,
+        "slug": "sciatica",
+        "name": "Sciatica",
+        "url": "/disease/sciatica/55"
+      },
+      {
+        "id": 202,
+        "slug": "sepsis",
+        "name": "Sepsis",
+        "url": "/disease/sepsis/202"
+      },
+      {
+        "id": 294,
+        "slug": "shingles",
+        "name": "Shingles",
+        "url": "/disease/shingles/294"
+      },
+      {
+        "id": 248,
+        "slug": "sickle-cell-anemia",
+        "name": "Sickle cell anemia",
+        "url": "/disease/sickle-cell-anemia/248"
+      },
+      {
+        "id": 187,
+        "slug": "sinusitis",
+        "name": "Sinusitis",
+        "url": "/disease/sinusitis/187"
+      },
+      {
+        "id": 29,
+        "slug": "sjogren-s-syndrome",
+        "name": "Sjogren’s Syndrome",
+        "url": "/disease/sjogren-s-syndrome/29"
+      },
+      {
+        "id": 247,
+        "slug": "sleep-apnea",
+        "name": "Sleep apnea",
+        "url": "/disease/sleep-apnea/247"
+      },
+      {
+        "id": 271,
+        "slug": "sleepwalking",
+        "name": "Sleepwalking",
+        "url": "/disease/sleepwalking/271"
+      },
+      {
+        "id": 286,
+        "slug": "slipped-disc",
+        "name": "Slipped disc",
+        "url": "/disease/slipped-disc/286"
+      },
+      {
+        "id": 256,
+        "slug": "smelly-feet",
+        "name": "Smelly feet",
+        "url": "/disease/smelly-feet/256"
+      },
+      {
+        "id": 253,
+        "slug": "snoring",
+        "name": "Snoring",
+        "url": "/disease/snoring/253"
+      },
+      {
+        "id": 241,
+        "slug": "sore-throat",
+        "name": "Sore throat",
+        "url": "/disease/sore-throat/241"
+      },
+      {
+        "id": 39,
+        "slug": "spondylosis",
+        "name": "Spondylosis",
+        "url": "/disease/spondylosis/39"
+      },
+      {
+        "id": 295,
+        "slug": "stomach-cancer",
+        "name": "Stomach cancer",
+        "url": "/disease/stomach-cancer/295"
+      },
+      {
+        "id": 209,
+        "slug": "stress",
+        "name": "Stress",
+        "url": "/disease/stress/209"
+      },
+      {
+        "id": 61,
+        "slug": "stroke",
+        "name": "Stroke",
+        "url": "/disease/stroke/61"
+      },
+      {
+        "id": 79,
+        "slug": "stye",
+        "name": "Stye",
+        "url": "/disease/stye/79"
+      },
+      {
+        "id": 92,
+        "slug": "sunburn",
+        "name": "Sunburn",
+        "url": "/disease/sunburn/92"
+      },
+      {
+        "id": 214,
+        "slug": "syphilis",
+        "name": "Syphilis",
+        "url": "/disease/syphilis/214"
+      }
+    ]
+  },
+  "T": {
+    "letter": "T",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 11,
+        "slug": "testicular-cancer",
+        "name": "Testicular cancer",
+        "url": "/disease/testicular-cancer/11"
+      },
+      {
+        "id": 82,
+        "slug": "tetanus",
+        "name": "Tetanus",
+        "url": "/disease/tetanus/82"
+      },
+      {
+        "id": 189,
+        "slug": "thalassemia",
+        "name": "Thalassemia",
+        "url": "/disease/thalassemia/189"
+      },
+      {
+        "id": 255,
+        "slug": "throat-cancer",
+        "name": "Throat cancer",
+        "url": "/disease/throat-cancer/255"
+      },
+      {
+        "id": 23,
+        "slug": "thrombocytopenia",
+        "name": "Thrombocytopenia",
+        "url": "/disease/thrombocytopenia/23"
+      },
+      {
+        "id": 110,
+        "slug": "tinnitus-ringing-in-the-ears-",
+        "name": "Tinnitus (ringing in the ears)",
+        "url": "/disease/tinnitus-ringing-in-the-ears-/110"
+      },
+      {
+        "id": 41,
+        "slug": "tiredness",
+        "name": "Tiredness",
+        "url": "/disease/tiredness/41"
+      },
+      {
+        "id": 84,
+        "slug": "tonsilitis",
+        "name": "Tonsilitis",
+        "url": "/disease/tonsilitis/84"
+      },
+      {
+        "id": 76,
+        "slug": "trigeminal-neuralgia",
+        "name": "Trigeminal neuralgia",
+        "url": "/disease/trigeminal-neuralgia/76"
+      },
+      {
+        "id": 163,
+        "slug": "tuberculosis-tb-",
+        "name": "Tuberculosis (TB)",
+        "url": "/disease/tuberculosis-tb-/163"
+      },
+      {
+        "id": 138,
+        "slug": "type-1-diabetes-mellitus",
+        "name": "Type 1 Diabetes Mellitus",
+        "url": "/disease/type-1-diabetes-mellitus/138"
+      },
+      {
+        "id": 124,
+        "slug": "type-2-diabetes-mellitus",
+        "name": "Type 2 diabetes mellitus",
+        "url": "/disease/type-2-diabetes-mellitus/124"
+      },
+      {
+        "id": 184,
+        "slug": "typhoid-fever",
+        "name": "Typhoid fever",
+        "url": "/disease/typhoid-fever/184"
+      }
+    ]
+  },
+  "U": {
+    "letter": "U",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 80,
+        "slug": "ulcerative-colitis",
+        "name": "Ulcerative colitis",
+        "url": "/disease/ulcerative-colitis/80"
+      },
+      {
+        "id": 157,
+        "slug": "urinary-bladder-cancer",
+        "name": "Urinary bladder cancer",
+        "url": "/disease/urinary-bladder-cancer/157"
+      },
+      {
+        "id": 57,
+        "slug": "urinary-incontinence",
+        "name": "Urinary incontinence",
+        "url": "/disease/urinary-incontinence/57"
+      },
+      {
+        "id": 218,
+        "slug": "urinary-tract-infections-utis-",
+        "name": "Urinary tract infections (UTIs)",
+        "url": "/disease/urinary-tract-infections-utis-/218"
+      },
+      {
+        "id": 33,
+        "slug": "urticaria",
+        "name": "Urticaria",
+        "url": "/disease/urticaria/33"
+      },
+      {
+        "id": 72,
+        "slug": "uterine-fibroids",
+        "name": "Uterine fibroids",
+        "url": "/disease/uterine-fibroids/72"
+      }
+    ]
+  },
+  "V": {
+    "letter": "V",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 101,
+        "slug": "vaginal-bleeding-between-periods",
+        "name": "Vaginal bleeding between periods",
+        "url": "/disease/vaginal-bleeding-between-periods/101"
+      },
+      {
+        "id": 85,
+        "slug": "vaginal-discharge",
+        "name": "Vaginal discharge",
+        "url": "/disease/vaginal-discharge/85"
+      },
+      {
+        "id": 201,
+        "slug": "vaginal-yeast-infection",
+        "name": "Vaginal yeast infection",
+        "url": "/disease/vaginal-yeast-infection/201"
+      },
+      {
+        "id": 71,
+        "slug": "varicose-veins",
+        "name": "Varicose veins",
+        "url": "/disease/varicose-veins/71"
+      },
+      {
+        "id": 211,
+        "slug": "vertigo",
+        "name": "Vertigo",
+        "url": "/disease/vertigo/211"
+      },
+      {
+        "id": 257,
+        "slug": "vitamin-a-deficiency",
+        "name": "Vitamin A deficiency",
+        "url": "/disease/vitamin-a-deficiency/257"
+      },
+      {
+        "id": 154,
+        "slug": "vitamin-b12-deficiency",
+        "name": "Vitamin B12 deficiency",
+        "url": "/disease/vitamin-b12-deficiency/154"
+      },
+      {
+        "id": 259,
+        "slug": "vitamin-c-deficiency",
+        "name": "Vitamin C deficiency",
+        "url": "/disease/vitamin-c-deficiency/259"
+      },
+      {
+        "id": 287,
+        "slug": "vitamin-d-deficiency",
+        "name": "Vitamin D deficiency",
+        "url": "/disease/vitamin-d-deficiency/287"
+      },
+      {
+        "id": 269,
+        "slug": "vitamin-e-deficiency",
+        "name": "Vitamin E deficiency",
+        "url": "/disease/vitamin-e-deficiency/269"
+      },
+      {
+        "id": 276,
+        "slug": "vitamin-k-deficiency",
+        "name": "Vitamin K deficiency",
+        "url": "/disease/vitamin-k-deficiency/276"
+      },
+      {
+        "id": 212,
+        "slug": "vitiligo",
+        "name": "Vitiligo",
+        "url": "/disease/vitiligo/212"
+      },
+      {
+        "id": 54,
+        "slug": "vomiting",
+        "name": "Vomiting",
+        "url": "/disease/vomiting/54"
+      }
+    ]
+  },
+  "W": {
+    "letter": "W",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 273,
+        "slug": "warts",
+        "name": "Warts",
+        "url": "/disease/warts/273"
+      },
+      {
+        "id": 183,
+        "slug": "whooping-cough",
+        "name": "Whooping cough",
+        "url": "/disease/whooping-cough/183"
+      },
+      {
+        "id": 196,
+        "slug": "wilson-s-disease",
+        "name": "Wilson's disease",
+        "url": "/disease/wilson-s-disease/196"
+      }
+    ]
+  },
+  "X": {
+    "letter": "X",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 40,
+        "slug": "xerophthalmia",
+        "name": "Xerophthalmia",
+        "url": "/disease/xerophthalmia/40"
+      },
+      {
+        "id": 31,
+        "slug": "xerostomia",
+        "name": "Xerostomia",
+        "url": "/disease/xerostomia/31"
+      }
+    ]
+  },
+  "Y": {
+    "letter": "Y",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 186,
+        "slug": "yellow-fever",
+        "name": "Yellow fever",
+        "url": "/disease/yellow-fever/186"
+      }
+    ]
+  },
+  "Z": {
+    "letter": "Z",
+    "totalPages": 1,
+    "diseases": [
+      {
+        "id": 107,
+        "slug": "zika-virus-disease",
+        "name": "Zika virus disease",
+        "url": "/disease/zika-virus-disease/107"
+      },
+      {
+        "id": 207,
+        "slug": "zinc-deficiency",
+        "name": "Zinc deficiency",
+        "url": "/disease/zinc-deficiency/207"
+      }
+    ]
+  }
+}

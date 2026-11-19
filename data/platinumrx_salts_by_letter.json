@@ -1,0 +1,3128 @@
+{
+  "0-9": {
+    "letter": "0-9",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 2748,
+        "slug": "1288487-",
+        "name": "1288487\"",
+        "url": "/salt/1288487-/2748"
+      },
+      {
+        "id": 2285,
+        "slug": "1381163-",
+        "name": "1381163\"",
+        "url": "/salt/1381163-/2285"
+      },
+      {
+        "id": 2186,
+        "slug": "1408705-",
+        "name": "1408705\"",
+        "url": "/salt/1408705-/2186"
+      },
+      {
+        "id": 3514,
+        "slug": "2-4-dichlorobenzyl-alcohol-amylmetacresol",
+        "name": "2,4 Dichlorobenzyl Alcohol + Amylmetacresol",
+        "url": "/salt/2-4-dichlorobenzyl-alcohol-amylmetacresol/3514"
+      },
+      {
+        "id": 152,
+        "slug": "2-deoxy-d-glucose",
+        "name": "2-Deoxy-D-Glucose",
+        "url": "/salt/2-deoxy-d-glucose/152"
+      }
+    ]
+  },
+  "A": {
+    "letter": "A",
+    "totalPages": 24,
+    "salts": [
+      {
+        "id": 3,
+        "slug": "abacavir",
+        "name": "Abacavir",
+        "url": "/salt/abacavir/3"
+      },
+      {
+        "id": 3313,
+        "slug": "abacavir-dolutegravir-lamivudine",
+        "name": "Abacavir + Dolutegravir + Lamivudine",
+        "url": "/salt/abacavir-dolutegravir-lamivudine/3313"
+      },
+      {
+        "id": 3325,
+        "slug": "abacavir-lamivudine",
+        "name": "Abacavir + Lamivudine",
+        "url": "/salt/abacavir-lamivudine/3325"
+      },
+      {
+        "id": 7662,
+        "slug": "abacavir-lamivudine-uses-safety-and-dosage",
+        "name": "Abacavir + Lamivudine: Uses, Safety and Dosage",
+        "url": "/salt/abacavir-lamivudine-uses-safety-and-dosage/7662"
+      },
+      {
+        "id": 7629,
+        "slug": "abacavir-uses-dosage-side-effects-safety-info",
+        "name": "Abacavir - Uses, Dosage, Side Effects & Safety Info",
+        "url": "/salt/abacavir-uses-dosage-side-effects-safety-info/7629"
+      },
+      {
+        "id": 138,
+        "slug": "abatacept",
+        "name": "Abatacept",
+        "url": "/salt/abatacept/138"
+      },
+      {
+        "id": 7695,
+        "slug": "abatacept-uses-dosage-side-effects-safety",
+        "name": "Abatacept: Uses, Dosage, Side Effects & Safety",
+        "url": "/salt/abatacept-uses-dosage-side-effects-safety/7695"
+      },
+      {
+        "id": 143,
+        "slug": "abciximab",
+        "name": "Abciximab",
+        "url": "/salt/abciximab/143"
+      },
+      {
+        "id": 137,
+        "slug": "abemaciclib",
+        "name": "Abemaciclib",
+        "url": "/salt/abemaciclib/137"
+      },
+      {
+        "id": 142,
+        "slug": "abiraterone-acetate",
+        "name": "Abiraterone Acetate",
+        "url": "/salt/abiraterone-acetate/142"
+      },
+      {
+        "id": 2150,
+        "slug": "absolute-alcohol-diclofenac-menthol-methyl-salicylate",
+        "name": "Absolute Alcohol + Diclofenac + Menthol + Methyl Salicylate",
+        "url": "/salt/absolute-alcohol-diclofenac-menthol-methyl-salicylate/2150"
+      },
+      {
+        "id": 136,
+        "slug": "acalabrutinib-acalabrutinib-100-mg-",
+        "name": "Acalabrutinib (Acalabrutinib 100 mg)",
+        "url": "/salt/acalabrutinib-acalabrutinib-100-mg-/136"
+      },
+      {
+        "id": 141,
+        "slug": "acamprosate",
+        "name": "Acamprosate",
+        "url": "/salt/acamprosate/141"
+      },
+      {
+        "id": 10,
+        "slug": "acarbose",
+        "name": "Acarbose",
+        "url": "/salt/acarbose/10"
+      },
+      {
+        "id": 1924,
+        "slug": "acarbose-metformin",
+        "name": "Acarbose + Metformin",
+        "url": "/salt/acarbose-metformin/1924"
+      },
+      {
+        "id": 11,
+        "slug": "acebrophylline",
+        "name": "Acebrophylline",
+        "url": "/salt/acebrophylline/11"
+      },
+      {
+        "id": 2967,
+        "slug": "acebrophylline-acetylcysteine",
+        "name": "Acebrophylline + Acetylcysteine",
+        "url": "/salt/acebrophylline-acetylcysteine/2967"
+      },
+      {
+        "id": 3519,
+        "slug": "acebrophylline-acetylcysteine-n-acetyl-cysteine-",
+        "name": "Acebrophylline + Acetylcysteine (N Acetyl Cysteine)",
+        "url": "/salt/acebrophylline-acetylcysteine-n-acetyl-cysteine-/3519"
+      },
+      {
+        "id": 2973,
+        "slug": "acebrophylline-azithromycin",
+        "name": "Acebrophylline + Azithromycin",
+        "url": "/salt/acebrophylline-azithromycin/2973"
+      },
+      {
+        "id": 2980,
+        "slug": "acebrophylline-desloratadine-montelukast",
+        "name": "Acebrophylline + Desloratadine + Montelukast",
+        "url": "/salt/acebrophylline-desloratadine-montelukast/2980"
+      },
+      {
+        "id": 2999,
+        "slug": "acebrophylline-doxofylline",
+        "name": "Acebrophylline + Doxofylline",
+        "url": "/salt/acebrophylline-doxofylline/2999"
+      },
+      {
+        "id": 3007,
+        "slug": "acebrophylline-fexofenadine-montelukast",
+        "name": "Acebrophylline + Fexofenadine + Montelukast",
+        "url": "/salt/acebrophylline-fexofenadine-montelukast/3007"
+      },
+      {
+        "id": 3019,
+        "slug": "acebrophylline-guaifenesin-terbutaline",
+        "name": "Acebrophylline + Guaifenesin + Terbutaline",
+        "url": "/salt/acebrophylline-guaifenesin-terbutaline/3019"
+      },
+      {
+        "id": 3023,
+        "slug": "acebrophylline-levocetirizine-montelukast",
+        "name": "Acebrophylline + Levocetirizine + Montelukast",
+        "url": "/salt/acebrophylline-levocetirizine-montelukast/3023"
+      }
+    ]
+  },
+  "B": {
+    "letter": "B",
+    "totalPages": 12,
+    "salts": [
+      {
+        "id": 38,
+        "slug": "bacampicillin",
+        "name": "Bacampicillin",
+        "url": "/salt/bacampicillin/38"
+      },
+      {
+        "id": 484,
+        "slug": "bacillus-calmette-guerin",
+        "name": "Bacillus Calmette-Guerin",
+        "url": "/salt/bacillus-calmette-guerin/484"
+      },
+      {
+        "id": 37,
+        "slug": "bacillus-calmette-guerin-strain",
+        "name": "Bacillus Calmette-Guerin strain",
+        "url": "/salt/bacillus-calmette-guerin-strain/37"
+      },
+      {
+        "id": 31,
+        "slug": "bacillus-clausii",
+        "name": "Bacillus Clausii",
+        "url": "/salt/bacillus-clausii/31"
+      },
+      {
+        "id": 36,
+        "slug": "bacillus-coagulans",
+        "name": "Bacillus Coagulans",
+        "url": "/salt/bacillus-coagulans/36"
+      },
+      {
+        "id": 4564,
+        "slug": "bacillusmesentericus-clostridiumbutyricum-lactic-acidbacillus-streptococcus-faecalis",
+        "name": "BacillusMesentericus + ClostridiumButyricum + Lactic AcidBacillus + Streptococcus Faecalis",
+        "url": "/salt/bacillusmesentericus-clostridiumbutyricum-lactic-acidbacillus-streptococcus-faecalis/4564"
+      },
+      {
+        "id": 1025,
+        "slug": "bacitracin-hydrocortisone-neomycin-polymyxin-b",
+        "name": "Bacitracin + Hydrocortisone + Neomycin + Polymyxin B",
+        "url": "/salt/bacitracin-hydrocortisone-neomycin-polymyxin-b/1025"
+      },
+      {
+        "id": 1030,
+        "slug": "bacitracin-neomycin-polymyxin-b",
+        "name": "Bacitracin + Neomycin + Polymyxin B",
+        "url": "/salt/bacitracin-neomycin-polymyxin-b/1030"
+      },
+      {
+        "id": 3462,
+        "slug": "bacitracin-neomycin-sulfacetamide",
+        "name": "Bacitracin + Neomycin + Sulfacetamide",
+        "url": "/salt/bacitracin-neomycin-sulfacetamide/3462"
+      },
+      {
+        "id": 1027,
+        "slug": "bacitracin-neomycin-sulphacetamide",
+        "name": "Bacitracin + Neomycin + Sulphacetamide",
+        "url": "/salt/bacitracin-neomycin-sulphacetamide/1027"
+      },
+      {
+        "id": 487,
+        "slug": "baclofen",
+        "name": "Baclofen",
+        "url": "/salt/baclofen/487"
+      },
+      {
+        "id": 1826,
+        "slug": "baclofen-gabapentin-lidocaine-lignocaine-",
+        "name": "Baclofen + Gabapentin + Lidocaine (Lignocaine)",
+        "url": "/salt/baclofen-gabapentin-lidocaine-lignocaine-/1826"
+      },
+      {
+        "id": 30,
+        "slug": "bacterial-lysate",
+        "name": "Bacterial Lysate",
+        "url": "/salt/bacterial-lysate/30"
+      },
+      {
+        "id": 29,
+        "slug": "balofloxacin",
+        "name": "Balofloxacin",
+        "url": "/salt/balofloxacin/29"
+      },
+      {
+        "id": 35,
+        "slug": "balsalazide",
+        "name": "Balsalazide",
+        "url": "/salt/balsalazide/35"
+      },
+      {
+        "id": 496,
+        "slug": "bambuterol",
+        "name": "Bambuterol",
+        "url": "/salt/bambuterol/496"
+      },
+      {
+        "id": 2954,
+        "slug": "bambuterol-montelukast",
+        "name": "Bambuterol + Montelukast",
+        "url": "/salt/bambuterol-montelukast/2954"
+      },
+      {
+        "id": 27,
+        "slug": "baricitinib",
+        "name": "Baricitinib",
+        "url": "/salt/baricitinib/27"
+      },
+      {
+        "id": 22,
+        "slug": "basiliximab",
+        "name": "Basiliximab",
+        "url": "/salt/basiliximab/22"
+      },
+      {
+        "id": 21,
+        "slug": "becaplermin",
+        "name": "Becaplermin",
+        "url": "/salt/becaplermin/21"
+      },
+      {
+        "id": 501,
+        "slug": "beclometasone",
+        "name": "Beclometasone",
+        "url": "/salt/beclometasone/501"
+      },
+      {
+        "id": 2393,
+        "slug": "beclometasone-chloramphenicol-clotrimazole-gentamicin-lidocaine-lignocaine-",
+        "name": "Beclometasone + Chloramphenicol + Clotrimazole + Gentamicin + Lidocaine (Lignocaine)",
+        "url": "/salt/beclometasone-chloramphenicol-clotrimazole-gentamicin-lidocaine-lignocaine-/2393"
+      },
+      {
+        "id": 3474,
+        "slug": "beclometasone-chloramphenicol-clotrimazole-lidocaine-lignocaine-",
+        "name": "Beclometasone + Chloramphenicol + Clotrimazole + Lidocaine (Lignocaine)",
+        "url": "/salt/beclometasone-chloramphenicol-clotrimazole-lidocaine-lignocaine-/3474"
+      },
+      {
+        "id": 2397,
+        "slug": "beclometasone-chlorocresol-clotrimazole-neomycin",
+        "name": "Beclometasone + Chlorocresol + Clotrimazole + Neomycin",
+        "url": "/salt/beclometasone-chlorocresol-clotrimazole-neomycin/2397"
+      }
+    ]
+  },
+  "C": {
+    "letter": "C",
+    "totalPages": 27,
+    "salts": [
+      {
+        "id": 728,
+        "slug": "cabazitaxel",
+        "name": "Cabazitaxel",
+        "url": "/salt/cabazitaxel/728"
+      },
+      {
+        "id": 733,
+        "slug": "cabergoline",
+        "name": "Cabergoline",
+        "url": "/salt/cabergoline/733"
+      },
+      {
+        "id": 735,
+        "slug": "cabozantinib",
+        "name": "Cabozantinib",
+        "url": "/salt/cabozantinib/735"
+      },
+      {
+        "id": 734,
+        "slug": "cadexomer-iodine",
+        "name": "Cadexomer Iodine",
+        "url": "/salt/cadexomer-iodine/734"
+      },
+      {
+        "id": 736,
+        "slug": "caffeine",
+        "name": "Caffeine",
+        "url": "/salt/caffeine/736"
+      },
+      {
+        "id": 2582,
+        "slug": "caffeine-carisoprodol-paracetamol-acetaminophen-",
+        "name": "Caffeine + Carisoprodol + Paracetamol (Acetaminophen)",
+        "url": "/salt/caffeine-carisoprodol-paracetamol-acetaminophen-/2582"
+      },
+      {
+        "id": 737,
+        "slug": "caffeine-cetirizine",
+        "name": "Caffeine + Cetirizine",
+        "url": "/salt/caffeine-cetirizine/737"
+      },
+      {
+        "id": 2579,
+        "slug": "caffeine-cetirizine-nimesulide-paracetamol-acetaminophen-phenylephrine",
+        "name": "Caffeine + Cetirizine + Nimesulide + Paracetamol (Acetaminophen) + Phenylephrine",
+        "url": "/salt/caffeine-cetirizine-nimesulide-paracetamol-acetaminophen-phenylephrine/2579"
+      },
+      {
+        "id": 2585,
+        "slug": "caffeine-cetirizine-nimesulide-phenylephrine",
+        "name": "Caffeine + Cetirizine + Nimesulide + Phenylephrine",
+        "url": "/salt/caffeine-cetirizine-nimesulide-phenylephrine/2585"
+      },
+      {
+        "id": 742,
+        "slug": "caffeine-cetirizine-paracetamol-acetaminophen-phenylephrine",
+        "name": "Caffeine + Cetirizine + Paracetamol (Acetaminophen) + Phenylephrine",
+        "url": "/salt/caffeine-cetirizine-paracetamol-acetaminophen-phenylephrine/742"
+      },
+      {
+        "id": 2595,
+        "slug": "caffeine-cetirizine-phenylephrine",
+        "name": "Caffeine + Cetirizine + Phenylephrine",
+        "url": "/salt/caffeine-cetirizine-phenylephrine/2595"
+      },
+      {
+        "id": 2599,
+        "slug": "caffeine-chlorpheniramine-maleate-nimesulide-phenylephrine",
+        "name": "Caffeine + Chlorpheniramine Maleate + Nimesulide + Phenylephrine",
+        "url": "/salt/caffeine-chlorpheniramine-maleate-nimesulide-phenylephrine/2599"
+      },
+      {
+        "id": 743,
+        "slug": "caffeine-chlorpheniramine-maleate-paracetamol-acetaminophen-",
+        "name": "Caffeine + Chlorpheniramine Maleate + Paracetamol (Acetaminophen)",
+        "url": "/salt/caffeine-chlorpheniramine-maleate-paracetamol-acetaminophen-/743"
+      },
+      {
+        "id": 3544,
+        "slug": "caffeine-chlorpheniramine-maleate-paracetamol-acetaminophen-phenylephrine",
+        "name": "Caffeine + Chlorpheniramine Maleate + Paracetamol (Acetaminophen) + Phenylephrine",
+        "url": "/salt/caffeine-chlorpheniramine-maleate-paracetamol-acetaminophen-phenylephrine/3544"
+      },
+      {
+        "id": 2606,
+        "slug": "caffeine-chlorpheniramine-maleate-paracetamol-acetaminophen-phenylpropanolamine",
+        "name": "Caffeine + Chlorpheniramine Maleate + Paracetamol (Acetaminophen) + Phenylpropanolamine",
+        "url": "/salt/caffeine-chlorpheniramine-maleate-paracetamol-acetaminophen-phenylpropanolamine/2606"
+      },
+      {
+        "id": 2607,
+        "slug": "caffeine-chlorpheniramine-maleate-paracetamol-acetaminophen-pseudoephedrine",
+        "name": "Caffeine + Chlorpheniramine Maleate + Paracetamol (Acetaminophen) + Pseudoephedrine",
+        "url": "/salt/caffeine-chlorpheniramine-maleate-paracetamol-acetaminophen-pseudoephedrine/2607"
+      },
+      {
+        "id": 2609,
+        "slug": "caffeine-chlorpheniramine-maleate-phenylephrine",
+        "name": "Caffeine + Chlorpheniramine Maleate + Phenylephrine",
+        "url": "/salt/caffeine-chlorpheniramine-maleate-phenylephrine/2609"
+      },
+      {
+        "id": 2614,
+        "slug": "caffeine-dexchlorpheniramine-paracetamol-acetaminophen-phenylephrine",
+        "name": "Caffeine + Dexchlorpheniramine + Paracetamol (Acetaminophen) + Phenylephrine",
+        "url": "/salt/caffeine-dexchlorpheniramine-paracetamol-acetaminophen-phenylephrine/2614"
+      },
+      {
+        "id": 2615,
+        "slug": "caffeine-diphenhydramine-paracetamol-acetaminophen-phenylephrine",
+        "name": "Caffeine + Diphenhydramine + Paracetamol (Acetaminophen) + Phenylephrine",
+        "url": "/salt/caffeine-diphenhydramine-paracetamol-acetaminophen-phenylephrine/2615"
+      },
+      {
+        "id": 752,
+        "slug": "caffeine-ergotamine",
+        "name": "Caffeine + Ergotamine",
+        "url": "/salt/caffeine-ergotamine/752"
+      },
+      {
+        "id": 2622,
+        "slug": "caffeine-ergotamine-paracetamol-acetaminophen-prochlorperazine",
+        "name": "Caffeine + Ergotamine + Paracetamol (Acetaminophen) + Prochlorperazine",
+        "url": "/salt/caffeine-ergotamine-paracetamol-acetaminophen-prochlorperazine/2622"
+      },
+      {
+        "id": 2629,
+        "slug": "caffeine-ibuprofen-paracetamol-acetaminophen-",
+        "name": "Caffeine + Ibuprofen + Paracetamol (Acetaminophen)",
+        "url": "/salt/caffeine-ibuprofen-paracetamol-acetaminophen-/2629"
+      },
+      {
+        "id": 2630,
+        "slug": "caffeine-levocetirizine-nimesulide-paracetamol-acetaminophen-phenylephrine",
+        "name": "Caffeine + Levocetirizine + Nimesulide + Paracetamol (Acetaminophen) + Phenylephrine",
+        "url": "/salt/caffeine-levocetirizine-nimesulide-paracetamol-acetaminophen-phenylephrine/2630"
+      },
+      {
+        "id": 2638,
+        "slug": "caffeine-levocetirizine-nimesulide-phenylephrine",
+        "name": "Caffeine + Levocetirizine + Nimesulide + Phenylephrine",
+        "url": "/salt/caffeine-levocetirizine-nimesulide-phenylephrine/2638"
+      }
+    ]
+  },
+  "D": {
+    "letter": "D",
+    "totalPages": 15,
+    "salts": [
+      {
+        "id": 1318,
+        "slug": "dabigatran-etexilate",
+        "name": "Dabigatran Etexilate",
+        "url": "/salt/dabigatran-etexilate/1318"
+      },
+      {
+        "id": 1321,
+        "slug": "dabrafenib",
+        "name": "Dabrafenib",
+        "url": "/salt/dabrafenib/1321"
+      },
+      {
+        "id": 1319,
+        "slug": "dacarbazine",
+        "name": "Dacarbazine",
+        "url": "/salt/dacarbazine/1319"
+      },
+      {
+        "id": 1322,
+        "slug": "daclatasvir",
+        "name": "Daclatasvir",
+        "url": "/salt/daclatasvir/1322"
+      },
+      {
+        "id": 200,
+        "slug": "daclatasvir-sofosbuvir",
+        "name": "Daclatasvir + Sofosbuvir",
+        "url": "/salt/daclatasvir-sofosbuvir/200"
+      },
+      {
+        "id": 1323,
+        "slug": "daclizumab",
+        "name": "Daclizumab",
+        "url": "/salt/daclizumab/1323"
+      },
+      {
+        "id": 1326,
+        "slug": "dacomitinib",
+        "name": "Dacomitinib",
+        "url": "/salt/dacomitinib/1326"
+      },
+      {
+        "id": 1324,
+        "slug": "dactinomycin",
+        "name": "Dactinomycin",
+        "url": "/salt/dactinomycin/1324"
+      },
+      {
+        "id": 7761,
+        "slug": "daidzein-genistein-palmitoylethanolamide-pea-",
+        "name": "Daidzein + Genistein + Palmitoylethanolamide (PEA)",
+        "url": "/salt/daidzein-genistein-palmitoylethanolamide-pea-/7761"
+      },
+      {
+        "id": 6999,
+        "slug": "dalbergia-sissoo-extract-hadjod-cissusuadrangularis-",
+        "name": "Dalbergia Sissoo Extract + Hadjod (Cissusuadrangularis)",
+        "url": "/salt/dalbergia-sissoo-extract-hadjod-cissusuadrangularis-/6999"
+      },
+      {
+        "id": 1327,
+        "slug": "dalfampridine",
+        "name": "Dalfampridine",
+        "url": "/salt/dalfampridine/1327"
+      },
+      {
+        "id": 1330,
+        "slug": "dalteparin",
+        "name": "Dalteparin",
+        "url": "/salt/dalteparin/1330"
+      },
+      {
+        "id": 1328,
+        "slug": "danazol",
+        "name": "Danazol",
+        "url": "/salt/danazol/1328"
+      },
+      {
+        "id": 1331,
+        "slug": "dapagliflozin",
+        "name": "Dapagliflozin",
+        "url": "/salt/dapagliflozin/1331"
+      },
+      {
+        "id": 480,
+        "slug": "dapagliflozin-gliclazide",
+        "name": "Dapagliflozin + Gliclazide",
+        "url": "/salt/dapagliflozin-gliclazide/480"
+      },
+      {
+        "id": 1960,
+        "slug": "dapagliflozin-glimepiride-metformin",
+        "name": "Dapagliflozin + Glimepiride + Metformin",
+        "url": "/salt/dapagliflozin-glimepiride-metformin/1960"
+      },
+      {
+        "id": 1332,
+        "slug": "dapagliflozin-linagliptin",
+        "name": "Dapagliflozin + Linagliptin",
+        "url": "/salt/dapagliflozin-linagliptin/1332"
+      },
+      {
+        "id": 476,
+        "slug": "dapagliflozin-linagliptin-metformin",
+        "name": "Dapagliflozin + Linagliptin + Metformin",
+        "url": "/salt/dapagliflozin-linagliptin-metformin/476"
+      },
+      {
+        "id": 1333,
+        "slug": "dapagliflozin-metformin",
+        "name": "Dapagliflozin + Metformin",
+        "url": "/salt/dapagliflozin-metformin/1333"
+      },
+      {
+        "id": 481,
+        "slug": "dapagliflozin-metformin-sitagliptin",
+        "name": "Dapagliflozin + Metformin + Sitagliptin",
+        "url": "/salt/dapagliflozin-metformin-sitagliptin/481"
+      },
+      {
+        "id": 477,
+        "slug": "dapagliflozin-metformin-teneligliptin",
+        "name": "Dapagliflozin + Metformin + Teneligliptin",
+        "url": "/salt/dapagliflozin-metformin-teneligliptin/477"
+      },
+      {
+        "id": 482,
+        "slug": "dapagliflozin-metformin-vildagliptin",
+        "name": "Dapagliflozin + Metformin + Vildagliptin",
+        "url": "/salt/dapagliflozin-metformin-vildagliptin/482"
+      },
+      {
+        "id": 478,
+        "slug": "dapagliflozin-saxagliptin",
+        "name": "Dapagliflozin + Saxagliptin",
+        "url": "/salt/dapagliflozin-saxagliptin/478"
+      },
+      {
+        "id": 483,
+        "slug": "dapagliflozin-sitagliptin",
+        "name": "Dapagliflozin + Sitagliptin",
+        "url": "/salt/dapagliflozin-sitagliptin/483"
+      }
+    ]
+  },
+  "E": {
+    "letter": "E",
+    "totalPages": 7,
+    "salts": [
+      {
+        "id": 1437,
+        "slug": "ebastine",
+        "name": "Ebastine",
+        "url": "/salt/ebastine/1437"
+      },
+      {
+        "id": 360,
+        "slug": "ebastine-montelukast",
+        "name": "Ebastine + Montelukast",
+        "url": "/salt/ebastine-montelukast/360"
+      },
+      {
+        "id": 357,
+        "slug": "ebastine-phenylephrine",
+        "name": "Ebastine + Phenylephrine",
+        "url": "/salt/ebastine-phenylephrine/357"
+      },
+      {
+        "id": 1662,
+        "slug": "eberconazole",
+        "name": "Eberconazole",
+        "url": "/salt/eberconazole/1662"
+      },
+      {
+        "id": 1077,
+        "slug": "eberconazole-mometasone",
+        "name": "Eberconazole + Mometasone",
+        "url": "/salt/eberconazole-mometasone/1077"
+      },
+      {
+        "id": 1663,
+        "slug": "edaravone",
+        "name": "Edaravone",
+        "url": "/salt/edaravone/1663"
+      },
+      {
+        "id": 1669,
+        "slug": "efavirenz",
+        "name": "Efavirenz",
+        "url": "/salt/efavirenz/1669"
+      },
+      {
+        "id": 402,
+        "slug": "efavirenz-emtricitabine-tenofovir-disoproxil-fumarate",
+        "name": "Efavirenz + Emtricitabine + Tenofovir disoproxil fumarate",
+        "url": "/salt/efavirenz-emtricitabine-tenofovir-disoproxil-fumarate/402"
+      },
+      {
+        "id": 399,
+        "slug": "efavirenz-lamivudine-stavudine",
+        "name": "Efavirenz + Lamivudine + Stavudine",
+        "url": "/salt/efavirenz-lamivudine-stavudine/399"
+      },
+      {
+        "id": 403,
+        "slug": "efavirenz-lamivudine-tenofovir-disoproxil-fumarate",
+        "name": "Efavirenz + Lamivudine + Tenofovir disoproxil fumarate",
+        "url": "/salt/efavirenz-lamivudine-tenofovir-disoproxil-fumarate/403"
+      },
+      {
+        "id": 400,
+        "slug": "efavirenz-lamivudine-zidovudine",
+        "name": "Efavirenz + Lamivudine + Zidovudine",
+        "url": "/salt/efavirenz-lamivudine-zidovudine/400"
+      },
+      {
+        "id": 1666,
+        "slug": "eflornithine",
+        "name": "Eflornithine",
+        "url": "/salt/eflornithine/1666"
+      },
+      {
+        "id": 1672,
+        "slug": "efonidipine",
+        "name": "Efonidipine",
+        "url": "/salt/efonidipine/1672"
+      },
+      {
+        "id": 333,
+        "slug": "efonidipine-metoprolol-succinate-metoprolol-tartrate-",
+        "name": "Efonidipine + Metoprolol Succinate (Metoprolol Tartrate)",
+        "url": "/salt/efonidipine-metoprolol-succinate-metoprolol-tartrate-/333"
+      },
+      {
+        "id": 356,
+        "slug": "efonidipine-telmisartan",
+        "name": "Efonidipine + Telmisartan",
+        "url": "/salt/efonidipine-telmisartan/356"
+      },
+      {
+        "id": 4965,
+        "slug": "elemental-boron-elemental-calcium-magnesium-hydroxide-vitamin-b9-folic-acid-vitamin-b12-methylcobalamin-vitamin-b6-pyridoxine-vitamin-d3-cholecalciferol-zinc-elemental-zinc-",
+        "name": "Elemental Boron + Elemental Calcium + Magnesium Hydroxide + Vitamin B9 (Folic Acid) + Vitamin B12 (Methylcobalamin) + Vitamin B6 (Pyridoxine) + Vitamin D3 (Cholecalciferol) + Zinc (Elemental Zinc)",
+        "url": "/salt/elemental-boron-elemental-calcium-magnesium-hydroxide-vitamin-b9-folic-acid-vitamin-b12-methylcobalamin-vitamin-b6-pyridoxine-vitamin-d3-cholecalciferol-zinc-elemental-zinc-/4965"
+      },
+      {
+        "id": 6801,
+        "slug": "elemental-boron-elemental-calcium-magnesium-hydroxide-vitamin-b9-folic-acid-vitamin-b12-methylcobalamin-vitamin-d3-cholecalciferol-zinc-elemental-zinc-",
+        "name": "Elemental Boron + Elemental Calcium + Magnesium Hydroxide + Vitamin B9 (Folic Acid) + Vitamin B12 (Methylcobalamin) + Vitamin D3 (Cholecalciferol) + Zinc (Elemental Zinc)",
+        "url": "/salt/elemental-boron-elemental-calcium-magnesium-hydroxide-vitamin-b9-folic-acid-vitamin-b12-methylcobalamin-vitamin-d3-cholecalciferol-zinc-elemental-zinc-/6801"
+      },
+      {
+        "id": 6363,
+        "slug": "elemental-boron-elemental-calcium-vitamin-d3-cholecalciferol-vitamin-k2-menaquinone-zinc-elemental-zinc-",
+        "name": "Elemental Boron + Elemental Calcium + Vitamin D3 (Cholecalciferol) + Vitamin K2 (Menaquinone) + Zinc (Elemental Zinc)",
+        "url": "/salt/elemental-boron-elemental-calcium-vitamin-d3-cholecalciferol-vitamin-k2-menaquinone-zinc-elemental-zinc-/6363"
+      },
+      {
+        "id": 1668,
+        "slug": "elemental-calcium-calcium-citrate-",
+        "name": "Elemental Calcium (Calcium Citrate)",
+        "url": "/salt/elemental-calcium-calcium-citrate-/1668"
+      },
+      {
+        "id": 3458,
+        "slug": "elemental-calcium-calcium-citrate-elemental-phosphorus-magnesium-hydroxide-milk-of-magnesia-vitamin-d3-cholecalciferol-zinc-elemental-zinc-",
+        "name": "Elemental Calcium (Calcium Citrate) + Elemental Phosphorus + Magnesium Hydroxide (Milk Of Magnesia) + Vitamin D3 (Cholecalciferol) + Zinc (Elemental Zinc)",
+        "url": "/salt/elemental-calcium-calcium-citrate-elemental-phosphorus-magnesium-hydroxide-milk-of-magnesia-vitamin-d3-cholecalciferol-zinc-elemental-zinc-/3458"
+      },
+      {
+        "id": 3459,
+        "slug": "elemental-calcium-calcium-citrate-elemental-phosphorus-vitamin-d3-cholecalciferol-",
+        "name": "Elemental Calcium (Calcium Citrate) + Elemental Phosphorus + Vitamin D3 (Cholecalciferol)",
+        "url": "/salt/elemental-calcium-calcium-citrate-elemental-phosphorus-vitamin-d3-cholecalciferol-/3459"
+      },
+      {
+        "id": 722,
+        "slug": "elemental-calcium-calcium-citrate-l-arginine-l-lysine-vitamin-b6-pyridoxine-zinc-sulfate",
+        "name": "Elemental Calcium (Calcium Citrate) + L-Arginine + L-Lysine + Vitamin B6 (Pyridoxine) + Zinc Sulfate",
+        "url": "/salt/elemental-calcium-calcium-citrate-l-arginine-l-lysine-vitamin-b6-pyridoxine-zinc-sulfate/722"
+      },
+      {
+        "id": 3460,
+        "slug": "elemental-calcium-calcium-citrate-magnesium-hydroxide-milk-of-magnesia-vitamin-b9-folic-acid-vitamin-b12-methylcobalamin-vitamin-b6-pyridoxine-vitamin-d3-cholecalciferol-zinc-elemental-zinc-",
+        "name": "Elemental Calcium (Calcium Citrate) + Magnesium Hydroxide (Milk Of Magnesia) + Vitamin B9 (Folic Acid) + Vitamin B12 (Methylcobalamin) + Vitamin B6 (Pyridoxine) + Vitamin D3 (Cholecalciferol) + Zinc (Elemental Zinc)",
+        "url": "/salt/elemental-calcium-calcium-citrate-magnesium-hydroxide-milk-of-magnesia-vitamin-b9-folic-acid-vitamin-b12-methylcobalamin-vitamin-b6-pyridoxine-vitamin-d3-cholecalciferol-zinc-elemental-zinc-/3460"
+      },
+      {
+        "id": 718,
+        "slug": "elemental-calcium-calcium-citrate-magnesium-oxide-vitamin-d3-cholecalciferol-zinc-elemental-zinc-",
+        "name": "Elemental Calcium (Calcium Citrate) + Magnesium Oxide + Vitamin D3 (Cholecalciferol) + Zinc (Elemental Zinc)",
+        "url": "/salt/elemental-calcium-calcium-citrate-magnesium-oxide-vitamin-d3-cholecalciferol-zinc-elemental-zinc-/718"
+      }
+    ]
+  },
+  "F": {
+    "letter": "F",
+    "totalPages": 6,
+    "salts": [
+      {
+        "id": 1799,
+        "slug": "famciclovir",
+        "name": "Famciclovir",
+        "url": "/salt/famciclovir/1799"
+      },
+      {
+        "id": 1804,
+        "slug": "famotidine",
+        "name": "Famotidine",
+        "url": "/salt/famotidine/1804"
+      },
+      {
+        "id": 677,
+        "slug": "famotidine-ibuprofen-paracetamol-acetaminophen-",
+        "name": "Famotidine + Ibuprofen + Paracetamol (Acetaminophen)",
+        "url": "/salt/famotidine-ibuprofen-paracetamol-acetaminophen-/677"
+      },
+      {
+        "id": 1805,
+        "slug": "faropenem",
+        "name": "Faropenem",
+        "url": "/salt/faropenem/1805"
+      },
+      {
+        "id": 1801,
+        "slug": "favipiravir",
+        "name": "Favipiravir",
+        "url": "/salt/favipiravir/1801"
+      },
+      {
+        "id": 1806,
+        "slug": "favipiravir-favipiravir",
+        "name": "Favipiravir + Favipiravir",
+        "url": "/salt/favipiravir-favipiravir/1806"
+      },
+      {
+        "id": 1802,
+        "slug": "febuxostat",
+        "name": "Febuxostat",
+        "url": "/salt/febuxostat/1802"
+      },
+      {
+        "id": 1807,
+        "slug": "felbinac",
+        "name": "Felbinac",
+        "url": "/salt/felbinac/1807"
+      },
+      {
+        "id": 1803,
+        "slug": "felodipine",
+        "name": "Felodipine",
+        "url": "/salt/felodipine/1803"
+      },
+      {
+        "id": 1808,
+        "slug": "fenbendazole",
+        "name": "Fenbendazole",
+        "url": "/salt/fenbendazole/1808"
+      },
+      {
+        "id": 1809,
+        "slug": "fenfluramine",
+        "name": "Fenfluramine",
+        "url": "/salt/fenfluramine/1809"
+      },
+      {
+        "id": 1815,
+        "slug": "fenofibrate",
+        "name": "Fenofibrate",
+        "url": "/salt/fenofibrate/1815"
+      },
+      {
+        "id": 562,
+        "slug": "fenofibrate-metformin",
+        "name": "Fenofibrate + Metformin",
+        "url": "/salt/fenofibrate-metformin/562"
+      },
+      {
+        "id": 1810,
+        "slug": "fenofibrate-pitavastatin",
+        "name": "Fenofibrate + Pitavastatin",
+        "url": "/salt/fenofibrate-pitavastatin/1810"
+      },
+      {
+        "id": 563,
+        "slug": "fenofibrate-rosuvastatin",
+        "name": "Fenofibrate + Rosuvastatin",
+        "url": "/salt/fenofibrate-rosuvastatin/563"
+      },
+      {
+        "id": 1811,
+        "slug": "fenoverine",
+        "name": "Fenoverine",
+        "url": "/salt/fenoverine/1811"
+      },
+      {
+        "id": 1817,
+        "slug": "fentanyl",
+        "name": "Fentanyl",
+        "url": "/salt/fentanyl/1817"
+      },
+      {
+        "id": 1812,
+        "slug": "fenticonazole",
+        "name": "Fenticonazole",
+        "url": "/salt/fenticonazole/1812"
+      },
+      {
+        "id": 1818,
+        "slug": "feracrylum",
+        "name": "Feracrylum",
+        "url": "/salt/feracrylum/1818"
+      },
+      {
+        "id": 1813,
+        "slug": "ferric-carboxymaltose",
+        "name": "Ferric Carboxymaltose",
+        "url": "/salt/ferric-carboxymaltose/1813"
+      },
+      {
+        "id": 1819,
+        "slug": "ferric-citrate",
+        "name": "Ferric Citrate",
+        "url": "/salt/ferric-citrate/1819"
+      },
+      {
+        "id": 301,
+        "slug": "ferrous-ascorbate-vitamin-b9-folic-acid-",
+        "name": "Ferrous Ascorbate + Vitamin B9 (Folic Acid)",
+        "url": "/salt/ferrous-ascorbate-vitamin-b9-folic-acid-/301"
+      },
+      {
+        "id": 1821,
+        "slug": "ferrous-bisglycinate",
+        "name": "Ferrous Bisglycinate",
+        "url": "/salt/ferrous-bisglycinate/1821"
+      },
+      {
+        "id": 1888,
+        "slug": "ferrous-bisglycinate-vitamin-b9-folic-acid-vitamin-b12-methylcobalamin-zinc-elemental-zinc-",
+        "name": "Ferrous Bisglycinate + Vitamin B9 (Folic Acid) + Vitamin B12 (Methylcobalamin) + Zinc (Elemental Zinc)",
+        "url": "/salt/ferrous-bisglycinate-vitamin-b9-folic-acid-vitamin-b12-methylcobalamin-zinc-elemental-zinc-/1888"
+      }
+    ]
+  },
+  "G": {
+    "letter": "G",
+    "totalPages": 4,
+    "salts": [
+      {
+        "id": 1919,
+        "slug": "gabapentin",
+        "name": "Gabapentin",
+        "url": "/salt/gabapentin/1919"
+      },
+      {
+        "id": 1915,
+        "slug": "gabapentin-lidocaine-lignocaine-",
+        "name": "Gabapentin + Lidocaine (Lignocaine)",
+        "url": "/salt/gabapentin-lidocaine-lignocaine-/1915"
+      },
+      {
+        "id": 1920,
+        "slug": "gabapentin-nortriptyline",
+        "name": "Gabapentin + Nortriptyline",
+        "url": "/salt/gabapentin-nortriptyline/1920"
+      },
+      {
+        "id": 1869,
+        "slug": "gabapentin-nortriptyline-vitamin-b12-methylcobalamin-",
+        "name": "Gabapentin + Nortriptyline + Vitamin B12 (Methylcobalamin)",
+        "url": "/salt/gabapentin-nortriptyline-vitamin-b12-methylcobalamin-/1869"
+      },
+      {
+        "id": 1921,
+        "slug": "gabapentin-vitamin-b12-methylcobalamin-",
+        "name": "Gabapentin + Vitamin B12 (Methylcobalamin)",
+        "url": "/salt/gabapentin-vitamin-b12-methylcobalamin-/1921"
+      },
+      {
+        "id": 1917,
+        "slug": "gadobenate-dimeglumine",
+        "name": "Gadobenate dimeglumine",
+        "url": "/salt/gadobenate-dimeglumine/1917"
+      },
+      {
+        "id": 1922,
+        "slug": "gadobutrol",
+        "name": "Gadobutrol",
+        "url": "/salt/gadobutrol/1922"
+      },
+      {
+        "id": 1918,
+        "slug": "gadodiamide",
+        "name": "Gadodiamide",
+        "url": "/salt/gadodiamide/1918"
+      },
+      {
+        "id": 1923,
+        "slug": "galantamine",
+        "name": "Galantamine",
+        "url": "/salt/galantamine/1923"
+      },
+      {
+        "id": 1879,
+        "slug": "gamma-linolenic-acid",
+        "name": "Gamma Linolenic Acid",
+        "url": "/salt/gamma-linolenic-acid/1879"
+      },
+      {
+        "id": 1911,
+        "slug": "gamma-linolenic-acid-vitamin-b12-methylcobalamin-",
+        "name": "Gamma Linolenic Acid + Vitamin B12 (Methylcobalamin)",
+        "url": "/salt/gamma-linolenic-acid-vitamin-b12-methylcobalamin-/1911"
+      },
+      {
+        "id": 1929,
+        "slug": "ganciclovir",
+        "name": "Ganciclovir",
+        "url": "/salt/ganciclovir/1929"
+      },
+      {
+        "id": 1926,
+        "slug": "ganirelix",
+        "name": "Ganirelix",
+        "url": "/salt/ganirelix/1926"
+      },
+      {
+        "id": 1930,
+        "slug": "garenoxacin",
+        "name": "Garenoxacin",
+        "url": "/salt/garenoxacin/1930"
+      },
+      {
+        "id": 266,
+        "slug": "gatifloxacin-ketorolac",
+        "name": "Gatifloxacin + Ketorolac",
+        "url": "/salt/gatifloxacin-ketorolac/266"
+      },
+      {
+        "id": 272,
+        "slug": "gatifloxacin-loteprednol-etabonate",
+        "name": "Gatifloxacin + Loteprednol etabonate",
+        "url": "/salt/gatifloxacin-loteprednol-etabonate/272"
+      },
+      {
+        "id": 273,
+        "slug": "gatifloxacin-ornidazole",
+        "name": "Gatifloxacin + Ornidazole",
+        "url": "/salt/gatifloxacin-ornidazole/273"
+      },
+      {
+        "id": 268,
+        "slug": "gatifloxacin-prednisolone",
+        "name": "Gatifloxacin + Prednisolone",
+        "url": "/salt/gatifloxacin-prednisolone/268"
+      },
+      {
+        "id": 1935,
+        "slug": "gefitinib",
+        "name": "Gefitinib",
+        "url": "/salt/gefitinib/1935"
+      },
+      {
+        "id": 1933,
+        "slug": "gemcitabine",
+        "name": "Gemcitabine",
+        "url": "/salt/gemcitabine/1933"
+      },
+      {
+        "id": 249,
+        "slug": "gemcitabine-mannitol",
+        "name": "Gemcitabine + Mannitol",
+        "url": "/salt/gemcitabine-mannitol/249"
+      },
+      {
+        "id": 1938,
+        "slug": "gemfibrozil",
+        "name": "Gemfibrozil",
+        "url": "/salt/gemfibrozil/1938"
+      },
+      {
+        "id": 1937,
+        "slug": "gemifloxacin",
+        "name": "Gemifloxacin",
+        "url": "/salt/gemifloxacin/1937"
+      },
+      {
+        "id": 1939,
+        "slug": "gemigliptin",
+        "name": "Gemigliptin",
+        "url": "/salt/gemigliptin/1939"
+      }
+    ]
+  },
+  "H": {
+    "letter": "H",
+    "totalPages": 4,
+    "salts": [
+      {
+        "id": 2001,
+        "slug": "haemophilus-type-b-conjugate-vaccine",
+        "name": "Haemophilus Type B Conjugate Vaccine",
+        "url": "/salt/haemophilus-type-b-conjugate-vaccine/2001"
+      },
+      {
+        "id": 2002,
+        "slug": "halobetasol",
+        "name": "Halobetasol",
+        "url": "/salt/halobetasol/2002"
+      },
+      {
+        "id": 243,
+        "slug": "halobetasol-miconazole",
+        "name": "Halobetasol + Miconazole",
+        "url": "/salt/halobetasol-miconazole/243"
+      },
+      {
+        "id": 239,
+        "slug": "halobetasol-mupirocin",
+        "name": "Halobetasol + Mupirocin",
+        "url": "/salt/halobetasol-mupirocin/239"
+      },
+      {
+        "id": 244,
+        "slug": "halobetasol-salicylic-acid",
+        "name": "Halobetasol + Salicylic Acid",
+        "url": "/salt/halobetasol-salicylic-acid/244"
+      },
+      {
+        "id": 2004,
+        "slug": "halometasone",
+        "name": "Halometasone",
+        "url": "/salt/halometasone/2004"
+      },
+      {
+        "id": 2008,
+        "slug": "haloperidol",
+        "name": "Haloperidol",
+        "url": "/salt/haloperidol/2008"
+      },
+      {
+        "id": 2009,
+        "slug": "haloperidol-decanoate",
+        "name": "Haloperidol Decanoate",
+        "url": "/salt/haloperidol-decanoate/2009"
+      },
+      {
+        "id": 242,
+        "slug": "haloperidol-trihexyphenidyl",
+        "name": "Haloperidol + Trihexyphenidyl",
+        "url": "/salt/haloperidol-trihexyphenidyl/242"
+      },
+      {
+        "id": 2006,
+        "slug": "halothane",
+        "name": "Halothane",
+        "url": "/salt/halothane/2006"
+      },
+      {
+        "id": 3865,
+        "slug": "hellosalt",
+        "name": "helloSalt",
+        "url": "/salt/hellosalt/3865"
+      },
+      {
+        "id": 2010,
+        "slug": "hemocoagulase",
+        "name": "Hemocoagulase",
+        "url": "/salt/hemocoagulase/2010"
+      },
+      {
+        "id": 2012,
+        "slug": "heparin",
+        "name": "Heparin",
+        "url": "/salt/heparin/2012"
+      },
+      {
+        "id": 2011,
+        "slug": "hepatitis-b-vaccine-rd-",
+        "name": "Hepatitis B Vaccine (rD)",
+        "url": "/salt/hepatitis-b-vaccine-rd-/2011"
+      },
+      {
+        "id": 2013,
+        "slug": "homatropine",
+        "name": "Homatropine",
+        "url": "/salt/homatropine/2013"
+      },
+      {
+        "id": 1976,
+        "slug": "homotaurine",
+        "name": "Homotaurine",
+        "url": "/salt/homotaurine/1976"
+      },
+      {
+        "id": 2014,
+        "slug": "human-adenovirus-vector-vaccine",
+        "name": "Human adenovirus vector vaccine",
+        "url": "/salt/human-adenovirus-vector-vaccine/2014"
+      },
+      {
+        "id": 1981,
+        "slug": "human-antitetanus-immunoglobulin",
+        "name": "Human Antitetanus Immunoglobulin",
+        "url": "/salt/human-antitetanus-immunoglobulin/1981"
+      },
+      {
+        "id": 2015,
+        "slug": "human-chorionic-gonadotropin-hcg-",
+        "name": "Human chorionic gonadotropin (HCG)",
+        "url": "/salt/human-chorionic-gonadotropin-hcg-/2015"
+      },
+      {
+        "id": 2017,
+        "slug": "human-coagulation-factor-viii",
+        "name": "Human coagulation factor VIII",
+        "url": "/salt/human-coagulation-factor-viii/2017"
+      },
+      {
+        "id": 2016,
+        "slug": "human-gamma-globulin",
+        "name": "Human Gamma Globulin",
+        "url": "/salt/human-gamma-globulin/2016"
+      },
+      {
+        "id": 2022,
+        "slug": "human-hepatitis-b-immunoglobulin",
+        "name": "Human Hepatitis B Immunoglobulin",
+        "url": "/salt/human-hepatitis-b-immunoglobulin/2022"
+      },
+      {
+        "id": 2018,
+        "slug": "human-insulin",
+        "name": "Human insulin",
+        "url": "/salt/human-insulin/2018"
+      },
+      {
+        "id": 2023,
+        "slug": "human-menopausal-gonadotrophin",
+        "name": "Human Menopausal Gonadotrophin",
+        "url": "/salt/human-menopausal-gonadotrophin/2023"
+      }
+    ]
+  },
+  "I": {
+    "letter": "I",
+    "totalPages": 5,
+    "salts": [
+      {
+        "id": 2078,
+        "slug": "ibandronic-acid",
+        "name": "Ibandronic Acid",
+        "url": "/salt/ibandronic-acid/2078"
+      },
+      {
+        "id": 2079,
+        "slug": "ibrutinib",
+        "name": "Ibrutinib",
+        "url": "/salt/ibrutinib/2079"
+      },
+      {
+        "id": 2083,
+        "slug": "ibuprofen",
+        "name": "Ibuprofen",
+        "url": "/salt/ibuprofen/2083"
+      },
+      {
+        "id": 681,
+        "slug": "ibuprofen-magnesium-oxide-paracetamol-acetaminophen-",
+        "name": "Ibuprofen + Magnesium Oxide + Paracetamol (Acetaminophen)",
+        "url": "/salt/ibuprofen-magnesium-oxide-paracetamol-acetaminophen-/681"
+      },
+      {
+        "id": 678,
+        "slug": "ibuprofen-magnesium-trisilicate-paracetamol-acetaminophen-",
+        "name": "Ibuprofen + Magnesium Trisilicate + Paracetamol (Acetaminophen)",
+        "url": "/salt/ibuprofen-magnesium-trisilicate-paracetamol-acetaminophen-/678"
+      },
+      {
+        "id": 679,
+        "slug": "ibuprofen-mefenamic-acid",
+        "name": "Ibuprofen + Mefenamic Acid",
+        "url": "/salt/ibuprofen-mefenamic-acid/679"
+      },
+      {
+        "id": 2090,
+        "slug": "ibuprofen-methocarbamol",
+        "name": "Ibuprofen + Methocarbamol",
+        "url": "/salt/ibuprofen-methocarbamol/2090"
+      },
+      {
+        "id": 686,
+        "slug": "ibuprofen-methocarbamol-paracetamol-acetaminophen-",
+        "name": "Ibuprofen + Methocarbamol + Paracetamol (Acetaminophen)",
+        "url": "/salt/ibuprofen-methocarbamol-paracetamol-acetaminophen-/686"
+      },
+      {
+        "id": 2091,
+        "slug": "ibuprofen-paracetamol-acetaminophen-",
+        "name": "Ibuprofen + Paracetamol (Acetaminophen)",
+        "url": "/salt/ibuprofen-paracetamol-acetaminophen-/2091"
+      },
+      {
+        "id": 684,
+        "slug": "ibuprofen-paracetamol-acetaminophen-serratiopeptidase",
+        "name": "Ibuprofen + Paracetamol (Acetaminophen) + Serratiopeptidase",
+        "url": "/salt/ibuprofen-paracetamol-acetaminophen-serratiopeptidase/684"
+      },
+      {
+        "id": 691,
+        "slug": "ibuprofen-pseudoephedrine",
+        "name": "Ibuprofen + Pseudoephedrine",
+        "url": "/salt/ibuprofen-pseudoephedrine/691"
+      },
+      {
+        "id": 689,
+        "slug": "ibuprofen-tizanidine",
+        "name": "Ibuprofen + Tizanidine",
+        "url": "/salt/ibuprofen-tizanidine/689"
+      },
+      {
+        "id": 690,
+        "slug": "ibuprofen-tramadol",
+        "name": "Ibuprofen + Tramadol",
+        "url": "/salt/ibuprofen-tramadol/690"
+      },
+      {
+        "id": 2093,
+        "slug": "ibutilide",
+        "name": "Ibutilide",
+        "url": "/salt/ibutilide/2093"
+      },
+      {
+        "id": 2069,
+        "slug": "ichthyol-pale",
+        "name": "Ichthyol Pale",
+        "url": "/salt/ichthyol-pale/2069"
+      },
+      {
+        "id": 2095,
+        "slug": "icosapent-ethyl",
+        "name": "Icosapent ethyl",
+        "url": "/salt/icosapent-ethyl/2095"
+      },
+      {
+        "id": 2100,
+        "slug": "idarubicin",
+        "name": "Idarubicin",
+        "url": "/salt/idarubicin/2100"
+      },
+      {
+        "id": 2096,
+        "slug": "idebenone",
+        "name": "Idebenone",
+        "url": "/salt/idebenone/2096"
+      },
+      {
+        "id": 2101,
+        "slug": "idoxuridine",
+        "name": "Idoxuridine",
+        "url": "/salt/idoxuridine/2101"
+      },
+      {
+        "id": 2097,
+        "slug": "ifosfamide",
+        "name": "Ifosfamide",
+        "url": "/salt/ifosfamide/2097"
+      },
+      {
+        "id": 2102,
+        "slug": "ifosfamide-mesna",
+        "name": "Ifosfamide + Mesna",
+        "url": "/salt/ifosfamide-mesna/2102"
+      },
+      {
+        "id": 2098,
+        "slug": "iguratimod",
+        "name": "Iguratimod",
+        "url": "/salt/iguratimod/2098"
+      },
+      {
+        "id": 2103,
+        "slug": "ilaprazole",
+        "name": "Ilaprazole",
+        "url": "/salt/ilaprazole/2103"
+      },
+      {
+        "id": 447,
+        "slug": "ilaprazole-levosulpiride",
+        "name": "Ilaprazole + Levosulpiride",
+        "url": "/salt/ilaprazole-levosulpiride/447"
+      }
+    ]
+  },
+  "J": {
+    "letter": "J",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 6734,
+        "slug": "jeera-methi-extract-patha-shatavari-root-powder-ushira-vidarikand",
+        "name": "Jeera + Methi Extract + Patha + Shatavari Root Powder + Ushira + Vidarikand",
+        "url": "/salt/jeera-methi-extract-patha-shatavari-root-powder-ushira-vidarikand/6734"
+      }
+    ]
+  },
+  "K": {
+    "letter": "K",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 2193,
+        "slug": "kalmegh-dry-extract",
+        "name": "Kalmegh Dry Extract",
+        "url": "/salt/kalmegh-dry-extract/2193"
+      },
+      {
+        "id": 2121,
+        "slug": "kanamycin",
+        "name": "Kanamycin",
+        "url": "/salt/kanamycin/2121"
+      },
+      {
+        "id": 2194,
+        "slug": "ketamine",
+        "name": "Ketamine",
+        "url": "/salt/ketamine/2194"
+      },
+      {
+        "id": 2196,
+        "slug": "ketoconazole",
+        "name": "Ketoconazole",
+        "url": "/salt/ketoconazole/2196"
+      },
+      {
+        "id": 1953,
+        "slug": "ketoconazole-piroctone-olamine",
+        "name": "Ketoconazole + Piroctone Olamine",
+        "url": "/salt/ketoconazole-piroctone-olamine/1953"
+      },
+      {
+        "id": 1949,
+        "slug": "ketoconazole-salicylic-acid",
+        "name": "Ketoconazole + Salicylic Acid",
+        "url": "/salt/ketoconazole-salicylic-acid/1949"
+      },
+      {
+        "id": 3483,
+        "slug": "ketoconazole-zinc-elemental-zinc-",
+        "name": "Ketoconazole + Zinc (Elemental Zinc)",
+        "url": "/salt/ketoconazole-zinc-elemental-zinc-/3483"
+      },
+      {
+        "id": 2197,
+        "slug": "ketoconazole-zinc-pyrithione",
+        "name": "Ketoconazole + Zinc Pyrithione",
+        "url": "/salt/ketoconazole-zinc-pyrithione/2197"
+      },
+      {
+        "id": 2202,
+        "slug": "ketoprofen",
+        "name": "Ketoprofen",
+        "url": "/salt/ketoprofen/2202"
+      },
+      {
+        "id": 651,
+        "slug": "ketoprofen-thiocolchicoside",
+        "name": "Ketoprofen + Thiocolchicoside",
+        "url": "/salt/ketoprofen-thiocolchicoside/651"
+      },
+      {
+        "id": 2203,
+        "slug": "ketorolac",
+        "name": "Ketorolac",
+        "url": "/salt/ketorolac/2203"
+      },
+      {
+        "id": 574,
+        "slug": "ketorolac-moxifloxacin",
+        "name": "Ketorolac + Moxifloxacin",
+        "url": "/salt/ketorolac-moxifloxacin/574"
+      },
+      {
+        "id": 576,
+        "slug": "ketorolac-ofloxacin",
+        "name": "Ketorolac + Ofloxacin",
+        "url": "/salt/ketorolac-ofloxacin/576"
+      },
+      {
+        "id": 575,
+        "slug": "ketorolac-olopatadine",
+        "name": "Ketorolac + Olopatadine",
+        "url": "/salt/ketorolac-olopatadine/575"
+      },
+      {
+        "id": 577,
+        "slug": "ketorolac-tramadol",
+        "name": "Ketorolac + Tramadol",
+        "url": "/salt/ketorolac-tramadol/577"
+      },
+      {
+        "id": 213,
+        "slug": "ketotifen-theophylline",
+        "name": "Ketotifen + Theophylline",
+        "url": "/salt/ketotifen-theophylline/213"
+      },
+      {
+        "id": 2211,
+        "slug": "kojic-acid",
+        "name": "Kojic Acid",
+        "url": "/salt/kojic-acid/2211"
+      }
+    ]
+  },
+  "L": {
+    "letter": "L",
+    "totalPages": 9,
+    "salts": [
+      {
+        "id": 2208,
+        "slug": "labetalol",
+        "name": "Labetalol",
+        "url": "/salt/labetalol/2208"
+      },
+      {
+        "id": 2213,
+        "slug": "lacidipine",
+        "name": "Lacidipine",
+        "url": "/salt/lacidipine/2213"
+      },
+      {
+        "id": 2209,
+        "slug": "lacosamide",
+        "name": "Lacosamide",
+        "url": "/salt/lacosamide/2209"
+      },
+      {
+        "id": 2214,
+        "slug": "lactase",
+        "name": "Lactase",
+        "url": "/salt/lactase/2214"
+      },
+      {
+        "id": 2210,
+        "slug": "lactic-acid",
+        "name": "Lactic Acid",
+        "url": "/salt/lactic-acid/2210"
+      },
+      {
+        "id": 2215,
+        "slug": "lactic-acid-lactobacillus-",
+        "name": "Lactic Acid (Lactobacillus)",
+        "url": "/salt/lactic-acid-lactobacillus-/2215"
+      },
+      {
+        "id": 1230,
+        "slug": "lactic-acid-lactobacillus-levofloxacin",
+        "name": "Lactic Acid (Lactobacillus) + Levofloxacin",
+        "url": "/salt/lactic-acid-lactobacillus-levofloxacin/1230"
+      },
+      {
+        "id": 1231,
+        "slug": "lactic-acid-lactobacillus-liquid-paraffin-propylene-glycol-urea",
+        "name": "Lactic Acid (Lactobacillus) + Liquid Paraffin + Propylene Glycol + Urea",
+        "url": "/salt/lactic-acid-lactobacillus-liquid-paraffin-propylene-glycol-urea/1231"
+      },
+      {
+        "id": 1232,
+        "slug": "lactic-acid-lactobacillus-metronidazole-norfloxacin",
+        "name": "Lactic Acid (Lactobacillus) + Metronidazole + Norfloxacin",
+        "url": "/salt/lactic-acid-lactobacillus-metronidazole-norfloxacin/1232"
+      },
+      {
+        "id": 1235,
+        "slug": "lactic-acid-lactobacillus-metronidazole-ofloxacin",
+        "name": "Lactic Acid (Lactobacillus) + Metronidazole + Ofloxacin",
+        "url": "/salt/lactic-acid-lactobacillus-metronidazole-ofloxacin/1235"
+      },
+      {
+        "id": 2224,
+        "slug": "lactic-acid-lactobacillus-norfloxacin",
+        "name": "Lactic Acid (Lactobacillus) + Norfloxacin",
+        "url": "/salt/lactic-acid-lactobacillus-norfloxacin/2224"
+      },
+      {
+        "id": 1233,
+        "slug": "lactic-acid-lactobacillus-norfloxacin-ornidazole",
+        "name": "Lactic Acid (Lactobacillus) + Norfloxacin + Ornidazole",
+        "url": "/salt/lactic-acid-lactobacillus-norfloxacin-ornidazole/1233"
+      },
+      {
+        "id": 1236,
+        "slug": "lactic-acid-lactobacillus-norfloxacin-tinidazole",
+        "name": "Lactic Acid (Lactobacillus) + Norfloxacin + Tinidazole",
+        "url": "/salt/lactic-acid-lactobacillus-norfloxacin-tinidazole/1236"
+      },
+      {
+        "id": 2225,
+        "slug": "lactic-acid-lactobacillus-ofloxacin",
+        "name": "Lactic Acid (Lactobacillus) + Ofloxacin",
+        "url": "/salt/lactic-acid-lactobacillus-ofloxacin/2225"
+      },
+      {
+        "id": 2221,
+        "slug": "lactic-acid-lactobacillus-ofloxacin-ornidazole",
+        "name": "Lactic Acid (Lactobacillus) + Ofloxacin + Ornidazole",
+        "url": "/salt/lactic-acid-lactobacillus-ofloxacin-ornidazole/2221"
+      },
+      {
+        "id": 1240,
+        "slug": "lactic-acid-lactobacillus-ofloxacin-ornidazole-saccharomyces-boulardii",
+        "name": "Lactic Acid (Lactobacillus) + Ofloxacin + Ornidazole + Saccharomyces Boulardii",
+        "url": "/salt/lactic-acid-lactobacillus-ofloxacin-ornidazole-saccharomyces-boulardii/1240"
+      },
+      {
+        "id": 1238,
+        "slug": "lactic-acid-lactobacillus-racecadotril-saccharomyces-boulardii",
+        "name": "Lactic Acid (Lactobacillus) + Racecadotril + Saccharomyces boulardii",
+        "url": "/salt/lactic-acid-lactobacillus-racecadotril-saccharomyces-boulardii/1238"
+      },
+      {
+        "id": 1241,
+        "slug": "lactic-acid-lactobacillus-saccharomyces-boulardii-zinc-elemental-zinc-",
+        "name": "Lactic Acid (Lactobacillus) + Saccharomyces boulardii + Zinc (Elemental Zinc)",
+        "url": "/salt/lactic-acid-lactobacillus-saccharomyces-boulardii-zinc-elemental-zinc-/1241"
+      },
+      {
+        "id": 2228,
+        "slug": "lactic-acid-lactobacillus-salicylic-acid",
+        "name": "Lactic Acid (Lactobacillus) + Salicylic Acid",
+        "url": "/salt/lactic-acid-lactobacillus-salicylic-acid/2228"
+      },
+      {
+        "id": 3480,
+        "slug": "lactic-acid-lactobacillus-vitamin-b9-folic-acid-vitamin-b3-niacin-vitamin-b2-riboflavin-",
+        "name": "Lactic Acid (Lactobacillus) + Vitamin B9 (Folic Acid) + Vitamin B3 (Niacin) + Vitamin B2 (Riboflavin)",
+        "url": "/salt/lactic-acid-lactobacillus-vitamin-b9-folic-acid-vitamin-b3-niacin-vitamin-b2-riboflavin-/3480"
+      },
+      {
+        "id": 6259,
+        "slug": "lactic-acid-lactobacillus-vitamin-b9-folic-acid-vitamin-b3-niacin-vitamin-b6-pyridoxine-",
+        "name": "Lactic Acid (Lactobacillus) + Vitamin B9 (Folic Acid) + Vitamin B3 (Niacin) + Vitamin B6 (Pyridoxine)",
+        "url": "/salt/lactic-acid-lactobacillus-vitamin-b9-folic-acid-vitamin-b3-niacin-vitamin-b6-pyridoxine-/6259"
+      },
+      {
+        "id": 2235,
+        "slug": "lactitol",
+        "name": "Lactitol",
+        "url": "/salt/lactitol/2235"
+      },
+      {
+        "id": 2229,
+        "slug": "lactobacillus-acidophilus",
+        "name": "Lactobacillus Acidophilus",
+        "url": "/salt/lactobacillus-acidophilus/2229"
+      },
+      {
+        "id": 5761,
+        "slug": "lactobacillus-brevis-lactobacillus-plantarum-lactobacillus-salivarius",
+        "name": "Lactobacillus Brevis + Lactobacillus Plantarum + Lactobacillus Salivarius",
+        "url": "/salt/lactobacillus-brevis-lactobacillus-plantarum-lactobacillus-salivarius/5761"
+      }
+    ]
+  },
+  "M": {
+    "letter": "M",
+    "totalPages": 9,
+    "salts": [
+      {
+        "id": 2396,
+        "slug": "macitentan",
+        "name": "Macitentan",
+        "url": "/salt/macitentan/2396"
+      },
+      {
+        "id": 2394,
+        "slug": "magaldrate",
+        "name": "Magaldrate",
+        "url": "/salt/magaldrate/2394"
+      },
+      {
+        "id": 970,
+        "slug": "magaldrate-alginic-acid-simethicone",
+        "name": "Magaldrate + Alginic Acid + Simethicone",
+        "url": "/salt/magaldrate-alginic-acid-simethicone/970"
+      },
+      {
+        "id": 962,
+        "slug": "magaldrate-metoclopramide",
+        "name": "Magaldrate + Metoclopramide",
+        "url": "/salt/magaldrate-metoclopramide/962"
+      },
+      {
+        "id": 1366,
+        "slug": "magaldrate-oxetacaine",
+        "name": "Magaldrate + Oxetacaine",
+        "url": "/salt/magaldrate-oxetacaine/1366"
+      },
+      {
+        "id": 2398,
+        "slug": "magaldrate-oxetacaine-simethicone",
+        "name": "Magaldrate + Oxetacaine + Simethicone",
+        "url": "/salt/magaldrate-oxetacaine-simethicone/2398"
+      },
+      {
+        "id": 971,
+        "slug": "magaldrate-ranitidine",
+        "name": "Magaldrate + Ranitidine",
+        "url": "/salt/magaldrate-ranitidine/971"
+      },
+      {
+        "id": 2399,
+        "slug": "magaldrate-simethicone",
+        "name": "Magaldrate + Simethicone",
+        "url": "/salt/magaldrate-simethicone/2399"
+      },
+      {
+        "id": 2401,
+        "slug": "magnesium-bisglycinate",
+        "name": "Magnesium Bisglycinate",
+        "url": "/salt/magnesium-bisglycinate/2401"
+      },
+      {
+        "id": 6260,
+        "slug": "magnesium-bisglycinate-vitamin-b6-pyridoxine-vitamin-b2-riboflavin-vitamin-d3-cholecalciferol-",
+        "name": "Magnesium Bisglycinate + Vitamin B6 (Pyridoxine) + Vitamin B2 (Riboflavin) + Vitamin D3 (Cholecalciferol)",
+        "url": "/salt/magnesium-bisglycinate-vitamin-b6-pyridoxine-vitamin-b2-riboflavin-vitamin-d3-cholecalciferol-/6260"
+      },
+      {
+        "id": 186,
+        "slug": "magnesium-carbonate-potassium-chloride-procaine",
+        "name": "Magnesium Carbonate + Potassium Chloride + Procaine",
+        "url": "/salt/magnesium-carbonate-potassium-chloride-procaine/186"
+      },
+      {
+        "id": 1417,
+        "slug": "magnesium-citrate-potassium-citrate",
+        "name": "Magnesium Citrate + Potassium Citrate",
+        "url": "/salt/magnesium-citrate-potassium-citrate/1417"
+      },
+      {
+        "id": 172,
+        "slug": "magnesium-citrate-potassium-citrate-vitamin-b6-pyridoxine-",
+        "name": "Magnesium Citrate + Potassium Citrate + Vitamin B6 (Pyridoxine)",
+        "url": "/salt/magnesium-citrate-potassium-citrate-vitamin-b6-pyridoxine-/172"
+      },
+      {
+        "id": 3473,
+        "slug": "magnesium-citrate-vitamin-d3-cholecalciferol-vitamin-e-tocopheryl-zinc-elemental-zinc-",
+        "name": "Magnesium Citrate + Vitamin D3 (Cholecalciferol) + Vitamin E (Tocopheryl) + Zinc (Elemental Zinc)",
+        "url": "/salt/magnesium-citrate-vitamin-d3-cholecalciferol-vitamin-e-tocopheryl-zinc-elemental-zinc-/3473"
+      },
+      {
+        "id": 3503,
+        "slug": "magnesium-glycine-vitamin-d3-cholecalciferol-",
+        "name": "Magnesium Glycine + Vitamin D3 (Cholecalciferol)",
+        "url": "/salt/magnesium-glycine-vitamin-d3-cholecalciferol-/3503"
+      },
+      {
+        "id": 2405,
+        "slug": "magnesium-hydroxide-milk-of-magnesia-sodium-picosulfate",
+        "name": "Magnesium Hydroxide (Milk Of Magnesia) + Sodium Picosulfate",
+        "url": "/salt/magnesium-hydroxide-milk-of-magnesia-sodium-picosulfate/2405"
+      },
+      {
+        "id": 2074,
+        "slug": "magnesium-hydroxide-milk-of-magnesia-vitamin-b2-riboflavin-vitamin-d3-cholecalciferol-",
+        "name": "Magnesium Hydroxide (Milk Of Magnesia) + Vitamin B2 (Riboflavin) + Vitamin D3 (Cholecalciferol)",
+        "url": "/salt/magnesium-hydroxide-milk-of-magnesia-vitamin-b2-riboflavin-vitamin-d3-cholecalciferol-/2074"
+      },
+      {
+        "id": 2406,
+        "slug": "magnesium-oxide",
+        "name": "Magnesium Oxide",
+        "url": "/salt/magnesium-oxide/2406"
+      },
+      {
+        "id": 2404,
+        "slug": "magnesium-sulphate",
+        "name": "Magnesium Sulphate",
+        "url": "/salt/magnesium-sulphate/2404"
+      },
+      {
+        "id": 2407,
+        "slug": "magnesium-sulphate-potassium-sulphate-sodium-sulphate",
+        "name": "Magnesium Sulphate + Potassium Sulphate + Sodium Sulphate",
+        "url": "/salt/magnesium-sulphate-potassium-sulphate-sodium-sulphate/2407"
+      },
+      {
+        "id": 1703,
+        "slug": "magnesium-trisilicate-nimesulide-paracetamol-acetaminophen-",
+        "name": "Magnesium Trisilicate + Nimesulide + Paracetamol (Acetaminophen)",
+        "url": "/salt/magnesium-trisilicate-nimesulide-paracetamol-acetaminophen-/1703"
+      },
+      {
+        "id": 2408,
+        "slug": "magnesium-valproate",
+        "name": "Magnesium Valproate",
+        "url": "/salt/magnesium-valproate/2408"
+      },
+      {
+        "id": 1965,
+        "slug": "mandelic-acid-salicylic-acid",
+        "name": "Mandelic acid + Salicylic Acid",
+        "url": "/salt/mandelic-acid-salicylic-acid/1965"
+      },
+      {
+        "id": 2409,
+        "slug": "mannitol",
+        "name": "Mannitol",
+        "url": "/salt/mannitol/2409"
+      }
+    ]
+  },
+  "N": {
+    "letter": "N",
+    "totalPages": 4,
+    "salts": [
+      {
+        "id": 2581,
+        "slug": "nabumetone",
+        "name": "Nabumetone",
+        "url": "/salt/nabumetone/2581"
+      },
+      {
+        "id": 2710,
+        "slug": "nabumetone-paracetamol-acetaminophen-",
+        "name": "Nabumetone + Paracetamol (Acetaminophen)",
+        "url": "/salt/nabumetone-paracetamol-acetaminophen-/2710"
+      },
+      {
+        "id": 2588,
+        "slug": "n-acetylcysteine",
+        "name": "N-Acetylcysteine",
+        "url": "/salt/n-acetylcysteine/2588"
+      },
+      {
+        "id": 2586,
+        "slug": "nadroparin",
+        "name": "Nadroparin",
+        "url": "/salt/nadroparin/2586"
+      },
+      {
+        "id": 2589,
+        "slug": "naftopidil",
+        "name": "Naftopidil",
+        "url": "/salt/naftopidil/2589"
+      },
+      {
+        "id": 2587,
+        "slug": "nalbuphine",
+        "name": "Nalbuphine",
+        "url": "/salt/nalbuphine/2587"
+      },
+      {
+        "id": 2590,
+        "slug": "nalidixic-acid",
+        "name": "Nalidixic Acid",
+        "url": "/salt/nalidixic-acid/2590"
+      },
+      {
+        "id": 2593,
+        "slug": "naloxone",
+        "name": "Naloxone",
+        "url": "/salt/naloxone/2593"
+      },
+      {
+        "id": 2591,
+        "slug": "naltrexone",
+        "name": "Naltrexone",
+        "url": "/salt/naltrexone/2591"
+      },
+      {
+        "id": 2594,
+        "slug": "nandrolone-decanoate",
+        "name": "Nandrolone Decanoate",
+        "url": "/salt/nandrolone-decanoate/2594"
+      },
+      {
+        "id": 2592,
+        "slug": "naphazoline",
+        "name": "Naphazoline",
+        "url": "/salt/naphazoline/2592"
+      },
+      {
+        "id": 767,
+        "slug": "naphazoline-pheniramine",
+        "name": "Naphazoline + Pheniramine",
+        "url": "/salt/naphazoline-pheniramine/767"
+      },
+      {
+        "id": 2598,
+        "slug": "naphazoline-phenylephrine",
+        "name": "Naphazoline + Phenylephrine",
+        "url": "/salt/naphazoline-phenylephrine/2598"
+      },
+      {
+        "id": 2596,
+        "slug": "naproxen",
+        "name": "Naproxen",
+        "url": "/salt/naproxen/2596"
+      },
+      {
+        "id": 150,
+        "slug": "naproxen-paracetamol-acetaminophen-",
+        "name": "Naproxen + Paracetamol (Acetaminophen)",
+        "url": "/salt/naproxen-paracetamol-acetaminophen-/150"
+      },
+      {
+        "id": 157,
+        "slug": "naproxen-sumatriptan",
+        "name": "Naproxen + Sumatriptan",
+        "url": "/salt/naproxen-sumatriptan/157"
+      },
+      {
+        "id": 2603,
+        "slug": "naratriptan",
+        "name": "Naratriptan",
+        "url": "/salt/naratriptan/2603"
+      },
+      {
+        "id": 2600,
+        "slug": "nartograstim",
+        "name": "Nartograstim",
+        "url": "/salt/nartograstim/2600"
+      },
+      {
+        "id": 2604,
+        "slug": "natalizumab",
+        "name": "Natalizumab",
+        "url": "/salt/natalizumab/2604"
+      },
+      {
+        "id": 2601,
+        "slug": "natamycin",
+        "name": "Natamycin",
+        "url": "/salt/natamycin/2601"
+      },
+      {
+        "id": 2605,
+        "slug": "nateglinide",
+        "name": "Nateglinide",
+        "url": "/salt/nateglinide/2605"
+      },
+      {
+        "id": 2602,
+        "slug": "nattokinase",
+        "name": "Nattokinase",
+        "url": "/salt/nattokinase/2602"
+      },
+      {
+        "id": 2528,
+        "slug": "nattokinase-serratiopeptidase-vitamin-d3-cholecalciferol-",
+        "name": "Nattokinase + Serratiopeptidase + Vitamin D3 (Cholecalciferol)",
+        "url": "/salt/nattokinase-serratiopeptidase-vitamin-d3-cholecalciferol-/2528"
+      },
+      {
+        "id": 2584,
+        "slug": "n-butyl-2-cyanoacrylate",
+        "name": "n Butyl 2 cyanoacrylate",
+        "url": "/salt/n-butyl-2-cyanoacrylate/2584"
+      }
+    ]
+  },
+  "O": {
+    "letter": "O",
+    "totalPages": 3,
+    "salts": [
+      {
+        "id": 2674,
+        "slug": "obeticholic-acid",
+        "name": "Obeticholic acid",
+        "url": "/salt/obeticholic-acid/2674"
+      },
+      {
+        "id": 2678,
+        "slug": "obinutuzumab",
+        "name": "Obinutuzumab",
+        "url": "/salt/obinutuzumab/2678"
+      },
+      {
+        "id": 2675,
+        "slug": "octenidine",
+        "name": "Octenidine",
+        "url": "/salt/octenidine/2675"
+      },
+      {
+        "id": 2679,
+        "slug": "octreotide-acetate",
+        "name": "Octreotide acetate",
+        "url": "/salt/octreotide-acetate/2679"
+      },
+      {
+        "id": 2676,
+        "slug": "ofatumumab",
+        "name": "Ofatumumab",
+        "url": "/salt/ofatumumab/2676"
+      },
+      {
+        "id": 2677,
+        "slug": "ofloxacin-ornidazole",
+        "name": "Ofloxacin + Ornidazole",
+        "url": "/salt/ofloxacin-ornidazole/2677"
+      },
+      {
+        "id": 904,
+        "slug": "ofloxacin-ornidazole-racecadotril",
+        "name": "Ofloxacin + Ornidazole + Racecadotril",
+        "url": "/salt/ofloxacin-ornidazole-racecadotril/904"
+      },
+      {
+        "id": 901,
+        "slug": "ofloxacin-ornidazole-sodium-chloride",
+        "name": "Ofloxacin + Ornidazole + Sodium Chloride",
+        "url": "/salt/ofloxacin-ornidazole-sodium-chloride/901"
+      },
+      {
+        "id": 905,
+        "slug": "ofloxacin-ornidazole-terbinafine-mometasone",
+        "name": "Ofloxacin + Ornidazole + Terbinafine + Mometasone",
+        "url": "/salt/ofloxacin-ornidazole-terbinafine-mometasone/905"
+      },
+      {
+        "id": 2684,
+        "slug": "ofloxacin-prednisolone",
+        "name": "Ofloxacin + Prednisolone",
+        "url": "/salt/ofloxacin-prednisolone/2684"
+      },
+      {
+        "id": 2689,
+        "slug": "ofloxacin-racecadotril",
+        "name": "Ofloxacin + Racecadotril",
+        "url": "/salt/ofloxacin-racecadotril/2689"
+      },
+      {
+        "id": 902,
+        "slug": "ofloxacin-satranidazole",
+        "name": "Ofloxacin + Satranidazole",
+        "url": "/salt/ofloxacin-satranidazole/902"
+      },
+      {
+        "id": 906,
+        "slug": "ofloxacin-serratiopeptidase",
+        "name": "Ofloxacin + Serratiopeptidase",
+        "url": "/salt/ofloxacin-serratiopeptidase/906"
+      },
+      {
+        "id": 2686,
+        "slug": "ofloxacin-tinidazole",
+        "name": "Ofloxacin + Tinidazole",
+        "url": "/salt/ofloxacin-tinidazole/2686"
+      },
+      {
+        "id": 2687,
+        "slug": "olanzapine",
+        "name": "Olanzapine",
+        "url": "/salt/olanzapine/2687"
+      },
+      {
+        "id": 2692,
+        "slug": "olaparib",
+        "name": "Olaparib",
+        "url": "/salt/olaparib/2692"
+      },
+      {
+        "id": 2688,
+        "slug": "olive-oilv-v",
+        "name": "Olive Oilv/v",
+        "url": "/salt/olive-oilv-v/2688"
+      },
+      {
+        "id": 5364,
+        "slug": "olive-olea-europaea-",
+        "name": "Olive (Olea europaea)",
+        "url": "/salt/olive-olea-europaea-/5364"
+      },
+      {
+        "id": 2693,
+        "slug": "olmesartan-medoxomil",
+        "name": "Olmesartan Medoxomil",
+        "url": "/salt/olmesartan-medoxomil/2693"
+      },
+      {
+        "id": 3496,
+        "slug": "olopatadine",
+        "name": "Olopatadine",
+        "url": "/salt/olopatadine/3496"
+      },
+      {
+        "id": 1697,
+        "slug": "omalizumab",
+        "name": "Omalizumab",
+        "url": "/salt/omalizumab/1697"
+      },
+      {
+        "id": 2694,
+        "slug": "omega-3-fatty-acid",
+        "name": "Omega 3 Fatty Acid",
+        "url": "/salt/omega-3-fatty-acid/2694"
+      },
+      {
+        "id": 1880,
+        "slug": "omega-3-fatty-acid-vitamin-e-tocopheryl-",
+        "name": "Omega-3 fatty acid + Vitamin E (Tocopheryl)",
+        "url": "/salt/omega-3-fatty-acid-vitamin-e-tocopheryl-/1880"
+      },
+      {
+        "id": 738,
+        "slug": "omega-3-fatty-acid-vitamin-e-tocopheryl-wheat-germ-oil",
+        "name": "Omega 3 Fatty Acid + Vitamin E (Tocopheryl) + Wheat Germ Oil",
+        "url": "/salt/omega-3-fatty-acid-vitamin-e-tocopheryl-wheat-germ-oil/738"
+      }
+    ]
+  },
+  "P": {
+    "letter": "P",
+    "totalPages": 9,
+    "salts": [
+      {
+        "id": 2729,
+        "slug": "paclitaxel",
+        "name": "Paclitaxel",
+        "url": "/salt/paclitaxel/2729"
+      },
+      {
+        "id": 2734,
+        "slug": "palbociclib",
+        "name": "Palbociclib",
+        "url": "/salt/palbociclib/2734"
+      },
+      {
+        "id": 2736,
+        "slug": "paliperidone",
+        "name": "Paliperidone",
+        "url": "/salt/paliperidone/2736"
+      },
+      {
+        "id": 2735,
+        "slug": "palonosetron",
+        "name": "Palonosetron",
+        "url": "/salt/palonosetron/2735"
+      },
+      {
+        "id": 2737,
+        "slug": "pamabrom-paracetamol-acetaminophen-",
+        "name": "Pamabrom + Paracetamol (Acetaminophen)",
+        "url": "/salt/pamabrom-paracetamol-acetaminophen-/2737"
+      },
+      {
+        "id": 2503,
+        "slug": "pamidronate",
+        "name": "Pamidronate",
+        "url": "/salt/pamidronate/2503"
+      },
+      {
+        "id": 2738,
+        "slug": "pancreatin",
+        "name": "Pancreatin",
+        "url": "/salt/pancreatin/2738"
+      },
+      {
+        "id": 2518,
+        "slug": "pancreatin-simethicone",
+        "name": "Pancreatin + Simethicone",
+        "url": "/salt/pancreatin-simethicone/2518"
+      },
+      {
+        "id": 863,
+        "slug": "pancreatin-simethicone-sodium-tauroglycocholate",
+        "name": "Pancreatin + Simethicone + Sodium Tauroglycocholate",
+        "url": "/salt/pancreatin-simethicone-sodium-tauroglycocholate/863"
+      },
+      {
+        "id": 872,
+        "slug": "pancreatin-sodium-tauroglycocholate",
+        "name": "Pancreatin + Sodium Tauroglycocholate",
+        "url": "/salt/pancreatin-sodium-tauroglycocholate/872"
+      },
+      {
+        "id": 2740,
+        "slug": "pancuronium",
+        "name": "Pancuronium",
+        "url": "/salt/pancuronium/2740"
+      },
+      {
+        "id": 2741,
+        "slug": "panitumumab",
+        "name": "Panitumumab",
+        "url": "/salt/panitumumab/2741"
+      },
+      {
+        "id": 2747,
+        "slug": "pantoprazole",
+        "name": "Pantoprazole",
+        "url": "/salt/pantoprazole/2747"
+      },
+      {
+        "id": 2742,
+        "slug": "pantoprazole-sucralfate",
+        "name": "Pantoprazole + Sucralfate",
+        "url": "/salt/pantoprazole-sucralfate/2742"
+      },
+      {
+        "id": 1226,
+        "slug": "pantoprazole-zinc-carnosine",
+        "name": "Pantoprazole + Zinc Carnosine",
+        "url": "/salt/pantoprazole-zinc-carnosine/1226"
+      },
+      {
+        "id": 707,
+        "slug": "papain-urea",
+        "name": "Papain + Urea",
+        "url": "/salt/papain-urea/707"
+      },
+      {
+        "id": 2750,
+        "slug": "papaverine",
+        "name": "Papaverine",
+        "url": "/salt/papaverine/2750"
+      },
+      {
+        "id": 2744,
+        "slug": "paracetamol-acetaminophen-",
+        "name": "Paracetamol (Acetaminophen)",
+        "url": "/salt/paracetamol-acetaminophen-/2744"
+      },
+      {
+        "id": 2648,
+        "slug": "paracetamol-acetaminophen-chlorpheniramine-maleate-dextromethorphan",
+        "name": "Paracetamol (Acetaminophen) + Chlorpheniramine Maleate + Dextromethorphan",
+        "url": "/salt/paracetamol-acetaminophen-chlorpheniramine-maleate-dextromethorphan/2648"
+      },
+      {
+        "id": 2652,
+        "slug": "paracetamol-acetaminophen-paracetamol-acetaminophen-",
+        "name": "Paracetamol (Acetaminophen) + Paracetamol (Acetaminophen)",
+        "url": "/salt/paracetamol-acetaminophen-paracetamol-acetaminophen-/2652"
+      },
+      {
+        "id": 2657,
+        "slug": "paracetamol-acetaminophen-pentazocine",
+        "name": "Paracetamol (Acetaminophen) + Pentazocine",
+        "url": "/salt/paracetamol-acetaminophen-pentazocine/2657"
+      },
+      {
+        "id": 2745,
+        "slug": "paracetamol-acetaminophen-phenylephrine",
+        "name": "Paracetamol (Acetaminophen) + Phenylephrine",
+        "url": "/salt/paracetamol-acetaminophen-phenylephrine/2745"
+      },
+      {
+        "id": 2658,
+        "slug": "paracetamol-acetaminophen-phenylephrine-triprolidine",
+        "name": "Paracetamol (Acetaminophen) + Phenylephrine + Triprolidine",
+        "url": "/salt/paracetamol-acetaminophen-phenylephrine-triprolidine/2658"
+      },
+      {
+        "id": 2662,
+        "slug": "paracetamol-acetaminophen-phenylpropanolamine-triprolidine",
+        "name": "Paracetamol (Acetaminophen) + Phenylpropanolamine + Triprolidine",
+        "url": "/salt/paracetamol-acetaminophen-phenylpropanolamine-triprolidine/2662"
+      }
+    ]
+  },
+  "Q": {
+    "letter": "Q",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 2941,
+        "slug": "quetiapine",
+        "name": "Quetiapine",
+        "url": "/salt/quetiapine/2941"
+      },
+      {
+        "id": 2943,
+        "slug": "quinapril",
+        "name": "Quinapril",
+        "url": "/salt/quinapril/2943"
+      },
+      {
+        "id": 2949,
+        "slug": "quinidine",
+        "name": "Quinidine",
+        "url": "/salt/quinidine/2949"
+      },
+      {
+        "id": 2944,
+        "slug": "quinine",
+        "name": "Quinine",
+        "url": "/salt/quinine/2944"
+      },
+      {
+        "id": 2950,
+        "slug": "quiniodochlor",
+        "name": "Quiniodochlor",
+        "url": "/salt/quiniodochlor/2950"
+      }
+    ]
+  },
+  "R": {
+    "letter": "R",
+    "totalPages": 4,
+    "salts": [
+      {
+        "id": 2945,
+        "slug": "rabeprazole",
+        "name": "Rabeprazole",
+        "url": "/salt/rabeprazole/2945"
+      },
+      {
+        "id": 448,
+        "slug": "rabeprazole-mosapride",
+        "name": "Rabeprazole + Mosapride",
+        "url": "/salt/rabeprazole-mosapride/448"
+      },
+      {
+        "id": 451,
+        "slug": "rabeprazole-zinc-carnosine",
+        "name": "Rabeprazole + Zinc Carnosine",
+        "url": "/salt/rabeprazole-zinc-carnosine/451"
+      },
+      {
+        "id": 2952,
+        "slug": "rabies-human-monoclonal-antibody-rd-",
+        "name": "Rabies Human Monoclonal Antibody (rD)",
+        "url": "/salt/rabies-human-monoclonal-antibody-rd-/2952"
+      },
+      {
+        "id": 2947,
+        "slug": "rabies-vaccine-human",
+        "name": "Rabies vaccine, Human",
+        "url": "/salt/rabies-vaccine-human/2947"
+      },
+      {
+        "id": 2953,
+        "slug": "racecadotril",
+        "name": "Racecadotril",
+        "url": "/salt/racecadotril/2953"
+      },
+      {
+        "id": 2948,
+        "slug": "racecadotril-saccharomyces-boulardii",
+        "name": "Racecadotril + Saccharomyces Boulardii",
+        "url": "/salt/racecadotril-saccharomyces-boulardii/2948"
+      },
+      {
+        "id": 202,
+        "slug": "racecadotril-saccharomyces-boulardii-zinc-elemental-zinc-",
+        "name": "Racecadotril + Saccharomyces Boulardii + Zinc (Elemental Zinc)",
+        "url": "/salt/racecadotril-saccharomyces-boulardii-zinc-elemental-zinc-/202"
+      },
+      {
+        "id": 2955,
+        "slug": "raloxifene",
+        "name": "Raloxifene",
+        "url": "/salt/raloxifene/2955"
+      },
+      {
+        "id": 2961,
+        "slug": "raltegravir",
+        "name": "Raltegravir",
+        "url": "/salt/raltegravir/2961"
+      },
+      {
+        "id": 2956,
+        "slug": "ramelteon",
+        "name": "Ramelteon",
+        "url": "/salt/ramelteon/2956"
+      },
+      {
+        "id": 2962,
+        "slug": "ramipril",
+        "name": "Ramipril",
+        "url": "/salt/ramipril/2962"
+      },
+      {
+        "id": 2957,
+        "slug": "ramipril-telmisartan",
+        "name": "Ramipril + Telmisartan",
+        "url": "/salt/ramipril-telmisartan/2957"
+      },
+      {
+        "id": 1165,
+        "slug": "ramipril-valsartan",
+        "name": "Ramipril + Valsartan",
+        "url": "/salt/ramipril-valsartan/1165"
+      },
+      {
+        "id": 2958,
+        "slug": "ramosetron",
+        "name": "Ramosetron",
+        "url": "/salt/ramosetron/2958"
+      },
+      {
+        "id": 2964,
+        "slug": "ramucirumab",
+        "name": "Ramucirumab",
+        "url": "/salt/ramucirumab/2964"
+      },
+      {
+        "id": 2959,
+        "slug": "ranibizumab",
+        "name": "Ranibizumab",
+        "url": "/salt/ranibizumab/2959"
+      },
+      {
+        "id": 2965,
+        "slug": "ranitidine",
+        "name": "Ranitidine",
+        "url": "/salt/ranitidine/2965"
+      },
+      {
+        "id": 2968,
+        "slug": "ranolazine",
+        "name": "Ranolazine",
+        "url": "/salt/ranolazine/2968"
+      },
+      {
+        "id": 2974,
+        "slug": "rasagiline",
+        "name": "Rasagiline",
+        "url": "/salt/rasagiline/2974"
+      },
+      {
+        "id": 2969,
+        "slug": "rasburicase",
+        "name": "Rasburicase",
+        "url": "/salt/rasburicase/2969"
+      },
+      {
+        "id": 2975,
+        "slug": "rebamipide",
+        "name": "Rebamipide",
+        "url": "/salt/rebamipide/2975"
+      },
+      {
+        "id": 2970,
+        "slug": "reboxetine",
+        "name": "Reboxetine",
+        "url": "/salt/reboxetine/2970"
+      },
+      {
+        "id": 2976,
+        "slug": "recombinant-human-epidermal-growth-factor",
+        "name": "Recombinant Human Epidermal Growth Factor",
+        "url": "/salt/recombinant-human-epidermal-growth-factor/2976"
+      }
+    ]
+  },
+  "S": {
+    "letter": "S",
+    "totalPages": 6,
+    "salts": [
+      {
+        "id": 3000,
+        "slug": "saccharomyces-boulardii",
+        "name": "Saccharomyces boulardii",
+        "url": "/salt/saccharomyces-boulardii/3000"
+      },
+      {
+        "id": 1329,
+        "slug": "sacubitril-valsartan",
+        "name": "Sacubitril + Valsartan",
+        "url": "/salt/sacubitril-valsartan/1329"
+      },
+      {
+        "id": 3010,
+        "slug": "safinamide",
+        "name": "Safinamide",
+        "url": "/salt/safinamide/3010"
+      },
+      {
+        "id": 3033,
+        "slug": "salbutamol",
+        "name": "Salbutamol",
+        "url": "/salt/salbutamol/3033"
+      },
+      {
+        "id": 1472,
+        "slug": "salbutamol-sodium-cromoglycate",
+        "name": "Salbutamol + Sodium Cromoglycate",
+        "url": "/salt/salbutamol-sodium-cromoglycate/1472"
+      },
+      {
+        "id": 3034,
+        "slug": "salbutamol-theophylline",
+        "name": "Salbutamol + Theophylline",
+        "url": "/salt/salbutamol-theophylline/3034"
+      },
+      {
+        "id": 3036,
+        "slug": "salicylic-acid",
+        "name": "Salicylic Acid",
+        "url": "/salt/salicylic-acid/3036"
+      },
+      {
+        "id": 3035,
+        "slug": "salicylic-acid-urea",
+        "name": "Salicylic Acid + Urea",
+        "url": "/salt/salicylic-acid-urea/3035"
+      },
+      {
+        "id": 3037,
+        "slug": "salmeterol",
+        "name": "Salmeterol",
+        "url": "/salt/salmeterol/3037"
+      },
+      {
+        "id": 3041,
+        "slug": "salmonella-typhi-vaccine",
+        "name": "Salmonella Typhi Vaccine",
+        "url": "/salt/salmonella-typhi-vaccine/3041"
+      },
+      {
+        "id": 3600,
+        "slug": "saltnametesthai",
+        "name": "saltnametesthai",
+        "url": "/salt/saltnametesthai/3600"
+      },
+      {
+        "id": 3633,
+        "slug": "saltnametestv2",
+        "name": "saltnameTestV2",
+        "url": "/salt/saltnametestv2/3633"
+      },
+      {
+        "id": 4003,
+        "slug": "salttestfinalv1",
+        "name": "saltTestFinalV1",
+        "url": "/salt/salttestfinalv1/4003"
+      },
+      {
+        "id": 4036,
+        "slug": "salttestfinalv2",
+        "name": "SaltTestFinalV2",
+        "url": "/salt/salttestfinalv2/4036"
+      },
+      {
+        "id": 4069,
+        "slug": "salttestfinalv3",
+        "name": "saltTestFinalV3",
+        "url": "/salt/salttestfinalv3/4069"
+      },
+      {
+        "id": 3898,
+        "slug": "salttestv2",
+        "name": "SaltTestV2",
+        "url": "/salt/salttestv2/3898"
+      },
+      {
+        "id": 3038,
+        "slug": "s-amlodipine",
+        "name": "S-Amlodipine",
+        "url": "/salt/s-amlodipine/3038"
+      },
+      {
+        "id": 78,
+        "slug": "s-amlodipine-s-metoprolol-succinate-metoprolol-tartrate-",
+        "name": "S-Amlodipine + S-Metoprolol Succinate (Metoprolol Tartrate)",
+        "url": "/salt/s-amlodipine-s-metoprolol-succinate-metoprolol-tartrate-/78"
+      },
+      {
+        "id": 82,
+        "slug": "s-amlodipine-telmisartan",
+        "name": "S-Amlodipine + Telmisartan",
+        "url": "/salt/s-amlodipine-telmisartan/82"
+      },
+      {
+        "id": 3044,
+        "slug": "saquinavir",
+        "name": "Saquinavir",
+        "url": "/salt/saquinavir/3044"
+      },
+      {
+        "id": 2195,
+        "slug": "sargramostim",
+        "name": "Sargramostim",
+        "url": "/salt/sargramostim/2195"
+      },
+      {
+        "id": 3045,
+        "slug": "saroglitazar",
+        "name": "Saroglitazar",
+        "url": "/salt/saroglitazar/3045"
+      },
+      {
+        "id": 2205,
+        "slug": "satranidazole",
+        "name": "Satranidazole",
+        "url": "/salt/satranidazole/2205"
+      },
+      {
+        "id": 3046,
+        "slug": "saxagliptin",
+        "name": "Saxagliptin",
+        "url": "/salt/saxagliptin/3046"
+      }
+    ]
+  },
+  "T": {
+    "letter": "T",
+    "totalPages": 6,
+    "salts": [
+      {
+        "id": 3131,
+        "slug": "tacalcitol",
+        "name": "Tacalcitol",
+        "url": "/salt/tacalcitol/3131"
+      },
+      {
+        "id": 6226,
+        "slug": "tadalafil",
+        "name": "Tadalafil",
+        "url": "/salt/tadalafil/6226"
+      },
+      {
+        "id": 44,
+        "slug": "tadalafil-tamsulosin",
+        "name": "Tadalafil + Tamsulosin",
+        "url": "/salt/tadalafil-tamsulosin/44"
+      },
+      {
+        "id": 3132,
+        "slug": "tafamidis",
+        "name": "Tafamidis",
+        "url": "/salt/tafamidis/3132"
+      },
+      {
+        "id": 3138,
+        "slug": "tafluprost",
+        "name": "Tafluprost",
+        "url": "/salt/tafluprost/3138"
+      },
+      {
+        "id": 3143,
+        "slug": "tamoxifen",
+        "name": "Tamoxifen",
+        "url": "/salt/tamoxifen/3143"
+      },
+      {
+        "id": 3139,
+        "slug": "tamsulosin",
+        "name": "Tamsulosin",
+        "url": "/salt/tamsulosin/3139"
+      },
+      {
+        "id": 3144,
+        "slug": "tamsulosin-tolterodine",
+        "name": "Tamsulosin + Tolterodine",
+        "url": "/salt/tamsulosin-tolterodine/3144"
+      },
+      {
+        "id": 3140,
+        "slug": "tapentadol",
+        "name": "Tapentadol",
+        "url": "/salt/tapentadol/3140"
+      },
+      {
+        "id": 3145,
+        "slug": "tazarotene",
+        "name": "Tazarotene",
+        "url": "/salt/tazarotene/3145"
+      },
+      {
+        "id": 3141,
+        "slug": "tedizolid-phosphate",
+        "name": "Tedizolid Phosphate",
+        "url": "/salt/tedizolid-phosphate/3141"
+      },
+      {
+        "id": 3146,
+        "slug": "tegafur-uracil",
+        "name": "Tegafur + Uracil",
+        "url": "/salt/tegafur-uracil/3146"
+      },
+      {
+        "id": 3142,
+        "slug": "tegaserod",
+        "name": "Tegaserod",
+        "url": "/salt/tegaserod/3142"
+      },
+      {
+        "id": 3147,
+        "slug": "teicoplanin",
+        "name": "Teicoplanin",
+        "url": "/salt/teicoplanin/3147"
+      },
+      {
+        "id": 3148,
+        "slug": "telbivudine",
+        "name": "Telbivudine",
+        "url": "/salt/telbivudine/3148"
+      },
+      {
+        "id": 3153,
+        "slug": "telmisartan",
+        "name": "Telmisartan",
+        "url": "/salt/telmisartan/3153"
+      },
+      {
+        "id": 3149,
+        "slug": "temozolomide",
+        "name": "Temozolomide",
+        "url": "/salt/temozolomide/3149"
+      },
+      {
+        "id": 3154,
+        "slug": "temsirolimus",
+        "name": "Temsirolimus",
+        "url": "/salt/temsirolimus/3154"
+      },
+      {
+        "id": 3150,
+        "slug": "tenecteplase",
+        "name": "Tenecteplase",
+        "url": "/salt/tenecteplase/3150"
+      },
+      {
+        "id": 3155,
+        "slug": "teneligliptin",
+        "name": "Teneligliptin",
+        "url": "/salt/teneligliptin/3155"
+      },
+      {
+        "id": 3151,
+        "slug": "tenofovir-alafenamide",
+        "name": "Tenofovir Alafenamide",
+        "url": "/salt/tenofovir-alafenamide/3151"
+      },
+      {
+        "id": 3156,
+        "slug": "tenofovir-disoproxil-fumarate",
+        "name": "Tenofovir disoproxil fumarate",
+        "url": "/salt/tenofovir-disoproxil-fumarate/3156"
+      },
+      {
+        "id": 3152,
+        "slug": "tenoxicam",
+        "name": "Tenoxicam",
+        "url": "/salt/tenoxicam/3152"
+      },
+      {
+        "id": 3157,
+        "slug": "tepotinib",
+        "name": "Tepotinib",
+        "url": "/salt/tepotinib/3157"
+      }
+    ]
+  },
+  "U": {
+    "letter": "U",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 3265,
+        "slug": "udenafil",
+        "name": "Udenafil",
+        "url": "/salt/udenafil/3265"
+      },
+      {
+        "id": 3256,
+        "slug": "ulinastatin",
+        "name": "Ulinastatin",
+        "url": "/salt/ulinastatin/3256"
+      },
+      {
+        "id": 3266,
+        "slug": "ulipristal-acetate",
+        "name": "Ulipristal acetate",
+        "url": "/salt/ulipristal-acetate/3266"
+      },
+      {
+        "id": 401,
+        "slug": "uniflexin",
+        "name": "Uniflexin",
+        "url": "/salt/uniflexin/401"
+      },
+      {
+        "id": 3224,
+        "slug": "univestin",
+        "name": "Univestin",
+        "url": "/salt/univestin/3224"
+      },
+      {
+        "id": 3267,
+        "slug": "urea",
+        "name": "Urea",
+        "url": "/salt/urea/3267"
+      },
+      {
+        "id": 3272,
+        "slug": "urofollitropin",
+        "name": "Urofollitropin",
+        "url": "/salt/urofollitropin/3272"
+      },
+      {
+        "id": 3268,
+        "slug": "urokinase",
+        "name": "Urokinase",
+        "url": "/salt/urokinase/3268"
+      },
+      {
+        "id": 3273,
+        "slug": "ursodeoxycholic-acid-ursodiol-",
+        "name": "Ursodeoxycholic Acid (Ursodiol)",
+        "url": "/salt/ursodeoxycholic-acid-ursodiol-/3273"
+      }
+    ]
+  },
+  "V": {
+    "letter": "V",
+    "totalPages": 3,
+    "salts": [
+      {
+        "id": 3269,
+        "slug": "valacyclovir",
+        "name": "Valacyclovir",
+        "url": "/salt/valacyclovir/3269"
+      },
+      {
+        "id": 3274,
+        "slug": "valdecoxib",
+        "name": "Valdecoxib",
+        "url": "/salt/valdecoxib/3274"
+      },
+      {
+        "id": 3270,
+        "slug": "valethamate",
+        "name": "Valethamate",
+        "url": "/salt/valethamate/3270"
+      },
+      {
+        "id": 3275,
+        "slug": "valganciclovir",
+        "name": "Valganciclovir",
+        "url": "/salt/valganciclovir/3275"
+      },
+      {
+        "id": 3271,
+        "slug": "valsartan",
+        "name": "Valsartan",
+        "url": "/salt/valsartan/3271"
+      },
+      {
+        "id": 3277,
+        "slug": "vancomycin",
+        "name": "Vancomycin",
+        "url": "/salt/vancomycin/3277"
+      },
+      {
+        "id": 3276,
+        "slug": "vandetanib",
+        "name": "Vandetanib",
+        "url": "/salt/vandetanib/3276"
+      },
+      {
+        "id": 3278,
+        "slug": "vardenafil",
+        "name": "Vardenafil",
+        "url": "/salt/vardenafil/3278"
+      },
+      {
+        "id": 3281,
+        "slug": "varenicline",
+        "name": "Varenicline",
+        "url": "/salt/varenicline/3281"
+      },
+      {
+        "id": 3279,
+        "slug": "varicella-vaccine",
+        "name": "Varicella Vaccine",
+        "url": "/salt/varicella-vaccine/3279"
+      },
+      {
+        "id": 7365,
+        "slug": "varicella-vaccine-1350pfu",
+        "name": "Varicella Vaccine 1350PFU",
+        "url": "/salt/varicella-vaccine-1350pfu/7365"
+      },
+      {
+        "id": 3282,
+        "slug": "vasopressin",
+        "name": "Vasopressin",
+        "url": "/salt/vasopressin/3282"
+      },
+      {
+        "id": 3280,
+        "slug": "vecuronium",
+        "name": "Vecuronium",
+        "url": "/salt/vecuronium/3280"
+      },
+      {
+        "id": 3283,
+        "slug": "vedolizumab",
+        "name": "Vedolizumab",
+        "url": "/salt/vedolizumab/3283"
+      },
+      {
+        "id": 3286,
+        "slug": "venlafaxine",
+        "name": "Venlafaxine",
+        "url": "/salt/venlafaxine/3286"
+      },
+      {
+        "id": 3284,
+        "slug": "verapamil",
+        "name": "Verapamil",
+        "url": "/salt/verapamil/3284"
+      },
+      {
+        "id": 3287,
+        "slug": "vericiguat",
+        "name": "Vericiguat",
+        "url": "/salt/vericiguat/3287"
+      },
+      {
+        "id": 3285,
+        "slug": "verteporfin",
+        "name": "Verteporfin",
+        "url": "/salt/verteporfin/3285"
+      },
+      {
+        "id": 3288,
+        "slug": "vi-capsular-polysaccharide-of-salmonella-typhi",
+        "name": "Vi Capsular Polysaccharide Of Salmonella Typhi",
+        "url": "/salt/vi-capsular-polysaccharide-of-salmonella-typhi/3288"
+      },
+      {
+        "id": 3291,
+        "slug": "vigabatrin",
+        "name": "Vigabatrin",
+        "url": "/salt/vigabatrin/3291"
+      },
+      {
+        "id": 3289,
+        "slug": "vilanterol-fluticasone-furoate-glycopyrronium",
+        "name": "Vilanterol + Fluticasone Furoate + Glycopyrronium",
+        "url": "/salt/vilanterol-fluticasone-furoate-glycopyrronium/3289"
+      },
+      {
+        "id": 3292,
+        "slug": "vilazodone",
+        "name": "Vilazodone",
+        "url": "/salt/vilazodone/3292"
+      },
+      {
+        "id": 3290,
+        "slug": "vildagliptin",
+        "name": "Vildagliptin",
+        "url": "/salt/vildagliptin/3290"
+      },
+      {
+        "id": 3293,
+        "slug": "vinblastine",
+        "name": "Vinblastine",
+        "url": "/salt/vinblastine/3293"
+      }
+    ]
+  },
+  "W": {
+    "letter": "W",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 3322,
+        "slug": "warfarin",
+        "name": "Warfarin",
+        "url": "/salt/warfarin/3322"
+      },
+      {
+        "id": 3318,
+        "slug": "whole-virion-inactivated-corona-virus-vaccine",
+        "name": "Whole Virion, Inactivated Corona Virus vaccine",
+        "url": "/salt/whole-virion-inactivated-corona-virus-vaccine/3318"
+      }
+    ]
+  },
+  "X": {
+    "letter": "X",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 3323,
+        "slug": "xantinol-nicotinate",
+        "name": "Xantinol Nicotinate",
+        "url": "/salt/xantinol-nicotinate/3323"
+      },
+      {
+        "id": 3319,
+        "slug": "xipamide",
+        "name": "Xipamide",
+        "url": "/salt/xipamide/3319"
+      },
+      {
+        "id": 3324,
+        "slug": "xylitol",
+        "name": "Xylitol",
+        "url": "/salt/xylitol/3324"
+      },
+      {
+        "id": 3320,
+        "slug": "xylometazoline",
+        "name": "Xylometazoline",
+        "url": "/salt/xylometazoline/3320"
+      }
+    ]
+  },
+  "Y": {
+    "letter": "Y",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 3321,
+        "slug": "yellow-fever-virus",
+        "name": "Yellow fever virus",
+        "url": "/salt/yellow-fever-virus/3321"
+      }
+    ]
+  },
+  "Z": {
+    "letter": "Z",
+    "totalPages": 1,
+    "salts": [
+      {
+        "id": 3326,
+        "slug": "zafirlukast",
+        "name": "Zafirlukast",
+        "url": "/salt/zafirlukast/3326"
+      },
+      {
+        "id": 3327,
+        "slug": "zaleplon",
+        "name": "Zaleplon",
+        "url": "/salt/zaleplon/3327"
+      },
+      {
+        "id": 3333,
+        "slug": "zaltoprofen",
+        "name": "Zaltoprofen",
+        "url": "/salt/zaltoprofen/3333"
+      },
+      {
+        "id": 3328,
+        "slug": "zidovudine",
+        "name": "Zidovudine",
+        "url": "/salt/zidovudine/3328"
+      },
+      {
+        "id": 3334,
+        "slug": "zileuton",
+        "name": "Zileuton",
+        "url": "/salt/zileuton/3334"
+      },
+      {
+        "id": 3335,
+        "slug": "zinc-bisglycinate",
+        "name": "Zinc Bisglycinate",
+        "url": "/salt/zinc-bisglycinate/3335"
+      },
+      {
+        "id": 3330,
+        "slug": "zinc-carnosine",
+        "name": "Zinc Carnosine",
+        "url": "/salt/zinc-carnosine/3330"
+      },
+      {
+        "id": 3336,
+        "slug": "zinc-chloride",
+        "name": "Zinc Chloride",
+        "url": "/salt/zinc-chloride/3336"
+      },
+      {
+        "id": 3329,
+        "slug": "zinc-cloride",
+        "name": "Zinc cloride",
+        "url": "/salt/zinc-cloride/3329"
+      },
+      {
+        "id": 3331,
+        "slug": "zinc-sulfate",
+        "name": "Zinc Sulfate",
+        "url": "/salt/zinc-sulfate/3331"
+      },
+      {
+        "id": 3337,
+        "slug": "ziprasidone",
+        "name": "Ziprasidone",
+        "url": "/salt/ziprasidone/3337"
+      },
+      {
+        "id": 3332,
+        "slug": "zoledronic-acid",
+        "name": "Zoledronic acid",
+        "url": "/salt/zoledronic-acid/3332"
+      },
+      {
+        "id": 3338,
+        "slug": "zolmitriptan",
+        "name": "Zolmitriptan",
+        "url": "/salt/zolmitriptan/3338"
+      },
+      {
+        "id": 3339,
+        "slug": "zolpidem",
+        "name": "Zolpidem",
+        "url": "/salt/zolpidem/3339"
+      },
+      {
+        "id": 3342,
+        "slug": "zonisamide",
+        "name": "Zonisamide",
+        "url": "/salt/zonisamide/3342"
+      },
+      {
+        "id": 3340,
+        "slug": "zopiclone",
+        "name": "Zopiclone",
+        "url": "/salt/zopiclone/3340"
+      },
+      {
+        "id": 3343,
+        "slug": "zotepine",
+        "name": "Zotepine",
+        "url": "/salt/zotepine/3343"
+      },
+      {
+        "id": 3341,
+        "slug": "zuclopenthixol",
+        "name": "Zuclopenthixol",
+        "url": "/salt/zuclopenthixol/3341"
+      }
+    ]
+  }
+}

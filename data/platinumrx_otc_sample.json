@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "a1mol-650-tablet",
+    "id": "1414751",
+    "name": "A1mol 650 Tablet",
+    "manufacturer": "Vinnana Care LLP",
+    "price": 29,
+    "packageSize": "Strip of 15 tablets",
+    "image": "https://platinumrx.gumlet.io/meds-prescription/b9163b5b-40fa-4d94-a961-5325f3fd0fcd_wm.png?w=640&amp;q=80"
+  },
+  {
+    "slug": "a2best-protein-chocolate-sugar-free-powder-200gm",
+    "id": "1247000",
+    "name": "A2Best Protein Chocolate Sugar Free Powder 200gm",
+    "manufacturer": "Arrient Healthcare Pvt. Ltd.",
+    "price": 458,
+    "packageSize": "Jar of 200 gm",
+    "image": "https://platinumrx.gumlet.io/meds-prescription/ee8bb10f-b66f-45fa-b79f-4137e843e21d_wm.jpeg?w=640&amp;q=80"
+  },
+  {
+    "slug": "a2-lite-skin-lightening-brightening-20gm-each-cream-2-tube",
+    "id": "1150876",
+    "name": "A2 Lite Skin Lightening &amp; Brightening (20gm Each) Cream 2 Tube",
+    "manufacturer": "Ethicare Remedies",
+    "price": 1,
+    "packageSize": "Tube of 2 Tubes",
+    "image": "https://platinumrx.gumlet.io/meds-prescription/6b6546d4-fded-4ba8-bb64-edd6259d052a_wm.png?w=640&amp;q=80"
+  },
+  {
+    "slug": "aacal-d3-tablet-15s",
+    "id": "1601376",
+    "name": "Aacal D3 Tablet 15s",
+    "manufacturer": "Aarushi Healthcare Pvt. Ltd.",
+    "price": 104,
+    "packageSize": "Strip of 15 tablets",
+    "image": "https://platinumrx.gumlet.io/meds-prescription/ef0b5046-aa05-49e0-b15e-2a93f0d63842_wm.png?w=640&amp;q=80"
+  },
+  {
+    "slug": "aachman-veda-a-perfect-weight-management-b-trim-500mg-capsule-60-each-1-bottle",
+    "id": "1601377",
+    "name": "Aachman Veda A Perfect Weight Management B-Trim 500mg Capsule (60 Each) 1 Bottle",
+    "manufacturer": "Aachman Veda",
+    "price": 468,
+    "packageSize": "Bottle of 60 capsules",
+    "image": "https://platinumrx.gumlet.io/meds-prescription/e83e9932-4fdb-4b42-a787-5c36dbfb309f_wm.png?w=640&amp;q=80"
+  },
+  {
+    "slug": "aachman-veda-garcinia-cambogia-500mg-60-hca-weight-loss-capsule-60-each-1-bottle",
+    "id": "1601398",
+    "name": "Aachman Veda Garcinia Cambogia 500mg 60% HCA Weight Loss Capsule (60 Each) 1 Bottle",
+    "manufacturer": "Aachman Veda",
+    "price": 764,
+    "packageSize": "Bottle of 60 capsules",
+    "image": "https://platinumrx.gumlet.io/meds-prescription/61857e1e-76bb-4237-a9a5-a38fe7af1e6f_wm.png?w=640&amp;q=80"
+  },
+  {
+    "slug": "aagnil-20-400mg-syrup-170ml",
+    "id": "1050967",
+    "name": "Aagnil 20/400mg Syrup 170ml",
+    "manufacturer": "Haledew Remedies",
+    "price": 49,
+    "packageSize": "Bottle of 170 ml",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "aamee-1-capsule",
+    "id": "1601529",
+    "name": "Aamee -1 Capsule",
+    "manufacturer": "Bioplasma Immunological Research Pvt. Ltd.",
+    "price": 135,
+    "packageSize": "Strip of 10 capsules",
+    "image": "https://platinumrx.gumlet.io/meds-prescription/f86f606b-b2fe-4f60-a548-7fbaab04546e_wm.jpeg?w=640&amp;q=80"
+  },
+  {
+    "slug": "aanid-5-lotion-100ml",
+    "id": "1327922",
+    "name": "Aanid 5% Lotion 100ml",
+    "manufacturer": "Aan Pharma Pvt. Ltd.",
+    "price": 58,
+    "packageSize": "Bottle of 100 ml",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "aanid-5-ointment-15gm",
+    "id": "1124115",
+    "name": "Aanid 5% Ointment 15gm",
+    "manufacturer": "Aan Pharma Pvt. Ltd.",
+    "price": 24,
+    "packageSize": "Tube of 15 gm",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "aarcid-20-400mg-syrup-170ml",
+    "id": "1353587",
+    "name": "Aarcid 20/400mg Syrup 170ml",
+    "manufacturer": "Aarcin Pharmaceutical LLP",
+    "price": 70,
+    "packageSize": "Bottle of 170 ml",
+    "image": "https://platinumrx.gumlet.io/assets/default_image.jpg?w=640&amp;q=80"
+  },
+  {
+    "slug": "aarin-orange-sachet-5gm",
+    "id": "1834009",
+    "name": "Aarin Orange Sachet 5gm",
+    "manufacturer": "British Life Sciences",
+    "price": 49,
+    "packageSize": "Pack of 5 gm",
+    "image": "https://platinumrx.gumlet.io/meds-prescription/80077b53-f2a7-4134-b64a-6583842524ba_cs_wm.jpeg?w=640&amp;q=80"
+  }
+]

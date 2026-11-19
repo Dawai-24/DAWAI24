@@ -1,0 +1,90 @@
+{
+  "page": "blogs",
+  "totalPages": 1,
+  "items": [
+    {
+      "@type": "ListItem",
+      "position": "1",
+      "url": "https://www.platinumrx.in/blogs/sumo-tablet-uses-benefits-dosage-side-effects",
+      "name": "Sumo Tablet: Uses, Benefits, Dosage & Side Effects",
+      "image": "https://plrx.gumlet.io/871aa43d-a2e8-4286-940c-ee00a95c5499.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "2",
+      "url": "https://www.platinumrx.in/blogs/grilinctus-syrup-uses",
+      "name": "Grilinctus Syrup: Uses, Composition, Side Effects & FAQs",
+      "image": "https://platinumrx.gumlet.io/meds-prescription/acb3d006-f8c1-48d7-9438-f31524f08e01.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "3",
+      "url": "https://www.platinumrx.in/blogs/udiliv-300-tablet-uses",
+      "name": "Udiliv 300 Tablet: Uses, Composition, Side Effects & FAQs",
+      "image": "https://platinumrx.gumlet.io/meds-prescription/faae82f3-185e-4944-b33d-bfc34f77ed68.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "4",
+      "url": "https://www.platinumrx.in/blogs/sea-buckthorn-juice-benefits-in-hindi",
+      "name": "Sea Buckthorn Juice Benefits in Hindi: सी बकथॉर्न जूस के फायदे हिंदी में",
+      "image": "https://plrx.gumlet.io/946b16ab-9e89-48c8-ba76-52dfc6515dca.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "5",
+      "url": "https://www.platinumrx.in/blogs/bandy-plus-tablet",
+      "name": "What is Bandy Plus Tablet: Uses, Composition & Safety",
+      "image": "https://plrx.gumlet.io/41c4d942-a2c2-4011-9824-1e0df0ed4d0b.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "6",
+      "url": "https://www.platinumrx.in/blogs/ciplox-500-uses",
+      "name": "Ciplox 500: Uses, Benefits, Dosage and Side Effects",
+      "image": "https://plrx.gumlet.io/077074a6-6b1f-447f-a271-5620e007681e.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "7",
+      "url": "https://www.platinumrx.in/blogs/t-bact-ointment-uses",
+      "name": "T-Bact 2% Ointment: View Uses, Side Effects and How to Apply",
+      "image": "https://plrx.gumlet.io/837794bd-ff43-4f97-b04f-0a328d3bac73.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "8",
+      "url": "https://www.platinumrx.in/blogs/5-uses-benefits-pulmoclear-tablet",
+      "name": "5 Uses and Benefits of Pulmoclear Tablet",
+      "image": "https://plrx.gumlet.io/4ee64b35-2577-4433-9a45-4b496a452a8e.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "9",
+      "url": "https://www.platinumrx.in/blogs/tazloc-40-tablet-uses-benefits-side-effects",
+      "name": "Tazloc 40 Tablet: Uses, Composition, Side Effects & FAQs",
+      "image": "https://plrx.gumlet.io/e45f0b3c-9b15-4c11-934a-daedb90247d6.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "10",
+      "url": "https://www.platinumrx.in/blogs/febustat-40-tablet-uses-benefits-side-effects",
+      "name": "Febustat 40 Tablet: Uses, Dosage, Side Effects & FAQs",
+      "image": "https://plrx.gumlet.io/352d706b-d288-40e5-90b4-4c453235ebf3.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "11",
+      "url": "https://www.platinumrx.in/blogs/azithral-500-tablet-uses-benefits-side-effects",
+      "name": "Azithral 500 Tablet: Uses, Composition, Side Effects & FAQs",
+      "image": "https://plrx.gumlet.io/9c56c74e-e562-4aee-bb8d-db385f6c9573.png"
+    },
+    {
+      "@type": "ListItem",
+      "position": "12",
+      "url": "https://www.platinumrx.in/blogs/almox-500-tablet-uses",
+      "name": "Almox 500 Capsule: Uses, Composition, Side Effects & FAQs",
+      "image": "https://plrx.gumlet.io/3400f406-9c52-44d9-9a9b-c2b6c646dfd3.png"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Frequently Asked Questions – PlatinumRx",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is meant by generic medicines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    Generic medicines are medicines that have the same active ingredients, strength and effectiveness as branded medicines but are sold under their chemical name, usually at a lower price."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is online medicine delivery safe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    Yes. At PlatinumRx, we ensure that every medicine is authentic, temperature-controlled and securely packed, making online medicine delivery as safe as buying from a local pharmacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between branded and generic medicine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    Both are equally effective. Branded medicines are marketed under a company's name, while generic medicines contain the same ingredients at more affordable prices. They are available in most generic medicine stores and online medicine delivery apps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is PlatinumRx able to offer medicines at competitive prices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    PlatinumRx ensures affordability by sourcing medicines directly from manufacturers, thereby eliminating the need for middlemen. Additionally, it offers high-quality generic medicines from leading brands, enabling customers to access the same trusted formulations at a more budget-friendly rate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find generic medicine near me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    You can simply search for your prescribed medicine in the app search bar. PlatinumRx automatically suggests substitutes approved by regulators to make ordering generic medicines online easier."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it safe to buy generic medicine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    Yes, generic medicines are clinically approved, prescribed by doctors and widely used and available at generic medicine stores and online medicine delivery apps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I do real-time tracking if I order medicine online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    Yes, PlatinumRx provides live tracking so you can follow your online medicine order until it reaches your doorstep."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does delivery take if I order medicine online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    Most of the medicine orders are delivered within 24 to 72 hours. However, the delivery time depends on your location and product availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does PlatinumRx provide home delivery of medicines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    Yes. When you order medicine online with PlatinumRx, we commit to a safe doorstep delivery of your medicine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order medicine online on Cash on Delivery from PlatinumRx?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    Yes. You can avail cash on delivery for most of your orders for free medicine delivery with PlatinumRx."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a substitute in medicine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\n    A substitute is a generic or alternative medicine with the same active ingredients as a branded one, ensuring the same treatment outcome at a lower cost."
+      }
+    }
+  ]
+}

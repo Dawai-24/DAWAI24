@@ -1,0 +1,219 @@
+{
+  "categories": [
+    {
+      "label": "Personal Care",
+      "iconUrl": "https://cdn.platinumrx.in/meds-prescription/8453c327-01b2-47c7-8017-0631b7356663.png",
+      "actionUrl": "https://www.platinumrx.in/category/personal-care",
+      "subcategories": [
+        {
+          "label": "Baby And Mom Care",
+          "query": "Personal Care/Baby And Mom Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/1eb0b1a9-acc4-4d24-802f-762973724c8e.png",
+          "actionUrl": "https://www.platinumrx.in/category/personal-care/baby-and-mom-care"
+        },
+        {
+          "label": "Bone And Joint",
+          "query": "Personal Care/Bone And Joint",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/b0c75c2e-bb4d-4f53-801d-0c740e4f402f.png",
+          "actionUrl": "https://www.platinumrx.in/category/personal-care/bone-and-joint"
+        },
+        {
+          "label": "Cough And Cold",
+          "query": "Personal Care/Cough And Cold",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/8dbde586-daaf-4ac2-baee-db9452b8fe15.png",
+          "actionUrl": "https://www.platinumrx.in/category/personal-care/cough-and-cold"
+        },
+        {
+          "label": "Hair Care",
+          "query": "Personal Care/Hair Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/035f5e37-803a-47f2-91d1-c9e1067a7d11.png",
+          "actionUrl": "https://www.platinumrx.in/category/personal-care/hair-care"
+        },
+        {
+          "label": "Sexual Wellness",
+          "query": "Personal Care/Sexual Wellness",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/33dfa29e-1878-4296-8066-52a5ece6f8a1.png",
+          "actionUrl": "https://www.platinumrx.in/category/personal-care/sexual-wellness"
+        },
+        {
+          "label": "Body Care",
+          "query": "Personal Care/Body Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/a6f301b4-40ae-48d5-9570-ce2cb62bea37.png",
+          "actionUrl": "https://www.platinumrx.in/category/personal-care/body-care"
+        },
+        {
+          "label": "Skin Care",
+          "query": "Personal Care/Skin Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/d9fd7638-985b-43e7-b077-c12158bd302c.png",
+          "actionUrl": "https://www.platinumrx.in/category/personal-care/skin-care"
+        },
+        {
+          "label": "Miscellaneous",
+          "query": "Personal Care/Miscellaneous",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/cbcf0677-efed-450b-8255-b08bfad65d28.png",
+          "actionUrl": "https://www.platinumrx.in/category/personal-care/miscellaneous"
+        }
+      ]
+    },
+    {
+      "label": "Health Conditions",
+      "iconUrl": "https://cdn.platinumrx.in/meds-prescription/28f3b81c-30c1-46b2-b0ed-ba92ca5d542b.png",
+      "actionUrl": "https://www.platinumrx.in/category/health-conditions",
+      "subcategories": [
+        {
+          "label": "Digestive Care",
+          "query": "Health Conditions/Digestive Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/b4ffaef9-e84b-43e1-b6cd-aa25d55a5978.png",
+          "actionUrl": "https://www.platinumrx.in/category/health-conditions/digestive-care"
+        },
+        {
+          "label": "Pain Relief",
+          "query": "Health Conditions/Pain Relief",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/3be5a1a2-15d1-4c80-a1b0-deb5a5c0181f.png",
+          "actionUrl": "https://www.platinumrx.in/category/health-conditions/pain-relief"
+        },
+        {
+          "label": "Respiratory Care",
+          "query": "Health Conditions/Respiratory Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/d8ecd1a3-c654-4e39-8716-6c6c54ea05dd.png",
+          "actionUrl": "https://www.platinumrx.in/category/health-conditions/respiratory-care"
+        },
+        {
+          "label": "Stomach Care",
+          "query": "Health Conditions/Stomach Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/063e6608-31a5-4ccd-809a-58d56529c117.png",
+          "actionUrl": "https://www.platinumrx.in/category/health-conditions/stomach-care"
+        },
+        {
+          "label": "Kidney Care",
+          "query": "Health Conditions/Kidney Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/f107545f-7f6c-4047-a86f-918598b5940b.png",
+          "actionUrl": "https://www.platinumrx.in/category/health-conditions/kidney-care"
+        },
+        {
+          "label": "Liver Care",
+          "query": "Health Conditions/Liver Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/12785ed3-6a34-48d8-9597-19b515518d33.png",
+          "actionUrl": "https://www.platinumrx.in/category/health-conditions/liver-care"
+        },
+        {
+          "label": "Eye Care",
+          "query": "Health Conditions/Eye Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/a1cd1854-c5d6-4743-909b-fa824c55e543.png",
+          "actionUrl": "https://www.platinumrx.in/category/health-conditions/eye-care"
+        }
+      ]
+    },
+    {
+      "label": "Diabetes And Heart Care",
+      "iconUrl": "https://cdn.platinumrx.in/meds-prescription/017d2163-9ea7-421b-b01b-587be7efe5b8.png",
+      "actionUrl": "https://www.platinumrx.in/category/diabetes-and-heart-care",
+      "subcategories": [
+        {
+          "label": "Sugar Substitutes",
+          "query": "Diabetes And Heart Care/Sugar Substitutes",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/99b2a7ae-782d-44df-8693-4819b6d2927c.png",
+          "actionUrl": "https://www.platinumrx.in/category/diabetes-and-heart-care/sugar-substitutes"
+        },
+        {
+          "label": "Insulin Care",
+          "query": "Diabetes And Heart Care/Insulin Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/17e4f3f5-6383-435e-bcb2-94156d0e71d0.png",
+          "actionUrl": "https://www.platinumrx.in/category/diabetes-and-heart-care/insulin-care"
+        },
+        {
+          "label": "Nutrition & Diet Drinks",
+          "query": "Diabetes And Heart Care/Nutrition & Diet Drinks",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/9349e88a-92f2-44aa-90f2-1e2b2a52a3fe.png",
+          "actionUrl": "https://www.platinumrx.in/category/diabetes-and-heart-care/nutrition-&-diet-drinks"
+        },
+        {
+          "label": "Heart Health",
+          "query": "Diabetes And Heart Care/Heart Health",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/45678e03-06f9-4cbd-bcfb-bbde5c517ee1.png",
+          "actionUrl": "https://www.platinumrx.in/category/diabetes-and-heart-care/heart-health"
+        }
+      ]
+    },
+    {
+      "label": "Healthcare Devices",
+      "iconUrl": "https://cdn.platinumrx.in/meds-prescription/45c6d577-62ad-4ad8-af15-3ed7491e2049.png",
+      "actionUrl": "https://www.platinumrx.in/category/healthcare-devices",
+      "subcategories": [
+        {
+          "label": "BP Monitors",
+          "query": "Healthcare Devices/BP Monitors",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/f6e64749-c5c4-450c-ad52-9cb68e660bc3.png",
+          "actionUrl": "https://www.platinumrx.in/category/healthcare-devices/bp-monitors"
+        },
+        {
+          "label": "Nebulizers And Vaporizers",
+          "query": "Healthcare Devices/Nebulizers And Vaporizers",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/343d39c2-e20b-437b-a46e-f6af25cd1e90.png",
+          "actionUrl": "https://www.platinumrx.in/category/healthcare-devices/nebulizers-and-vaporizers"
+        },
+        {
+          "label": "Supports And Braces",
+          "query": "Healthcare Devices/Supports And Braces",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/8f8f8592-334d-4301-b7b5-69866c0904ae.png",
+          "actionUrl": "https://www.platinumrx.in/category/healthcare-devices/supports-and-braces"
+        }
+      ]
+    },
+    {
+      "label": "Vitamins And Supplements",
+      "iconUrl": "https://cdn.platinumrx.in/meds-prescription/e5444704-e0f8-429b-bbed-b54004c9eb45.png",
+      "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements",
+      "subcategories": [
+        {
+          "label": "Baby And Mom Care",
+          "query": "Vitamins And Supplements/Baby And Mom Care",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/1eb0b1a9-acc4-4d24-802f-762973724c8e.png",
+          "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements/baby-and-mom-care"
+        },
+        {
+          "label": "Calcium And Minerals",
+          "query": "Vitamins And Supplements/Calcium And Minerals",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/c5900f55-2916-4899-8d86-31adaa55edaa.png",
+          "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements/calcium-and-minerals"
+        },
+        {
+          "label": "Supplement Powder",
+          "query": "Vitamins And Supplements/Supplement Powder",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/1f4ef3b0-c66c-4dcb-b34c-d63f3bb64ecc.png",
+          "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements/supplement-powder"
+        },
+        {
+          "label": "Vitamin A To Z",
+          "query": "Vitamins And Supplements/Vitamin A To Z",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/c385bbef-b7a7-4571-8f21-3cce93ea9fab.png",
+          "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements/vitamin-a-to-z"
+        },
+        {
+          "label": "Vitamin B12 And Complex",
+          "query": "Vitamins And Supplements/Vitamin B12 And Complex",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/e44578c3-fd90-42c2-963c-445b3381ee5e.png",
+          "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements/vitamin-b12-and-complex"
+        },
+        {
+          "label": "Minerals Supplements",
+          "query": "Vitamins And Supplements/Minerals Supplements",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/d6fbd29f-9ed1-4856-92f4-67fdce58e0a5.png",
+          "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements/minerals-supplements"
+        },
+        {
+          "label": "Protein Supplements",
+          "query": "Vitamins And Supplements/Protein Supplements",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/c4217999-5fe7-41a0-8ed6-84b992a524c3.png",
+          "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements/protein-supplements"
+        },
+        {
+          "label": "Bone Health",
+          "query": "Vitamins And Supplements/Bone Health",
+          "iconUrl": "https://cdn.platinumrx.in/meds-prescription/0dab54aa-bc3a-4358-9834-adc669246064.png",
+          "actionUrl": "https://www.platinumrx.in/category/vitamins-and-supplements/bone-health"
+        }
+      ]
+    }
+  ]
+}
