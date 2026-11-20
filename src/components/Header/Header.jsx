@@ -92,10 +92,8 @@ export default function Header() {
             </button>
           </div>
 
-          {/* Center search bar (Desktop) */}
-          <div className="hidden md:flex flex-1 max-w-[520px] mx-2 lg:mx-6">
-            <SearchBox className="w-full" />
-          </div>
+          {/* Spacer */}
+          <div className="flex-1" />
 
           {/* Right section: Wallet, Cart, Login */}
           <div className="flex items-center gap-2 sm:gap-3 shrink-0">
