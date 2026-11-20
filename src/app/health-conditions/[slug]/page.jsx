@@ -30,14 +30,14 @@ export default async function ConditionPage({ params }) {
   const cats = map[slug] || [];
   const items = allProducts().filter((p) => cats.includes(p.category));
   return (
-    <>
+    <div className="container-x pb-16 space-y-4">
       <CategorySearchBar />
-      <Breadcrumbs items={[{ label: "Health Conditions", href: "/health-conditions" }, { label: h.name }]} />
-      <div className="container-x">
+      <Breadcrumbs className="!px-0 !py-1" items={[{ label: "Health Conditions", href: "/health-conditions" }, { label: h.name }]} />
+      <div>
         <h1 className="text-2xl font-bold mb-1">{h.name}</h1>
         <p className="text-sm text-slate-500 mb-4">Sample products grouped for this topic. Consult a doctor for medical advice.</p>
         <ProductListing products={items} />
       </div>
-    </>
+    </div>
   );
 }

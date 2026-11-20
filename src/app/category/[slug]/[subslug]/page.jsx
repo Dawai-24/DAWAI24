@@ -47,11 +47,13 @@ export default async function SubcategoryPage({ params }) {
   }
 
   return (
-    <>
-      {/* Category Top Search Bar */}
+    <div className="container-x pb-16 space-y-4">
+      {/* Search Bar - aligned inside container with other elements */}
       <CategorySearchBar />
 
+      {/* Breadcrumbs */}
       <Breadcrumbs
+        className="!px-0 !py-1"
         items={[
           { label: "Category", href: "/categories" },
           { label: parentName, href: `/category/${slug}` },
@@ -59,62 +61,58 @@ export default async function SubcategoryPage({ params }) {
         ]}
       />
 
-      <div className="container-x pb-16 space-y-6">
-        
-        {/* Category Header */}
-        <div className="space-y-3 pt-2">
-          <div className="flex flex-wrap items-baseline justify-between gap-2">
-            <div>
-              <h1 className="text-2xl sm:text-3xl font-black text-[#171725] tracking-tight">
-                {title}
-              </h1>
-              <p className="text-[13px] text-[#696974] mt-0.5">
-                In <span className="font-semibold text-[#171725]">{parentName}</span>
-              </p>
-            </div>
-            <span className="text-[13px] text-[#92929D] font-medium">
-              {prods.length} products available
-            </span>
+      {/* Category Header */}
+      <div className="space-y-3 pt-1">
+        <div className="flex flex-wrap items-baseline justify-between gap-2">
+          <div>
+            <h1 className="text-2xl sm:text-3xl font-black text-[#171725] tracking-tight">
+              {title}
+            </h1>
+            <p className="text-[13px] text-[#696974] mt-0.5">
+              In <span className="font-semibold text-[#171725]">{parentName}</span>
+            </p>
           </div>
-
-          {/* Sibling Subcategories Navigation Pills */}
-          {parentItems.length > 0 && (
-            <div className="flex flex-wrap items-center gap-2 pt-1 pb-2">
-              <Link
-                href={`/category/${slug}`}
-                className="px-4 py-1.5 rounded-full text-[13px] font-medium border border-[#E2E4E8] bg-white text-[#44444F] hover:bg-[#F0F2F5]"
-              >
-                All {parentName}
-              </Link>
-
-              {parentItems.map((item) => {
-                const isCur = item.slug === subslug;
-                return (
-                  <Link
-                    key={item.name}
-                    href={`/category/${slug}/${item.slug}`}
-                    className={`px-4 py-1.5 rounded-full text-[13px] font-semibold transition-all border ${
-                      isCur
-                        ? "bg-[#FF6B5A] text-white border-[#FF6B5A] shadow-xs"
-                        : "bg-white text-[#44444F] border-[#E2E4E8] hover:border-[#FF6B5A] hover:text-[#FF6B5A]"
-                    }`}
-                  >
-                    {item.name}
-                  </Link>
-                );
-              })}
-            </div>
-          )}
+          <span className="text-[13px] text-[#92929D] font-medium">
+            {prods.length} products available
+          </span>
         </div>
 
-        {/* Product Cards Grid & Filters */}
-        <ProductListing
-          key={`${slug}-${subslug}`}
-          products={prods}
-          emptyText={`No products currently available under ${title}.`}
-        />
+        {/* Sibling Subcategories Navigation Pills */}
+        {parentItems.length > 0 && (
+          <div className="flex flex-wrap items-center gap-2 pt-1 pb-2">
+            <Link
+              href={`/category/${slug}`}
+              className="px-4 py-1.5 rounded-full text-[13px] font-medium border border-[#E2E4E8] bg-white text-[#44444F] hover:bg-[#F0F2F5]"
+            >
+              All {parentName}
+            </Link>
 
+            {parentItems.map((item) => {
+              const isCur = item.slug === subslug;
+              return (
+                <Link
+                  key={item.name}
+                  href={`/category/${slug}/${item.slug}`}
+                  className={`px-4 py-1.5 rounded-full text-[13px] font-semibold transition-all border ${
+                    isCur
+                      ? "bg-[#FF6B5A] text-white border-[#FF6B5A] shadow-xs"
+                      : "bg-white text-[#44444F] border-[#E2E4E8] hover:border-[#FF6B5A] hover:text-[#FF6B5A]"
+                  }`}
+                >
+                  {item.name}
+                </Link>
+              );
+            })}
+          </div>
+        )}
       </div>
-    </>
+
+      {/* Product Cards Grid & Filters */}
+      <ProductListing
+        key={`${slug}-${subslug}`}
+        products={prods}
+        emptyText={`No products currently available under ${title}.`}
+      />
+    </div>
   );
 }

@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
 
-export default function Breadcrumbs({ items }) {
+export default function Breadcrumbs({ items, className = "" }) {
   return (
-    <nav aria-label="Breadcrumb" className="container-x py-3 text-sm text-slate-500">
+    <nav aria-label="Breadcrumb" className={`container-x py-3 text-sm text-slate-500 ${className}`}>
       <ol className="flex flex-wrap items-center gap-1">
         <li><Link href="/" className="hover:text-brand-700">Home</Link></li>
         {items.map((it, i) => (

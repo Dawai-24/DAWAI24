@@ -11,10 +11,10 @@ export const metadata = {
 
 export default function Categories() {
   return (
-    <>
+    <div className="container-x pb-16 space-y-6">
       <CategorySearchBar />
-      <Breadcrumbs items={[{ label: "All Categories" }]} />
-      <div className="container-x pb-16 space-y-8">
+      <Breadcrumbs className="!px-0 !py-1" items={[{ label: "All Categories" }]} />
+      <div className="space-y-8">
         <div>
           <h1 className="text-3xl font-black text-[#171725] tracking-tight">Health & Medicine Categories</h1>
           <p className="text-[14px] text-[#696974] mt-1">
@@ -68,6 +68,6 @@ export default function Categories() {
           ))}
         </div>
       </div>
-    </>
+    </div>
   );
 }
