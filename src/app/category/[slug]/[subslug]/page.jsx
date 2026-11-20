@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Breadcrumbs from "@/components/Common/Breadcrumbs";
 import ProductListing from "@/components/Products/ProductListing";
+import CategorySearchBar from "@/components/Common/CategorySearchBar";
 import { categoryTaxonomy, findCategoryOrSubcategory } from "@/data/platinumNav";
 import { byCategoryAndSubcategory, byCategory } from "@/lib/catalog";
 
@@ -47,9 +48,12 @@ export default async function SubcategoryPage({ params }) {
 
   return (
     <>
+      {/* Category Top Search Bar */}
+      <CategorySearchBar />
+
       <Breadcrumbs
         items={[
-          { label: "All Categories", href: "/categories" },
+          { label: "Category", href: "/categories" },
           { label: parentName, href: `/category/${slug}` },
           { label: title },
         ]}
@@ -57,7 +61,7 @@ export default async function SubcategoryPage({ params }) {
 
       <div className="container-x pb-16 space-y-6">
         
-        {/* Clean Header without big banner */}
+        {/* Category Header */}
         <div className="space-y-3 pt-2">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <div>

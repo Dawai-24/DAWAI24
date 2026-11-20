@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Breadcrumbs from "@/components/Common/Breadcrumbs";
+import CategorySearchBar from "@/components/Common/CategorySearchBar";
 import { categoryTaxonomy } from "@/data/platinumNav";
 import { ArrowRight } from "lucide-react";
 
@@ -11,6 +12,7 @@ export const metadata = {
 export default function Categories() {
   return (
     <>
+      <CategorySearchBar />
       <Breadcrumbs items={[{ label: "All Categories" }]} />
       <div className="container-x pb-16 space-y-8">
         <div>
@@ -55,11 +57,12 @@ export default function Categories() {
                 </ul>
               </div>
 
-              <Link
-                href={data.slug ? `/category/${data.slug}` : "/medicines"}
-                className="inline-flex items-center gap-1 text-[13px] font-bold text-[#FF6B5A] hover:underline pt-2 border-t border-[#F5F6F8]"
+              <Link 
+                href={`/category/${data.slug}`}
+                className="inline-flex items-center justify-between w-full pt-4 border-t border-[#F0F2F5] text-[13px] font-bold text-[#FF6B5A] hover:underline"
               >
-                Explore Category <ArrowRight size={14} />
+                <span>Explore all {title}</span>
+                <ArrowRight size={16} />
               </Link>
             </div>
           ))}

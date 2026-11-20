@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Breadcrumbs from "@/components/Common/Breadcrumbs";
 import ProductListing from "@/components/Products/ProductListing";
+import CategorySearchBar from "@/components/Common/CategorySearchBar";
 import { categoryTaxonomy, findCategoryOrSubcategory } from "@/data/platinumNav";
 import { getCategory, categories } from "@/data/categories";
 import { byCategory } from "@/lib/catalog";
@@ -45,16 +46,19 @@ export default async function CategoryPage({ params, searchParams }) {
 
   return (
     <>
+      {/* Category Top Search Bar */}
+      <CategorySearchBar />
+
       <Breadcrumbs 
         items={[
-          { label: "All Categories", href: "/categories" }, 
+          { label: "Category", href: "/categories" }, 
           { label: title }
         ]} 
       />
 
       <div className="container-x pb-16 space-y-6">
         
-        {/* Minimal Category Header without giant banner */}
+        {/* Minimal Category Header */}
         <div className="space-y-3 pt-2">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <h1 className="text-2xl sm:text-3xl font-black text-[#171725] tracking-tight">
@@ -102,9 +106,9 @@ export default async function CategoryPage({ params, searchParams }) {
 
         {/* Product Cards Grid & Filters */}
         <ProductListing
-          key={`${slug}-${subQuery || "all"}`}
+          key={slug}
           products={filteredProds}
-          emptyText={`No products found in ${title}. Check back soon for stock.`}
+          emptyText={`No products currently available under ${title}.`}
         />
 
       </div>

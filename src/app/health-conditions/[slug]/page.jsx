@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Breadcrumbs from "@/components/Common/Breadcrumbs";
 import ProductListing from "@/components/Products/ProductListing";
+import CategorySearchBar from "@/components/Common/CategorySearchBar";
 import { healthConditions } from "@/data/categories";
 import { allProducts } from "@/lib/catalog";
 
@@ -30,6 +31,7 @@ export default async function ConditionPage({ params }) {
   const items = allProducts().filter((p) => cats.includes(p.category));
   return (
     <>
+      <CategorySearchBar />
       <Breadcrumbs items={[{ label: "Health Conditions", href: "/health-conditions" }, { label: h.name }]} />
       <div className="container-x">
         <h1 className="text-2xl font-bold mb-1">{h.name}</h1>
