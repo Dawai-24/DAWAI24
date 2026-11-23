@@ -14,7 +14,7 @@ export default function PinModal({ onClose }) {
     e.preventDefault();
     if (!validPin(v)) return setErr("Enter a valid 6-digit PIN code");
     setPin(v);
-    toast(`Delivery PIN set to ${v} (demo)`);
+    toast(`Delivery PIN set to ${v}`);
     onClose();
   };
 
@@ -27,7 +27,7 @@ export default function PinModal({ onClose }) {
         </div>
         <input className={`input ${err ? "error" : ""}`} inputMode="numeric" maxLength={6} placeholder="6-digit PIN code" value={v} onChange={(e) => { setV(e.target.value.replace(/\D/g, "")); setErr(""); }} autoFocus />
         {err && <p className="field-error">{err}</p>}
-        <p className="text-xs text-slate-500 mt-2">Demo only: any valid 6-digit PIN is accepted.</p>
+        <p className="text-xs text-slate-500 mt-2">Enter your delivery area PIN code.</p>
         <button className="btn btn-primary w-full mt-4">Apply</button>
       </form>
     </div>

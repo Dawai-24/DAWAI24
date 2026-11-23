@@ -3,37 +3,17 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 
-const slides = [
-  {
-    id: 1,
-    title: "Dynapar QPS Plus Pain Relief Spray",
-    image: "/img/banner-1.png",
-    link: "/medicines",
-  },
-  {
-    id: 2,
-    title: "Friends Premium Adult Dry Diaper Pants",
-    image: "/img/banner-2.jpeg",
-    link: "/category/personal-care",
-  },
-  {
-    id: 3,
-    title: "All Day Re-Moisturising Cream",
-    image: "/img/banner-3.png",
-    link: "/category/personal-care",
-  },
-];
-
-export default function HomeBannerCarousel() {
+export default function HomeBannerCarousel({ slides = [] }) {
   const [current, setCurrent] = useState(0);
 
   useEffect(() => {
     const timer = setInterval(() => {
-      setCurrent((prev) => (prev + 1) % slides.length);
+      setCurrent((prev) => slides.length ? (prev + 1) % slides.length : 0);
     }, 4000);
     return () => clearInterval(timer);
   }, []);
 
+  if (!slides.length) return null;
   return (
     <section data-slot="banner-carousel" className="container-x py-4">
       <div className="relative">
@@ -44,9 +24,9 @@ export default function HomeBannerCarousel() {
           >
             {slides.map((s) => (
               <div key={s.id} className="min-w-full shrink-0 basis-full">
-                <Link href={s.link} className="relative block aspect-[2/1] sm:aspect-[2.8/1] md:aspect-[3.2/1] w-full overflow-hidden rounded-[20px] border border-[#E2E8F0] shadow-xs">
+                <Link href={s.linkUrl || "/"} className="relative block aspect-[2/1] sm:aspect-[2.8/1] md:aspect-[3.2/1] w-full overflow-hidden rounded-[20px] border border-[#E2E8F0] shadow-xs">
                   <img
-                    src={s.image}
+                    src={s.imageUrl}
                     alt={s.title}
                     className="h-full w-full object-cover"
                   />

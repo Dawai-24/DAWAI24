@@ -1,10 +1,1 @@
-import HealthConditionClient from "./HealthConditionClient";
-
-export const metadata = {
-  title: "Browse Medicines by Health Condition | PlatinumRx",
-  description: "Browse prescription and chronic medicines categorized by health condition. Find bioequivalent same-salt substitutes and save up to 70% with PlatinumRx.",
-};
-
-export default function HealthConditionPage() {
-  return <HealthConditionClient />;
-}
+import {db} from "@/lib/db";import ResourceDirectory from "@/components/Common/ResourceDirectory";export const dynamic="force-dynamic";export default async function Page(){const items=await db.cmsEntry.findMany({where:{type:"HEALTH_CONDITION",active:true},orderBy:{title:"asc"}});return <ResourceDirectory title="Health Conditions" description="Browse health topics published by Dawai24." basePath="/health-condition" items={items}/>}

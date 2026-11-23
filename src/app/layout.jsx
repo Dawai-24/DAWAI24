@@ -1,31 +1,9 @@
 import "./globals.css";
-import { StoreProvider } from "@/lib/store";
-import Header from "@/components/Header/Header";
-import Footer from "@/components/Footer/Footer";
-import CartDrawer from "@/components/Cart/CartDrawer";
-import Toasts from "@/components/Common/Toasts";
-import BackToTop from "@/components/Common/BackToTop";
+import AppChrome from "@/components/Common/AppChrome";
 
-export const metadata = {
-  title: { default: "MediCart – Demo Online Pharmacy", template: "%s | MediCart (Demo)" },
-  description: "MediCart is a fictional demo online pharmacy storefront built with Next.js and Tailwind CSS. Sample data only.",
-};
+export const metadata={title:{default:"Dawai24 – Online Pharmacy",template:"%s | Dawai24"},description:"Shop medicines and healthcare products from the live Dawai24 catalogue."};
+export const viewport={width:"device-width",initialScale:1};
 
-export const viewport = { width: "device-width", initialScale: 1 };
-
-export default function RootLayout({ children }) {
-  return (
-    <html lang="en">
-      <body className="font-sans antialiased">
-        <StoreProvider>
-          <Header />
-          <main className="min-h-[60vh]">{children}</main>
-          <Footer />
-          <CartDrawer />
-          <Toasts />
-          <BackToTop />
-        </StoreProvider>
-      </body>
-    </html>
-  );
+export default function RootLayout({children}){
+  return <html lang="en"><body className="font-sans antialiased"><AppChrome>{children}</AppChrome></body></html>;
 }

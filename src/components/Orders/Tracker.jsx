@@ -1,24 +1,10 @@
 import { Check } from "lucide-react";
 
-export const STEPS = ["Order placed", "Confirmed", "Packed", "Out for delivery", "Delivered"];
+export const ORDER_STEPS=[["PENDING","Order placed"],["CONFIRMED","Confirmed"],["PACKED","Packed"],["OUT_FOR_DELIVERY","Out for delivery"],["DELIVERED","Delivered"]];
+export const orderStatusLabel=(status)=>ORDER_STEPS.find(([value])=>value===status)?.[1]||status?.replaceAll("_"," ")||"Pending";
 
-// Demo tracker: status is derived from minutes since order (demo clock: 1 step per minute).
-export function demoStatus(order) {
-  const mins = Math.floor((Date.now() - new Date(order.date).getTime()) / 60000);
-  return Math.min(STEPS.length - 1, Math.max(order.status || 0, mins));
-}
-
-export default function Tracker({ status }) {
-  return (
-    <ol className="space-y-4">
-      {STEPS.map((s, i) => (
-        <li key={s} className="flex items-center gap-3">
-          <span className={`grid place-items-center w-7 h-7 rounded-full text-xs font-bold ${i <= status ? "bg-brand-700 text-white" : "bg-slate-200 text-slate-500"}`}>
-            {i <= status ? <Check size={14} /> : i + 1}
-          </span>
-          <span className={i <= status ? "font-semibold" : "text-slate-400"}>{s}</span>
-        </li>
-      ))}
-    </ol>
-  );
+export default function Tracker({status}){
+  if(status==="CANCELLED"||status==="RETURNED")return <div className="rounded-xl bg-red-50 p-4 text-sm font-bold text-red-700">Order {status.toLowerCase()}.</div>;
+  const current=Math.max(0,ORDER_STEPS.findIndex(([value])=>value===status));
+  return <ol className="space-y-4">{ORDER_STEPS.map(([value,label],index)=><li key={value} className="flex items-center gap-3"><span className={`grid size-7 place-items-center rounded-full text-xs font-bold ${index<=current?"bg-brand-700 text-white":"bg-slate-200 text-slate-500"}`}>{index<=current?<Check size={14}/>:index+1}</span><span className={index<=current?"font-semibold":"text-slate-400"}>{label}</span></li>)}</ol>;
 }

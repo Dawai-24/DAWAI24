@@ -1,9 +1,9 @@
 "use client";
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from "react";
-import { getProductById, totals } from "@/lib/catalog";
+import { totals } from "@/lib/catalog";
 
 const Ctx = createContext(null);
-const KEY = "medicart-demo-v1";
+const KEY = "dawai24-store-v1";
 
 const initial = { cart: [], wishlist: [], pin: "", user: null, addresses: [], orders: [], coupon: "" };
 
@@ -12,19 +12,26 @@ export function StoreProvider({ children }) {
   const [ready, setReady] = useState(false);
   const [drawer, setDrawer] = useState(false);
   const [toasts, setToasts] = useState([]);
+  const [catalog, setCatalog] = useState([]);
+  const [couponRules, setCouponRules] = useState({});
+  const [storeSettings, setStoreSettings] = useState({});
 
   useEffect(() => {
-    try {
-      const raw = localStorage.getItem(KEY);
-      if (raw) setState({ ...initial, ...JSON.parse(raw) });
-    } catch {}
-    setReady(true);
+    let saved = initial;
+    try { const raw = localStorage.getItem(KEY); if (raw) saved = { ...initial, ...JSON.parse(raw),addresses:[],orders:[] }; } catch {}
+    fetch("/api/auth/session").then((r)=>r.ok?r.json():{}).then(async(auth)=>{const customer=auth.customer||null;const addresses=customer?await fetch("/api/customer/addresses").then(r=>r.ok?r.json():[]):[];setState({...saved,user:customer,addresses})}).catch(()=>setState({...saved,user:null,addresses:[]})).finally(()=>setReady(true));
   }, []);
 
   useEffect(() => {
     if (!ready) return;
     try { localStorage.setItem(KEY, JSON.stringify(state)); } catch {}
   }, [state, ready]);
+
+  useEffect(() => {
+    fetch("/api/catalog/products").then((r) => r.ok ? r.json() : []).then(setCatalog).catch(() => setCatalog([]));
+    fetch("/api/catalog/coupons").then((r) => r.ok ? r.json() : []).then((rows) => setCouponRules(Object.fromEntries(rows.map((x) => [x.code, x])))).catch(() => setCouponRules({}));
+    fetch("/api/catalog/settings").then((r)=>r.ok?r.json():{}).then(setStoreSettings).catch(()=>setStoreSettings({}));
+  }, []);
 
   const toast = useCallback((message, type = "success") => {
     const id = Math.random().toString(36).slice(2);
@@ -52,8 +59,8 @@ export function StoreProvider({ children }) {
     setCoupon: (coupon) => patch(() => ({ coupon })),
     login(user) { patch(() => ({ user })); },
     logout() { patch(() => ({ user: null })); toast("Logged out", "info"); },
-    saveAddress: (a) => patch((s) => ({ addresses: [...s.addresses.filter((x) => x.id !== a.id), a] })),
-    deleteAddress: (id) => patch((s) => ({ addresses: s.addresses.filter((a) => a.id !== id) })),
+    async saveAddress(a) {const response=await fetch("/api/customer/addresses",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(a)});if(!response.ok){toast("Please login to save an address","error");return null}const row=await response.json();patch(s=>({addresses:[row,...s.addresses]}));return row},
+    async deleteAddress(id) {const response=await fetch("/api/customer/addresses",{method:"DELETE",headers:{"Content-Type":"application/json"},body:JSON.stringify({id})});if(response.ok)patch(s=>({addresses:s.addresses.filter(a=>a.id!==id)}));},
     placeOrder(order) { patch((s) => ({ orders: [order, ...s.orders], cart: [], coupon: "" })); },
     openDrawer: () => setDrawer(true),
     closeDrawer: () => setDrawer(false),
@@ -61,14 +68,14 @@ export function StoreProvider({ children }) {
   }), [toast]);
 
   const lines = useMemo(
-    () => state.cart.map((c) => ({ ...c, product: getProductById(c.id) })).filter((l) => l.product),
-    [state.cart]
+    () => state.cart.map((c) => ({ ...c, product: catalog.find((p) => p.id === c.id) })).filter((l) => l.product),
+    [state.cart, catalog]
   );
-  const sums = useMemo(() => totals(lines, state.coupon), [lines, state.coupon]);
+  const sums = useMemo(() => totals(lines, state.coupon, couponRules, storeSettings), [lines, state.coupon, couponRules, storeSettings]);
   const count = lines.reduce((s, l) => s + l.qty, 0);
 
   return (
-    <Ctx.Provider value={{ ...state, ready, lines, sums, count, drawer, toasts, ...api }}>
+    <Ctx.Provider value={{ ...state, ready, catalog, couponRules, storeSettings, lines, sums, count, drawer, toasts, ...api }}>
       {children}
     </Ctx.Provider>
   );

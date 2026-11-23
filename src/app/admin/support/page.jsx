@@ -1,0 +1,4 @@
+import {db} from "@/lib/db";
+import PageHeader from "@/components/Admin/PageHeader";
+export const dynamic="force-dynamic";
+export default async function Support(){const rows=await db.contactInquiry.findMany({orderBy:{createdAt:"desc"}});return <section><PageHeader title="Support enquiries" description="Messages submitted from the storefront contact form."/><div className="overflow-hidden rounded-2xl border bg-white">{rows.length?<div className="divide-y">{rows.map(row=><article key={row.id} className="p-5"><div className="flex flex-wrap justify-between gap-2"><div><b>{row.name}</b><p className="text-xs text-slate-500">{row.email}{row.phone?` · ${row.phone}`:""}</p></div><time className="text-xs text-slate-400">{row.createdAt.toLocaleString("en-IN")}</time></div><p className="mt-3 whitespace-pre-line text-sm text-slate-700">{row.message}</p></article>)}</div>:<div className="p-12 text-center text-sm text-slate-500">No support enquiries yet.</div>}</div></section>}

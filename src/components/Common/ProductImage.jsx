@@ -1,4 +1,5 @@
 export default function ProductImage({ product, className = "" }) {
+  if (product.image || product.imageUrl) return <img src={product.image || product.imageUrl} alt={product.name} className={className} />;
   // Placeholder using official Davai24 Logo brand mark until real product images are configured
   return (
     <div className={`w-full h-full flex flex-row items-center justify-center gap-2 bg-[#F8FAFC] rounded-xl border border-[#EDF2F7] relative overflow-hidden group-hover:bg-[#F1F5F9] transition-colors px-3 py-2 ${className}`}>

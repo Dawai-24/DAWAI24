@@ -1,15 +1,16 @@
 import Link from "next/link";
 import Breadcrumbs from "@/components/Common/Breadcrumbs";
 import ProductListing from "@/components/Products/ProductListing";
-import { allProducts } from "@/lib/catalog";
+import { getActiveProducts } from "@/lib/dbCatalog";
 
 export const metadata = {
   title: "All Health Products & OTC Essentials | Davai24",
   description: "Browse certified over-the-counter health products, personal care essentials, supplements, and devices.",
 };
 
-export default function AllHealthProductsPage() {
-  const prods = allProducts().filter((p) => !p.prescription);
+export const dynamic = "force-dynamic";
+export default async function AllHealthProductsPage() {
+  const prods = await getActiveProducts({prescriptionRequired:false});
 
   return (
     <>

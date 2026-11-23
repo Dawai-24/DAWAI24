@@ -244,7 +244,7 @@ export default function RelatedMedicationCard({ saltName, saltSlug }) {
           Save Up to 70% with Verified Substitutes
         </h4>
         <p className="text-[12px] text-[#666] leading-relaxed">
-          Order genuine medicines on PlatinumRx. When available, same-chemical salt substitutes provide identical clinical outcomes at a fraction of the cost.
+          Order medicines listed in the live Dawai24 catalogue. Product details and availability are managed by the administration team.
         </p>
         <Link
           href="/medicines"

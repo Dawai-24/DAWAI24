@@ -45,12 +45,12 @@ export default function ProductCard({ product: p }) {
 
         {/* Brand / Company in bold Indigo/Navy blue */}
         <p className="text-[12px] font-bold text-[#233A5E] mb-1 truncate">
-          {p.brand || "Himalaya Wellness Company"}
+          {p.brand || ""}
         </p>
 
         {/* Pack specification */}
         <p className="text-[12px] text-[#696974] font-normal mb-2">
-          {p.pack || "Bottle of 60 tablets"}
+          {p.pack || ""}
         </p>
 
         {/* Pricing */}

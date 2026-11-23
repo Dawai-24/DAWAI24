@@ -137,7 +137,7 @@ export default function Footer() {
       {/* Legal & Copyright */}
       <div className="border-t border-[#F0F2F5] bg-[#F8F9FA] py-5">
         <div className="container-x flex flex-col sm:flex-row items-center justify-between gap-3 text-[12px] text-[#92929D]">
-          <p>© 2026 Davai24. All rights reserved. Registered Indian Pharmacy Storefront Demo.</p>
+          <p>© {new Date().getFullYear()} Dawai24. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <Link href="/policies/privacy-policy" className="hover:text-[#171725]">Privacy</Link>
             <Link href="/policies/terms-and-conditions" className="hover:text-[#171725]">Terms</Link>

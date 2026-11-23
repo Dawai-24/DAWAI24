@@ -5,11 +5,10 @@ import { Heart, ArrowRight } from "lucide-react";
 import Breadcrumbs from "@/components/Common/Breadcrumbs";
 import ProductCard from "@/components/Products/ProductCard";
 import { useStore } from "@/lib/store";
-import { getProductById } from "@/lib/catalog";
 
 export default function Wishlist() {
-  const { wishlist, ready } = useStore();
-  const items = wishlist.map(getProductById).filter(Boolean);
+  const { wishlist, catalog, ready } = useStore();
+  const items = wishlist.map((id) => catalog.find((p) => p.id === id)).filter(Boolean);
 
   return (
     <>

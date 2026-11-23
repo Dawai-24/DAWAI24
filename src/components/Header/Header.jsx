@@ -9,31 +9,38 @@ import {
   X, 
   Navigation,
   Wallet,
-  ShoppingCart
+  ShoppingCart,
+  LayoutDashboard,
+  LogOut
 } from "lucide-react";
 import Logo from "@/components/Common/Logo";
 import SearchBox from "@/components/Search/SearchBox";
 import PinModal from "./PinModal";
 import { useStore } from "@/lib/store";
-import { categoryTaxonomy } from "@/data/platinumNav";
 
 export default function Header() {
   const router = useRouter();
-  const { count, pin, user, openDrawer } = useStore();
+  const { count, pin, user, openDrawer, logout } = useStore();
   const [pinOpen, setPinOpen] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState(null);
   const [mobileExpandedTab, setMobileExpandedTab] = useState(null);
+  const [dynamicCategories, setDynamicCategories] = useState([]);
+  const [auth, setAuth] = useState({ admin: null, customer: null, loaded: false });
   const timeoutRef = useRef(null);
 
   // Close dropdown when scrolling
   useEffect(() => {
+    fetch("/api/catalog/categories").then((r) => r.json()).then(setDynamicCategories).catch(() => setDynamicCategories([]));
     const handleScroll = () => {
       setActiveDropdown(null);
     };
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+  useEffect(() => { fetch("/api/auth/session").then(r=>r.json()).then(data=>setAuth({...data,loaded:true})).catch(()=>setAuth({admin:null,customer:null,loaded:true})); }, []);
+  const signOut = async (type) => { await fetch("/api/auth/logout", { method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({type}) }); if(type==="customer") logout(); setAuth((x)=>({...x,[type]:null})); router.refresh(); };
+  const navEntries = dynamicCategories.map((category) => [category.name, { slug: category.slug, items: category.subcategories || [] }]);
 
   const handleMouseEnter = (key) => {
     if (timeoutRef.current) clearTimeout(timeoutRef.current);
@@ -128,22 +135,25 @@ export default function Header() {
             {/* Vertical separator */}
             <div className="hidden sm:block h-6 w-[1px] bg-[#E2E4E8] mx-0.5" />
 
-            {/* Login / Profile button */}
-            {user ? (
-              <Link
-                href="/account"
-                className="px-4 py-2 text-sm font-semibold text-[#171725] hover:bg-gray-100 rounded-full transition-colors"
-              >
-                {user.name ? user.name.split(" ")[0] : "Account"}
-              </Link>
-            ) : (
+            {/* Auth actions */}
+            {auth.admin ? (
+              <div className="flex items-center gap-1.5">
+                <Link href="/admin" className="inline-flex items-center gap-1.5 rounded-full bg-[#F3EAFA] px-4 py-2 text-[13px] font-bold text-[#7B2CBF]"><LayoutDashboard size={15}/>Dashboard</Link>
+                <button onClick={() => signOut("admin")} className="inline-flex items-center gap-1.5 rounded-full px-3 py-2 text-[13px] font-semibold text-[#696974] hover:bg-gray-100"><LogOut size={15}/>Logout</button>
+              </div>
+            ) : auth.customer || user ? (
+              <div className="flex items-center gap-1">
+                <Link href="/account" className="px-3 py-2 text-sm font-semibold text-[#171725] hover:bg-gray-100 rounded-full transition-colors">{(auth.customer?.name || user?.name)?.split(" ")[0] || "Account"}</Link>
+                <button onClick={() => signOut("customer")} title="Logout" className="grid size-9 place-items-center rounded-full text-[#696974] hover:bg-gray-100"><LogOut size={16}/></button>
+              </div>
+            ) : auth.loaded ? (
               <Link
                 href="/login"
                 className="px-5 py-2 text-[14px] font-semibold text-[#FF6B5A] bg-[#FFF1EF] hover:bg-[#FFE5E1] active:bg-[#FFD8D3] rounded-full transition-colors tracking-wide"
               >
                 Login
               </Link>
-            )}
+            ) : <div className="h-10 w-20 animate-pulse rounded-full bg-slate-100"/>}
           </div>
         </div>
 
@@ -159,7 +169,7 @@ export default function Header() {
         >
           <div className="max-w-[1360px] mx-auto px-4 sm:px-6">
             <ul className="flex items-center justify-between text-[13px] lg:text-[14px] font-semibold text-[#171725] py-0">
-              {Object.entries(categoryTaxonomy).map(([tabTitle, data]) => {
+              {navEntries.map(([tabTitle, data]) => {
                 const isOpen = activeDropdown === tabTitle;
                 return (
                   <li
@@ -196,7 +206,7 @@ export default function Header() {
                           <ul className="flex flex-col divide-y divide-[#F6F6F9]">
                             {data.items.map((item) => {
                               // Direct route for subcategories: /category/{catSlug}/{item.slug}
-                              const href = item.url ? item.url : `/category/${data.slug}/${item.slug}`;
+                              const href = `/category/${data.slug}/${item.slug}`;
                               return (
                                 <li key={item.name}>
                                   <Link
@@ -266,7 +276,7 @@ export default function Header() {
               <p className="px-4 py-2 text-[11px] font-bold text-[#92929D] uppercase tracking-wider">
                 Categories & Resources
               </p>
-              {Object.entries(categoryTaxonomy).map(([tabTitle, data]) => {
+              {navEntries.map(([tabTitle, data]) => {
                 const isExpanded = mobileExpandedTab === tabTitle;
                 return (
                   <div key={tabTitle} className="border-b border-[#F5F5F7]">
@@ -284,7 +294,7 @@ export default function Header() {
                     {isExpanded && (
                       <div className="bg-[#FAFBFD] px-4 py-1 pb-3 space-y-1">
                         {data.items.map((item) => {
-                          const href = item.url ? item.url : `/category/${data.slug}/${item.slug}`;
+                          const href = `/category/${data.slug}/${item.slug}`;
                           return (
                             <Link
                               key={item.name}
@@ -305,15 +315,7 @@ export default function Header() {
 
             {/* Bottom Actions */}
             <div className="p-4 border-t border-[#F0F2F5] space-y-2">
-              {user ? (
-                <Link
-                  href="/account"
-                  onClick={() => setMobileMenuOpen(false)}
-                  className="block w-full py-2.5 text-center text-[14px] font-semibold text-white bg-[#171725] rounded-xl"
-                >
-                  My Account
-                </Link>
-              ) : (
+              {auth.admin ? <><Link href="/admin" onClick={()=>setMobileMenuOpen(false)} className="flex w-full items-center justify-center gap-2 rounded-xl bg-[#7B2CBF] py-2.5 text-[14px] font-semibold text-white"><LayoutDashboard size={16}/>Admin Dashboard</Link><button onClick={()=>{setMobileMenuOpen(false);signOut("admin")}} className="flex w-full items-center justify-center gap-2 rounded-xl border py-2.5 text-[14px] font-semibold"><LogOut size={16}/>Logout</button></> : auth.customer || user ? <><Link href="/account" onClick={()=>setMobileMenuOpen(false)} className="block w-full rounded-xl bg-[#171725] py-2.5 text-center text-[14px] font-semibold text-white">My Account</Link><button onClick={()=>{setMobileMenuOpen(false);signOut("customer")}} className="flex w-full items-center justify-center gap-2 rounded-xl border py-2.5 text-[14px] font-semibold"><LogOut size={16}/>Logout</button></> : (
                 <Link
                   href="/login"
                   onClick={() => setMobileMenuOpen(false)}

@@ -2,22 +2,25 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { Search } from "lucide-react";
-import { searchCategories, searchProducts } from "@/lib/catalog";
+import { useStore } from "@/lib/store";
 
 export default function SearchBox({ className = "" }) {
   const router = useRouter();
   const [q, setQ] = useState("");
   const [open, setOpen] = useState(false);
+  const [categories,setCategories] = useState([]);
+  const { catalog } = useStore();
   const ref = useRef(null);
 
   useEffect(() => {
+    fetch("/api/catalog/categories").then(r=>r.json()).then(setCategories).catch(()=>setCategories([]));
     const off = (e) => { if (ref.current && !ref.current.contains(e.target)) setOpen(false); };
     document.addEventListener("mousedown", off);
     return () => document.removeEventListener("mousedown", off);
   }, []);
 
-  const prods = useMemo(() => searchProducts(q).slice(0, 5), [q]);
-  const cats = useMemo(() => searchCategories(q).slice(0, 3), [q]);
+  const prods = useMemo(() => catalog.filter(p=>p.name.toLowerCase().includes(q.toLowerCase())||p.brand.toLowerCase().includes(q.toLowerCase())).slice(0,5), [q,catalog]);
+  const cats = useMemo(() => categories.filter(c=>c.name.toLowerCase().includes(q.toLowerCase())).slice(0,3), [q,categories]);
 
   const submit = (e) => {
     e.preventDefault();
