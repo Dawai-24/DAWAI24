@@ -1,31 +1,13 @@
-"use client";
 import Link from "next/link";
-import { useParams } from "next/navigation";
-import { CheckCircle2 } from "lucide-react";
-import { useStore } from "@/lib/store";
-import { money } from "@/lib/catalog";
+import {notFound,redirect} from "next/navigation";
+import {CheckCircle2} from "lucide-react";
+import {getCustomerSession} from "@/lib/auth";
+import {db} from "@/lib/db";
+import {money} from "@/lib/catalog";
 
-export default function Confirmation() {
-  const { id } = useParams();
-  const { orders, ready } = useStore();
-  const o = orders.find((x) => x.id === id);
-  if (!ready) return <div className="container-x py-16 text-slate-500">Loading…</div>;
-  if (!o) return (
-    <div className="container-x py-16 text-center">
-      <p className="font-semibold">Order not found in this browser.</p>
-      <Link href="/orders" className="btn btn-primary mt-4">My orders</Link>
-    </div>
-  );
-  return (
-    <div className="container-x py-10 max-w-xl text-center">
-      <CheckCircle2 size={64} className="mx-auto text-green-600" />
-      <h1 className="text-2xl font-extrabold mt-3">Demo order placed!</h1>
-      <p className="text-slate-600 mt-1">Order ID <b>{o.id}</b> · {money(o.total)}</p>
-      <p className="text-xs text-slate-500 mt-2">This is a demo. No payment was taken and nothing will be delivered.</p>
-      <div className="flex flex-col sm:flex-row gap-3 justify-center mt-6">
-        <Link href={`/orders/${o.id}`} className="btn btn-primary">Track order</Link>
-        <Link href="/medicines" className="btn btn-outline">Continue shopping</Link>
-      </div>
-    </div>
-  );
+export const dynamic="force-dynamic";
+export default async function Confirmation({params}){
+  const auth=await getCustomerSession();if(!auth)redirect("/login?next=/orders");
+  const {id}=await params;const order=await db.order.findFirst({where:{id,customerId:auth.user.id}});if(!order)notFound();
+  return <div className="container-x max-w-xl py-16 text-center"><CheckCircle2 size={64} className="mx-auto text-green-600"/><h1 className="mt-3 text-2xl font-extrabold">Order placed successfully!</h1><p className="mt-1 text-slate-600">Order ID <b>{order.orderNumber}</b> · {money(Number(order.total))}</p><p className="mt-2 text-sm text-slate-500">You can follow every status update from My Orders.</p><div className="mt-6 flex flex-col justify-center gap-3 sm:flex-row"><Link href={`/orders/${order.id}`} className="btn btn-primary">Track order</Link><Link href="/medicines" className="btn btn-outline">Continue shopping</Link></div></div>;
 }

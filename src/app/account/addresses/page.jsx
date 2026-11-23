@@ -11,7 +11,7 @@ export default function Addresses() {
   const [f, setF] = useState(blank);
   const [err, setErr] = useState({});
 
-  const add = (e) => {
+  const add = async (e) => {
     e.preventDefault();
     const v = {};
     if (f.name.trim().length < 2) v.name = "Enter a name";
@@ -21,7 +21,7 @@ export default function Addresses() {
     if (!validPin(f.pin)) v.pin = "Enter a valid 6-digit PIN";
     setErr(v);
     if (Object.keys(v).length) return;
-    saveAddress({ id: `a${Date.now()}`, ...f });
+    const saved=await saveAddress(f);if(!saved)return;
     setF(blank);
     toast("Address saved");
   };
@@ -44,7 +44,7 @@ export default function Addresses() {
                 <li key={a.id} className="card p-4 flex gap-3 text-sm">
                   <MapPin className="text-brand-700 shrink-0" size={18} />
                   <div className="flex-1"><b>{a.name}</b> · {a.phone}<br />{a.address}, {a.city} – {a.pin}</div>
-                  <button aria-label="Delete address" onClick={() => { deleteAddress(a.id); toast("Address removed", "info"); }} className="text-slate-400 hover:text-red-600"><Trash2 size={16} /></button>
+                  <button aria-label="Delete address" onClick={async() => { await deleteAddress(a.id); toast("Address removed", "info"); }} className="text-slate-400 hover:text-red-600"><Trash2 size={16} /></button>
                 </li>
               ))}
             </ul>

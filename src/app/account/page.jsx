@@ -9,7 +9,7 @@ import { useStore } from "@/lib/store";
 
 export default function Account() {
   const router = useRouter();
-  const { user, ready, login, logout, orders, addresses, wishlist, toast } = useStore();
+  const { user, ready, login, logout, addresses, wishlist, toast } = useStore();
   const [f, setF] = useState({ name: "", email: "", phone: "" });
   const [err, setErr] = useState({});
 
@@ -23,19 +23,21 @@ export default function Account() {
 
   if (!ready || !user) return <div className="container-x py-16 text-gray-400 text-center">Loading account...</div>;
 
-  const save = (e) => {
+  const save = async (e) => {
     e.preventDefault();
     const v = {};
     if (f.name.trim().length < 2) v.name = "Enter your full name";
     if (f.email && !/^\S+@\S+\.\S+$/.test(f.email)) v.email = "Enter a valid email address";
     setErr(v);
     if (Object.keys(v).length) return;
-    login({ ...user, name: f.name.trim(), email: f.email });
-    toast("Profile details updated successfully", "success");
+    const response = await fetch("/api/auth/profile", { method:"PATCH", headers:{"Content-Type":"application/json"}, body:JSON.stringify({name:f.name,email:f.email}) });
+    const data = await response.json();
+    if (!response.ok) return toast(data.error || "Profile could not be updated", "error");
+    login(data); toast("Profile details updated successfully", "success");
   };
 
   const tiles = [
-    { icon: Package, title: "Orders & Prescriptions", sub: `${orders.length} order(s) placed`, href: "/orders" },
+    { icon: Package, title: "Orders & Prescriptions", sub: "View your live order history", href: "/orders" },
     { icon: Heart, title: "Wishlist", sub: `${wishlist.length} item(s) saved`, href: "/wishlist" },
     { icon: MapPin, title: "Saved Delivery Addresses", sub: `${addresses.length} address(es)`, href: "/account/addresses" },
   ];
@@ -63,9 +65,11 @@ export default function Account() {
           </div>
 
           <button
-            onClick={() => {
+            onClick={async () => {
+              await fetch("/api/auth/logout", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ type: "customer" }) });
               logout();
               router.push("/");
+              router.refresh();
             }}
             className="btn btn-outline py-2 px-5 text-[13px] flex items-center gap-1.5"
           >

@@ -1,0 +1,2 @@
+import {NextResponse} from "next/server";import {getAdminSession,getCustomerSession} from "@/lib/auth";
+export async function GET(){const [admin,customer]=await Promise.all([getAdminSession(),getCustomerSession()]);return NextResponse.json({admin:admin?{id:admin.user.id,name:admin.user.name,email:admin.user.email,role:admin.user.role}:null,customer:customer?{id:customer.user.id,name:customer.user.name,email:customer.user.email,phone:customer.user.phone}:null});}

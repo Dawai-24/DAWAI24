@@ -1,8 +1,289 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
-generator client {
-  provider = "prisma-client-js"
+enum OrderStatus {
+  PENDING
+  CONFIRMED
+  PACKED
+  OUT_FOR_DELIVERY
+  DELIVERED
+  CANCELLED
+  RETURNED
+}
+
+enum PrescriptionStatus {
+  PENDING
+  APPROVED
+  REJECTED
+  NEEDS_CLARIFICATION
+}
+
+enum BannerPlacement {
+  HOME_HERO
+  HOME_PROMO
+  CATEGORY
+}
+
+model AdminUser {
+  id           String   @id @default(cuid())
+  name         String
+  email        String   @unique
+  passwordHash String?
+  role         String   @default("ADMIN")
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Customer {
+  id           String   @id @default(cuid())
+  name         String?
+  email        String?  @unique
+  phone        String?  @unique
+  passwordHash String?
+  orders       Order[]
+  addresses    CustomerAddress[]
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model CustomerAddress {
+  id         String   @id @default(cuid())
+  customerId String
+  customer   Customer @relation(fields: [customerId], references: [id], onDelete: Cascade)
+  name       String
+  phone      String
+  address    String
+  city       String
+  pin        String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([customerId])
+}
+
+model AuthSession {
+  id          String   @id @default(cuid())
+  tokenHash   String   @unique
+  subjectId   String
+  subjectType String
+  expiresAt   DateTime
+  createdAt   DateTime @default(now())
+
+  @@index([subjectId, subjectType])
+  @@index([expiresAt])
+}
+
+model CmsEntry {
+  id        String   @id @default(cuid())
+  type      String
+  title     String
+  slug      String?
+  subtitle  String?
+  body      String?
+  badge     String?
+  imageUrl  String?
+  linkUrl   String?
+  active    Boolean  @default(true)
+  sortOrder Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([type, slug])
+  @@index([type, active, sortOrder])
+}
+
+model ContactInquiry {
+  id        String   @id @default(cuid())
+  name      String
+  email     String
+  phone     String?
+  message   String
+  status    String   @default("NEW")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model StoreSetting {
+  key       String   @id
+  value     String
+  updatedAt DateTime @updatedAt
+}
+
+model Category {
+  id            String        @id @default(cuid())
+  name          String
+  slug          String        @unique
+  imageUrl      String?
+  sortOrder     Int           @default(0)
+  active        Boolean       @default(true)
+  subcategories Subcategory[]
+  products      Product[]
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+}
+
+model Subcategory {
+  id         String    @id @default(cuid())
+  name       String
+  slug       String
+  categoryId String
+  category   Category  @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  sortOrder  Int       @default(0)
+  active     Boolean   @default(true)
+  products   Product[]
+
+  @@unique([categoryId, slug])
+}
+
+model Brand {
+  id        String    @id @default(cuid())
+  name      String
+  slug      String    @unique
+  logoUrl   String?
+  active    Boolean   @default(true)
+  products  Product[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model Product {
+  id                   String         @id @default(cuid())
+  sku                  String         @unique
+  slug                 String         @unique
+  name                 String
+  description          String?
+  pack                 String?
+  imageUrl             String?
+  brandId              String?
+  brand                Brand?         @relation(fields: [brandId], references: [id])
+  categoryId           String
+  category             Category       @relation(fields: [categoryId], references: [id])
+  subcategoryId        String?
+  subcategory          Subcategory?   @relation(fields: [subcategoryId], references: [id])
+  mrp                  Decimal        @db.Decimal(10, 2)
+  price                Decimal        @db.Decimal(10, 2)
+  stock                Int            @default(0)
+  prescriptionRequired Boolean        @default(false)
+  active               Boolean        @default(false)
+  seoTitle             String?
+  seoDescription       String?
+  images               ProductImage[]
+  orderItems           OrderItem[]
+  createdAt            DateTime       @default(now())
+  updatedAt            DateTime       @updatedAt
+}
+
+model ProductImage {
+  id        String  @id @default(cuid())
+  url       String
+  alt       String?
+  sortOrder Int     @default(0)
+  productId String
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+}
+
+model Banner {
+  id        String          @id @default(cuid())
+  title     String
+  imageUrl  String
+  linkUrl   String?
+  placement BannerPlacement
+  sortOrder Int             @default(0)
+  active    Boolean         @default(true)
+  startsAt  DateTime?
+  endsAt    DateTime?
+  createdAt DateTime        @default(now())
+  updatedAt DateTime        @updatedAt
+}
+
+model Blog {
+  id             String    @id @default(cuid())
+  title          String
+  slug           String    @unique
+  excerpt        String?
+  body           String
+  status         String    @default("DRAFT")
+  publishedAt    DateTime?
+  seoTitle       String?
+  seoDescription String?
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+}
+
+model Faq {
+  id        String  @id @default(cuid())
+  question  String
+  answer    String
+  sortOrder Int     @default(0)
+  active    Boolean @default(true)
+}
+
+model Coupon {
+  id            String    @id @default(cuid())
+  code          String    @unique
+  type          String
+  value         Decimal   @db.Decimal(10, 2)
+  minOrderValue Decimal?  @db.Decimal(10, 2)
+  active        Boolean   @default(true)
+  startsAt      DateTime?
+  endsAt        DateTime?
+}
+
+model GoogleAdsSetting {
+  id              String   @id @default(cuid())
+  conversionId    String?
+  conversionLabel String?
+  remarketingId   String?
+  active          Boolean  @default(true)
+  updatedAt       DateTime @updatedAt
+}
+
+model Prescription {
+  id            String             @id @default(cuid())
+  customerName  String?
+  customerPhone String?
+  fileUrl       String
+  status        PrescriptionStatus @default(PENDING)
+  notes         String?
+  reviewedBy    String?
+  createdAt     DateTime           @default(now())
+  updatedAt     DateTime           @updatedAt
+}
+
+model Order {
+  id          String      @id @default(cuid())
+  orderNumber String      @unique
+  customerId  String?
+  customer    Customer?   @relation(fields: [customerId], references: [id])
+  status      OrderStatus @default(PENDING)
+  subtotal    Decimal     @db.Decimal(10, 2)
+  discount    Decimal     @default(0) @db.Decimal(10, 2)
+  deliveryFee Decimal     @default(0) @db.Decimal(10, 2)
+  total       Decimal     @db.Decimal(10, 2)
+  paymentMethod String?
+  deliveryName String?
+  deliveryPhone String?
+  deliveryAddress String?
+  deliveryCity String?
+  deliveryPin String?
+  items       OrderItem[]
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+}
+
+model OrderItem {
+  id        String   @id @default(cuid())
+  orderId   String
+  order     Order    @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  productId String?
+  product   Product? @relation(fields: [productId], references: [id])
+  name      String
+  quantity  Int
+  unitPrice Decimal  @db.Decimal(10, 2)
 }

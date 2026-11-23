@@ -1,64 +1,31 @@
-// Data-access layer. Swap these functions for API/database calls in production.
-import { products } from "@/data/products";
-import { categories } from "@/data/categories";
-import { allTaxonomyProducts, getProductsByTaxonomy } from "@/data/taxonomyProducts";
-
-// Combine base products with full taxonomy products
-const combinedProducts = [...products, ...allTaxonomyProducts];
-
-export const allProducts = () => combinedProducts;
-export const getProduct = (slug) => combinedProducts.find((p) => p.slug === slug);
-export const getProductById = (id) => combinedProducts.find((p) => p.id === id);
-
-export const byCategory = (slug) => {
-  const fromBase = products.filter((p) => p.category === slug);
-  const fromTax = allTaxonomyProducts.filter((p) => p.category === slug);
-  return [...fromTax, ...fromBase];
-};
-
-export const byCategoryAndSubcategory = (catSlug, subSlug) => {
-  return getProductsByTaxonomy(catSlug, subSlug);
-};
-
-export function related(product, limit = 6) {
-  return combinedProducts
-    .filter((p) => p.category === product.category && p.id !== product.id)
-    .slice(0, limit);
-}
+export const allProducts = () => [];
+export const getProduct = () => undefined;
+export const getProductById = () => undefined;
+export const byCategory = () => [];
+export const byCategoryAndSubcategory = () => [];
+export const related = () => [];
 
 export function searchProducts(q) {
   const s = q.trim().toLowerCase();
   if (!s) return [];
-  return combinedProducts.filter(
-    (p) =>
-      p.name.toLowerCase().includes(s) ||
-      p.brand.toLowerCase().includes(s) ||
-      p.category.replace(/-/g, " ").includes(s) ||
-      (p.subcategory && p.subcategory.replace(/-/g, " ").includes(s))
-  );
+  return [];
 }
 
 export function searchCategories(q) {
-  const s = q.trim().toLowerCase();
-  if (!s) return [];
-  return categories.filter((c) => c.name.toLowerCase().includes(s));
+  return [];
 }
 
 export const money = (n) => `₹${Number(n).toLocaleString("en-IN")}`;
 
-// Demo pricing rules (shown clearly in the UI as demo).
 export const FREE_DELIVERY_ABOVE = 499;
 export const DELIVERY_FEE = 49;
-export const COUPONS = { 
-  WELCOME10: { type: "pct", value: 10, label: "10% off" }, 
-  FREESHIP: { type: "ship", value: 0, label: "Free delivery" } 
-};
-
-export function totals(lines, coupon) {
+export function totals(lines, coupon, coupons = {}, settings = {}) {
   const mrpTotal = lines.reduce((s, l) => s + l.product.mrp * l.qty, 0);
   const subtotal = lines.reduce((s, l) => s + l.product.price * l.qty, 0);
-  const couponOff = coupon && COUPONS[coupon]?.type === "pct" ? Math.round((subtotal * COUPONS[coupon].value) / 100) : 0;
-  let delivery = subtotal === 0 || subtotal >= FREE_DELIVERY_ABOVE ? 0 : DELIVERY_FEE;
-  if (coupon && COUPONS[coupon]?.type === "ship") delivery = 0;
+  const rule = coupons[coupon];
+  const couponOff = rule && subtotal >= Number(rule.minOrderValue || 0) ? (rule.type === "PERCENT" ? Math.round((subtotal * rule.value) / 100) : Math.min(subtotal, Number(rule.value))) : 0;
+  const freeDeliveryAbove=Number(settings.FREE_DELIVERY_ABOVE??FREE_DELIVERY_ABOVE);
+  const deliveryFee=Number(settings.DELIVERY_FEE??DELIVERY_FEE);
+  let delivery = subtotal === 0 || subtotal >= freeDeliveryAbove ? 0 : deliveryFee;
   return { mrpTotal, subtotal, savings: mrpTotal - subtotal + couponOff, couponOff, delivery, total: subtotal - couponOff + delivery };
 }

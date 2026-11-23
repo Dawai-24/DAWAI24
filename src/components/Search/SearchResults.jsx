@@ -3,17 +3,20 @@ import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { SearchX } from "lucide-react";
 import ProductListing from "@/components/Products/ProductListing";
-import { categories } from "@/data/categories";
-import { searchCategories, searchProducts } from "@/lib/catalog";
+import { useStore } from "@/lib/store";
+import { useEffect, useState } from "react";
 
 export default function SearchResults() {
   const q = (useSearchParams().get("q") || "").trim();
+  const { catalog } = useStore();
+  const [categories,setCategories] = useState([]);
+  useEffect(()=>{fetch("/api/catalog/categories").then(r=>r.json()).then(setCategories).catch(()=>setCategories([]))},[]);
 
   if (!q) {
     return (
       <div className="card p-10 text-center">
         <SearchX size={40} className="mx-auto text-brand-200" />
-        <h1 className="font-bold text-lg mt-3">Search MediCart</h1>
+        <h1 className="font-bold text-lg mt-3">Search Dawai24</h1>
         <p className="text-sm text-slate-500 mt-1">Type a product, brand or category in the search bar.</p>
         <div className="flex flex-wrap justify-center gap-2 mt-4">
           {categories.slice(0, 6).map((c) => <Link key={c.slug} href={`/category/${c.slug}`} className="text-sm rounded-full bg-brand-50 text-brand-700 px-3 py-1">{c.name}</Link>)}
@@ -22,8 +25,9 @@ export default function SearchResults() {
     );
   }
 
-  const prods = searchProducts(q);
-  const cats = searchCategories(q);
+  const term=q.toLowerCase();
+  const prods = catalog.filter(p=>p.name.toLowerCase().includes(term)||p.brand.toLowerCase().includes(term));
+  const cats = categories.filter(c=>c.name.toLowerCase().includes(term));
 
   return (
     <>

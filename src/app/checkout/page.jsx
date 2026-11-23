@@ -18,7 +18,7 @@ const payments = [
 
 export default function Checkout() {
   const router = useRouter();
-  const { lines, sums, addresses, user, pin, placeOrder, saveAddress, toast, ready } = useStore();
+  const { lines, sums, coupon, addresses, user, pin, placeOrder, saveAddress, toast, ready } = useStore();
   const [sel, setSel] = useState("");
   const [f, setF] = useState({ name: user?.name || "", phone: "", address: "", city: "", pin: pin || "560102" });
   const [pay, setPay] = useState("cod");
@@ -51,7 +51,7 @@ export default function Checkout() {
     );
   }
 
-  const submit = (e) => {
+  const submit = async (e) => {
     e.preventDefault();
     const addr = sel ? addresses.find((a) => a.id === sel) : f;
     const errors = validate(addr);
@@ -59,11 +59,15 @@ export default function Checkout() {
     if (!sel && f.save) saveAddress({ ...f, id: "addr-" + Date.now() });
 
     setBusy(true);
-    setTimeout(() => {
-      const order = placeOrder({ address: addr, payment: pay });
-      toast("Order placed successfully! (demo)", "success");
+    try {
+      const response = await fetch("/api/orders", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ address: addr, payment: pay, lines, coupon }) });
+      if(response.status===401){router.push("/login?next=/checkout");return}
+      if (!response.ok) throw new Error("Order could not be placed");
+      const order = await response.json();
+      placeOrder(order);
+      toast("Order placed successfully!", "success");
       router.push(`/order-confirmation/${order.id}`);
-    }, 600);
+    } catch (error) { setBusy(false); toast(error.message, "error"); }
   };
 
   return (

@@ -1,0 +1,2 @@
+import {NextResponse} from "next/server";import {db} from "@/lib/db";
+export async function POST(request){const b=await request.json();if(!b.fileUrl||!b.customerPhone)return NextResponse.json({error:"Missing prescription"},{status:400});const row=await db.prescription.create({data:{customerName:b.customerName,customerPhone:b.customerPhone,fileUrl:b.fileUrl,notes:b.notes||null}});return NextResponse.json(row);}

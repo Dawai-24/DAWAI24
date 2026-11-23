@@ -11,7 +11,7 @@ export default function Contact() {
   const [err, setErr] = useState({});
   const [sent, setSent] = useState(false);
 
-  const submit = (e) => {
+  const submit = async (e) => {
     e.preventDefault();
     const v = {};
     if (f.name.trim().length < 2) v.name = "Enter your full name";
@@ -19,8 +19,7 @@ export default function Contact() {
     if (f.message.trim().length < 8) v.message = "Please write a brief description of your inquiry";
     setErr(v);
     if (Object.keys(v).length) return;
-    setSent(true);
-    toast("Thank you! Your message has been received.", "success");
+    try{const response=await fetch("/api/contact",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(f)});if(!response.ok)throw new Error("Message could not be submitted");setSent(true);toast("Thank you! Your message has been received.","success");}catch(error){toast(error.message,"error")}
   };
 
   return (

@@ -49,14 +49,18 @@ export default function UploadPrescription() {
     if (input.current) input.current.value = "";
   };
 
-  const submit = (e) => {
+  const submit = async (e) => {
     e.preventDefault();
     if (!file) return setErr("Please upload or take a photo of your prescription.");
     if (form.name.trim().length < 2) return setErr("Please enter your name.");
     if (!/^[6-9]\d{9}$/.test(form.phone)) return setErr("Please enter a valid 10-digit mobile number.");
     setErr("");
-    setDone(true);
-    toast("Prescription received! A verified pharmacist will call you.", "success");
+    try {
+      const fileUrl = await new Promise((resolve,reject)=>{const reader=new FileReader();reader.onload=()=>resolve(reader.result);reader.onerror=reject;reader.readAsDataURL(file);});
+      const response=await fetch("/api/prescriptions",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({customerName:form.name,customerPhone:form.phone,notes:form.notes,fileUrl})});
+      if(!response.ok) throw new Error("Prescription could not be submitted.");
+      setDone(true); toast("Prescription received! A verified pharmacist will call you.", "success");
+    } catch(error){setErr(error.message);}
   };
 
   return (

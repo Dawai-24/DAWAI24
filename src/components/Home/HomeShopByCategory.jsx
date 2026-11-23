@@ -2,10 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import categoriesData from "@/data/platinumrx_home_categories.json";
-
-export default function HomeShopByCategory() {
-  const categories = categoriesData?.categories || [];
+export default function HomeShopByCategory({ categories = [] }) {
   const [activeTab, setActiveTab] = useState(0);
 
   const currentCategory = categories[activeTab] || categories[0];
@@ -33,11 +30,11 @@ export default function HomeShopByCategory() {
           >
             {categories.map((cat, idx) => {
               const isActive = activeTab === idx;
-              const mainIcon = `/img/cat-main-${idx}.png`;
+              const mainIcon = cat.imageUrl || `/img/cat-main-${idx}.png`;
 
               return (
                 <button
-                  key={cat.label}
+                    key={cat.id || cat.label}
                   type="button"
                   role="tab"
                   aria-selected={isActive}
@@ -51,12 +48,9 @@ export default function HomeShopByCategory() {
                   <div className="size-16 sm:size-20 flex items-center justify-center">
                     <img
                       src={mainIcon}
-                      alt={cat.label}
+                        alt={cat.name || cat.label}
                       className="size-16 sm:size-18 object-contain"
-                      onError={(e) => {
-                        e.target.onerror = null;
-                        e.target.src = cat.iconUrl;
-                      }}
+                      onError={(e) => { e.currentTarget.style.display = "none"; }}
                     />
                   </div>
                   <span
@@ -64,7 +58,7 @@ export default function HomeShopByCategory() {
                       isActive ? "text-[#FF6B5A] font-bold" : "text-[#475569]"
                     }`}
                   >
-                    {cat.label}
+                    {cat.name || cat.label}
                   </span>
                 </button>
               );
@@ -80,15 +74,14 @@ export default function HomeShopByCategory() {
             className="mt-6 md:mt-8 outline-none"
           >
             <div className="grid grid-cols-3 gap-3 md:grid-cols-6 md:gap-5">
-              {currentCategory.subcategories.map((sub, sIdx) => {
+              {(currentCategory.subcategories || []).map((sub, sIdx) => {
                 const cleanSlug =
-                  sub.actionUrl?.replace("https://www.platinumrx.in", "") ||
-                  `/category/${sub.label.toLowerCase().replace(/\s+/g, "-")}`;
-                const subIcon = `/img/subcat-${activeTab}-${sIdx}.png`;
+                  `/category/${currentCategory.slug}/${sub.slug}`;
+                const subIcon = activeTab < 5 ? `/img/subcat-${activeTab}-${sIdx}.png` : "/img/cat-main-5.svg";
 
                 return (
                   <Link
-                    key={sub.label}
+                    key={sub.id || sub.slug}
                     href={cleanSlug}
                     className="group flex w-full flex-col items-center gap-2.5 transition-transform hover:-translate-y-0.5"
                   >
@@ -96,18 +89,15 @@ export default function HomeShopByCategory() {
                     <div className="bg-[#F8FAFC] border border-[#F1F5F9] group-hover:border-[#FF6B5A]/30 flex h-28 sm:h-36 md:h-44 w-full items-center justify-center rounded-[16px] md:rounded-[20px] p-4 md:p-6 transition-colors shadow-2xs">
                       <img
                         src={subIcon}
-                        alt={sub.label}
+                        alt={sub.name}
                         className="h-full w-auto max-w-full object-contain group-hover:scale-105 transition-transform"
-                        onError={(e) => {
-                          e.target.onerror = null;
-                          e.target.src = sub.iconUrl;
-                        }}
+                        onError={(e) => { e.currentTarget.style.display = "none"; }}
                       />
                     </div>
 
                     {/* Subcategory Label underneath */}
                     <span className="text-[12px] sm:text-[13px] md:text-sm font-medium text-[#171725] text-center group-hover:text-[#FF6B5A] transition-colors line-clamp-2">
-                      {sub.label}
+                      {sub.name}
                     </span>
                   </Link>
                 );
