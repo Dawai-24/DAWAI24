@@ -1,5 +1,7 @@
 "use server";
-
+import { mkdir, writeFile } from "node:fs/promises";
+import path from "node:path";
+import { randomUUID } from "node:crypto";
 import { db } from "@/lib/db";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
@@ -8,17 +10,205 @@ import { destroySession } from "@/lib/auth";
 const slugify = (v) => v.toLowerCase().trim().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 const refresh = (...paths) => paths.forEach(revalidatePath);
 
+async function saveLocalImage(file, folder) {
+  if (!file || typeof file === "string" || file.size === 0) {
+    return null;
+  }
+
+  const allowedTypes = {
+    "image/jpeg": ".jpg",
+    "image/png": ".png",
+    "image/webp": ".webp",
+  };
+
+  const extension = allowedTypes[file.type];
+
+  if (!extension) {
+    throw new Error("Only JPG, PNG and WEBP images are allowed.");
+  }
+
+  if (file.size > 5 * 1024 * 1024) {
+    throw new Error("Image size must be less than 5MB.");
+  }
+
+  const directory = path.join(
+    process.cwd(),
+    "public",
+    "uploads",
+    folder
+  );
+
+  await mkdir(directory, { recursive: true });
+
+  const filename = `${randomUUID()}${extension}`;
+  const filepath = path.join(directory, filename);
+
+  const buffer = Buffer.from(await file.arrayBuffer());
+
+  await writeFile(filepath, buffer);
+
+  return `/uploads/${folder}/${filename}`;
+}
+
 export async function createCategory(formData) {
-  const name = formData.get("name")?.toString().trim(); if (!name) return;
-  await db.category.create({ data: { name, slug: slugify(formData.get("slug")?.toString() || name), imageUrl: formData.get("imageUrl")?.toString() || null, active: true } });
-  refresh("/admin/categories","/categories","/");
+  const name = formData.get("name")?.toString().trim();
+
+  if (!name) return;
+
+  const uploadedImage = await saveLocalImage(
+    formData.get("image"),
+    "categories"
+  );
+
+  const imageUrl =
+    uploadedImage ||
+    formData.get("imageUrl")?.toString().trim() ||
+    null;
+
+  await db.category.create({
+    data: {
+      name,
+      slug: slugify(formData.get("slug")?.toString() || name),
+      imageUrl,
+      active: true,
+    },
+  });
+
+  refresh("/admin/categories", "/categories", "/");
 }
+
+export async function updateCategory(formData) {
+  const id = formData.get("id")?.toString();
+  const name = formData.get("name")?.toString().trim();
+
+  if (!id || !name) return;
+
+  const uploadedImage = await saveLocalImage(
+    formData.get("image"),
+    "categories"
+  );
+
+  const imageUrl =
+    uploadedImage ||
+    formData.get("imageUrl")?.toString().trim() ||
+    null;
+
+  await db.category.update({
+    where: { id },
+    data: {
+      name,
+      slug: slugify(formData.get("slug")?.toString() || name),
+      imageUrl,
+      active: formData.get("active") === "on",
+    },
+  });
+
+  refresh("/admin/categories", "/categories", "/");
+}
+
 export async function createSubcategory(formData) {
-  const name=formData.get("name")?.toString().trim(), categoryId=formData.get("categoryId")?.toString(); if(!name||!categoryId)return;
-  await db.subcategory.create({data:{name,slug:slugify(formData.get("slug")?.toString()||name),categoryId,active:true}}); refresh("/admin/categories","/categories","/");
+  const name = formData.get("name")?.toString().trim();
+  const categoryId = formData.get("categoryId")?.toString();
+
+  if (!name || !categoryId) return;
+
+  const uploadedImage = await saveLocalImage(
+    formData.get("image"),
+    "subcategories"
+  );
+
+  const imageUrl =
+    uploadedImage ||
+    formData.get("imageUrl")?.toString().trim() ||
+    null;
+
+  await db.subcategory.create({
+    data: {
+      name,
+      slug: slugify(formData.get("slug")?.toString() || name),
+      categoryId,
+      imageUrl,
+      active: true,
+    },
+  });
+
+  refresh("/admin/categories", "/categories", "/");
 }
-export async function deleteSubcategory(formData){const id=formData.get("id")?.toString();await db.$transaction([db.product.updateMany({where:{subcategoryId:id},data:{subcategoryId:null}}),db.subcategory.delete({where:{id}})]);refresh("/admin/categories","/categories","/");}
-export async function deleteCategory(formData) {const id=formData.get("id")?.toString();const count=await db.product.count({where:{categoryId:id}});if(count)await db.$transaction([db.product.updateMany({where:{categoryId:id},data:{active:false}}),db.category.update({where:{id},data:{active:false}})]);else await db.category.delete({where:{id}});refresh("/admin/categories","/categories","/");}
+
+export async function updateSubcategory(formData) {
+  const id = formData.get("id")?.toString();
+  const name = formData.get("name")?.toString().trim();
+
+  if (!id || !name) return;
+
+  const uploadedImage = await saveLocalImage(
+    formData.get("image"),
+    "subcategories"
+  );
+
+  const imageUrl =
+    uploadedImage ||
+    formData.get("imageUrl")?.toString().trim() ||
+    null;
+
+  await db.subcategory.update({
+    where: { id },
+    data: {
+      name,
+      slug: slugify(formData.get("slug")?.toString() || name),
+      imageUrl,
+    },
+  });
+
+  refresh("/admin/categories", "/categories", "/");
+}
+
+export async function deleteSubcategory(formData) {
+  const id = formData.get("id")?.toString();
+
+  if (!id) return;
+
+  await db.$transaction([
+    db.product.updateMany({
+      where: { subcategoryId: id },
+      data: { subcategoryId: null },
+    }),
+    db.subcategory.delete({
+      where: { id },
+    }),
+  ]);
+
+  refresh("/admin/categories", "/categories", "/");
+}
+
+export async function deleteCategory(formData) {
+  const id = formData.get("id")?.toString();
+
+  if (!id) return;
+
+  const count = await db.product.count({
+    where: { categoryId: id },
+  });
+
+  if (count) {
+    await db.$transaction([
+      db.product.updateMany({
+        where: { categoryId: id },
+        data: { active: false },
+      }),
+      db.category.update({
+        where: { id },
+        data: { active: false },
+      }),
+    ]);
+  } else {
+    await db.category.delete({
+      where: { id },
+    });
+  }
+
+  refresh("/admin/categories", "/categories", "/");
+}
 export async function createProduct(formData) {
   const name=formData.get("name")?.toString().trim(); if(!name)return;
   const brandName=formData.get("brand")?.toString().trim();
